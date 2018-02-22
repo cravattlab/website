@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+
+<p>
+<img src="images/blank.jpg">
+<img src="images/alumni.jpg">
+<p>
+
+<table>
+
+    <tr valign="top">
+        <td width=175></td>
+        <td width=225><i><strong>name</strong></i></td>
+        <td width=225><i><strong>former position</strong></i></td>
+        <td width=225><i><strong>current position</strong></i><p><br></td>
+        <td width=0></td>
+    </tr>
+
+    {{ range .Data.Pages }}
+    <tr valign="top">
+        <td width=175></td>
+        <td width=225>{{ .Params.name }}</td>
+        <td width=225>{{ .Params.position }}<br></td>
+        <td width=250>
+
+            {{ if isset .Params "current_position" }}
+            {{ range .Params.current_position }}
+            {{ . }}<br>
+            {{ end }}
+            {{ end }}
+
+            <img src='https://scripps.edu/cgi-bin/cravatt/horiz_label.pl?text={{ replace .Params.email "@" "(at)" }}&mode=email'><br>
+
+            {{ if isset .Params "lab" }}
+            <a href="{{ .Params.lab.url }}">[{{ .Params.lab.text }}]</a>
+            {{ end }}
+            <p><br>
+        </td>
+        <td width=0></td>
+    </tr>
+    {{ end }}
+
+</table>
+
+<div class="last-updated">Last updated on February 1, 2018</div>
+
+{{ end }}

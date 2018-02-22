@@ -1,0 +1,2663 @@
+---
+url: refs.html
+---
+
+<p>
+<img src="images/blank.jpg">
+<img src="images/refs.jpg">
+</p>
+
+<table>
+<tbody><tr>
+<td width="20%"></td>
+<td width="60%">
+
+<font face="arial">
+
+<center>
+<a href="#2017">2017</a> |
+<a href="#2016">2016</a> |
+<a href="#2015">2015</a> |
+<a href="#2014">2014</a> |
+<a href="#2013">2013</a> |
+<a href="#2012">2012</a> |
+<a href="#2011">2011</a> |
+<a href="#2010">2010</a> |
+<a href="#2009">2009</a> |
+<a href="#2008">2008</a> |
+<a href="#2007">2007</a> |
+<a href="#2006">2006</a> |
+<a href="#2005">2005</a> |
+<a href="#2004">2004</a> |
+<a href="#2003">2003</a> |
+<a href="#2002">2002</a> |
+<a href="#2001">2001</a> |
+<a href="#2000">2000</a> |
+<a href="#1999">1999</a> |
+<a href="#1998">1998</a> |
+<a href="#1997">1997</a> |
+<a href="#1996">1996</a> |
+<a href="#1995">1995</a> |
+<a href="#1994">1994</a>
+</center>
+
+
+
+<a name="2017"><h3>2017:</h3></a>
+ 
+<p>Bar-Peled L, Kemper EK, Suciu RM, Vinogradova EV, Backus KM, Horning BD, Paul TA, Ichu TA, Svensson RU, Olucha J, Chang MW, Kok BP, Zhu Z, Ihle NT, Dix MM, Jiang P, Hayward MM, Saez E, Shaw RJ, Cravatt BF. <a href="http://www.cell.com/cell/abstract/S0092-8674(17)31047-4">Chemical Proteomics Identifies Druggable Vulnerabilities in a Genetically Defined Cancer.</a> <em>Cell.</em> <strong>2017</strong>, <em>171</em>, 696-709.</p><img src="images/refs/lbp_kemper_2017.jpg" width="375" height="375" alt=""/>
+ 
+<p>Niessen S, Dix MM, Barbas S, Potter ZE, Lu S, Brodsky O, Planken S, Behenna D, Almaden C, Gajiwala KS, Ryan K, Ferre R, Lazear MR, Hayward MM, Kath JC, Cravatt BF. <a href="http://www.sciencedirect.com/science/article/pii/S245194561730315X">Proteome-wide Map of Targets of T790M-EGFR-Directed Covalent Inhibitors.</a> <em>Cell Chem Biol.</em> <strong>2017</strong>, <em>24</em>, 1388-1400.</p>
+ 
+<p>Lum KM, Sato Y, Beyer BA, Plaisted WC, Anglin JL, Lairson LL, Cravatt BF. <a href="http://pubs.acs.org/doi/abs/10.1021/acschembio.7b00581">Mapping Protein Targets of Bioactive Small Molecules Using Lipid-Based Chemical Proteomics.</a> <em>ACS Chem Biol.</em> <strong>2017</strong>, <em>12</em>, 2671-2681.</p><img src="images/refs/lum_sato_2017.gif" width="500" height="240" alt=""/>
+
+<p>Hacker SM, Backus KM, Lazear MR, Forli S, Correia BE, Cravatt BF. <a href="https://www.nature.com/articles/nchem.2826">Global profiling of lysine reactivity and ligandability in the human proteome.</a> <em>Nat Chem.</em> <strong>2017</strong>, <em>9</em>, 1181-1190.</p>
+ 
+<p>Whitby LR, Obach RS, Simon GM, Hayward MM, Cravatt BF. <a href="http://pubs.acs.org/doi/abs/10.1021/acschembio.7b00346">Quantitative Chemical Proteomic Profiling of the in Vivo Targets of Reactive Drug Metabolites.</a> <em>ACS Chem Biol.</em> <strong>2017</strong>, <em>12</em>, 2040-2050.</p><img src="images/refs/whitby_2017.gif" width="500" height="183" alt=""/>
+
+<p>Kornahrens AF, Cognetta AB 3rd, Brody DM, Matthews ML, Cravatt BF, Boger DL. <a href="http://pubs.acs.org/doi/abs/10.1021/jacs.7b02985">Design of Benzoxathiazin-3-one 1,1-Dioxides as a New Class of Irreversible Serine Hydrolase Inhibitors: Discovery of a Uniquely Selective PNPLA4 Inhibitor.</a> <em>J Am Chem Soc.</em> <strong>2017</strong>, <em>139</em>, 7052-7061.</p>
+
+<p>Parker CG, Galmozzi A, Wang Y, Correia BE, Sasaki K, Joslyn CM, Kim AS, Cavallaro CL, Lawrence RM, Johnson SR, Narvaiza I, Saez E, Cravatt BF. <a href="http://www.cell.com/cell/fulltext/S0092-8674(16)31745-7">Ligand and Target Discovery by Fragment-Based Screening in Human Cells.</a> <em>Cell</em> <strong>2017</strong>, (DOI: 10.1016/j.cell.2016.12.029
+).</p><img src="images/refs/fx1.jpg" width="275" height="275" alt=""/>
+
+<p>Chen YC, Backus KM, Merkulova M, Yang C, Brown D, Cravatt BF, Zhang C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28010062">Covalent Modulators of the Vacuolar ATPase.</a> <em>J. Am. Chem. Soc.</em> <strong>2017</strong>, <em>139</em>, 639–642.</p>
+<img src="images/refs/ja-2016-125114_0005.gif" width="400" height="150" alt=""/> 
+
+<p>Deng H, Kooijman S, van den Nieuwendijk AM, Ogasawara D, van der Wel T, van Dalen F, Baggelaar MP, Janssen FJ, van den Berg RJ, den Dulk H, Cravatt BF, Overkleeft HS, Rensen PC, van der Stelt M. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27992221">Triazole Ureas Act as Diacylglycerol Lipase Inhibitors and Prevent Fasting-Induced Refeeding.</a> <em>J. Med. Chem.</em> <strong>2017</strong>, <em>60</em>, 428–440.</p>
+<img src="images/refs/jm-2016-014823_0012.gif" width="500" height="145" alt=""/>
+
+
+<a name="2016"><h3>2016:</h3></a>
+
+<p>Matthews ML, He L, Horning BD, Olson EJ, Correia BE, Yates JR, Dawson PE, Cravatt BF. <a href="http://www.nature.com/nchem/journal/vaop/ncurrent/full/nchem.2645.html">Chemoproteomic Profiling and Discovery of Protein Electrophiles in Human Cells.</a> <em>Nat. Chem.</em> <strong>2016</strong>, (DOI: 10.1038/nchem.2645).</p>
+<img src="images/refs/nchem.2645-toc.jpg" width="350" height="112" alt=""/>
+
+<p>Sousa-Valente J, Varga A, Torres Perez JV, Jenes A, Wahba J, Mackie K, Cravatt BF, Ueda N, Tsuboi K, Santha P, Jancso G, Tailor H, Avelino A, Nagy I. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27997038">Inflammation of Peripheral Tissues and Injury to Peripheral Nerves Induce Diferring Effects in the Expression of the Calcium-Sensitive Anandamide-Synthesising Enzyme and Related Molecules in Rat Primary Sensory Neurons.</a> <em>J. Comp. Neurol.</em> <strong>2016</strong>, (DOI: 10.1002/cne.24154).</p>
+
+
+<p>Zaro BW, Whitby LR, Lum KM, Cravatt BF. <a href="http://pubs.acs.org/doi/full/10.1021/jacs.6b10589">Metabolically Labile Fumarate Esters Impart Kinetic Selectivity to Irreversible Inhibitors.</a> <em>J. Am. Chem. Soc.</em> <strong>2016</strong>, <em>138</em>, 15841–15844.</p>
+<img src="images/refs/ja-2016-10589s_0005.jpeg" width="402" height="158" alt=""/>
+
+
+<p>Wilkerson JL, Ghosh S, Mustafa M, Abdullah RA, Niphakis MJ, Cabrera R, Maldonado RL, Cravatt BF, Lichtman AH. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27890602">The Endocannabinoid Hydrolysis Inhibitor SA-57: Intrinsic Antinociceptive Effects, Augmented Morphine-Induced Antinociception, and Attenuated Heroin Seeking Behavior in Mice.</a> <em>Neuropharmacology</em> <strong>2016</strong>, <em>114</em>, 156–167.</p>
+
+
+<p>Kory N, Grond S, Kamat SS, Li Z, Krahmer N, Chitraju C, Zhou P, Fröhlich F, Semova I, Ejsing C, Zechner R, Cravatt BF, Farese RV Jr, Walther TC. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27836991">Mice Lacking Lipid Droplet-Associated Hydrolase, a Gene Linked to Human Prostate Cancer, Have Normal Cholesterol Ester Metabolism.</a> <em>J. Lipid. Res.</em> <strong>2016</strong>, <em>58</em>, 226–235.</p>
+
+
+<p>Liu X, Chen Y, Vickstrom CR, Li Y, Viader A, Cravatt BF, Liu QS. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27775008">Coordinated Regulation of Endocannabinoid-Mediated Retrograde Synaptic Suppression in the Cerebellum by Neuronal and Astrocytic Monoacylglycerol Lipase.</a> <em>Sci. Rep.</em> <strong>2016</strong>, (DOI: 10.1038/srep35829).</p>
+
+
+<p>Saghatelian A, Cravatt BF. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27768884">Glucagon and Thyroid Hormone: A Championship Team.</a> <em>Cell</em> <strong>2016</strong>, <em>167</em>, 604–605.</p>
+
+
+<p>Villa GR, Hulce JJ, Zanca C, Bi J, Ikegami S, Cahill GL, Gu Y, Lum KM, Masui K, Yang H, Rong X, Hong C, Turner KM, Liu F, Hon GC, Jenkins D, Martini M, Armando AM, Quehenberger O, Cloughesy TF, Furnari FB, Cavenee WK, Tontonoz P, Gahman TC, Shiau AK, Cravatt BF, Mischel PS. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27746144">An LXR-Cholesterol Axis Creates a Metabolic Co-Dependency for Brain Cancers.</a> <em>Cancer Cell.</em> <strong>2016</strong>, <em>30</em>, 683–693.</p>
+<img src="images/1-s2.0-S1535610816304433-fx1.jpg" width="375" height="315" alt=""/>
+
+
+<p>Horning BD, Suciu RM, Ghadiri DA, Ulanovskaya OA, Matthews ML, Lum KM, Backus KM, Brown SJ, Rosen H, Cravatt BF. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27689866">Chemical Proteomic Profiling of Human Methyltransferases.</a> <em>J. Am. Chem. Soc.</em> <strong>2016</strong>, <em>138</em>, 13335–13343.</p>
+<img src="images/ja-2016-07830j_0009.gif" width="350" height="186" alt=""/>
+
+
+<p>Blewett MM, Xie J, Zaro BW, Backus KM, Altman A, Teijaro JR, Cravatt BF. <a href="http://stke.sciencemag.org/content/9/445/rs10.long">Chemical Proteomic Map of Dimethyl Fumarate-Sensitive Cysteines in Primary Human T Cells.</a> <em>Sci. Signal.</em> <strong>2016</strong>, <em>9</em>, 1–10.</p>
+
+
+<p>Grüner BM, Schulze CJ, Yang D, Ogasawara D, Dix MM, Rogers ZN, Chuang CH, McFarland CD, Chiou SH, Brown JM, Cravatt BF, Bogyo M, Winslow MM. <a href="http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3992.html">An in vivo Multiplexed Small-Molecule Screening Platform.</a> <em>Nat. Methods.</em> <strong>2016</strong>, <em>13</em>, 883–889.</p>
+
+
+<p>Dugan A, Majmudar CY, Pricer RE, Niessen S, Lancia JK, Fung HY, Cravatt BF, Mapp AK. <a href="http://pubs.acs.org/doi/abs/10.1021/jacs.6b07680">Discovery of Enzymatic Targets of Transcriptional Activators via in vivo Covalent Chemical Capture.</a> <em>J. Am. Chem. Soc.</em> <strong>2016</strong>, <em>138</em>, 12629–12635.</p>
+<img src="images/ja-2016-07680g_0005.gif" width="333" height="143" alt=""/>
+
+
+<p>Burston JJ, Mapp PI, Sarmad S, Barrett DA, Niphakis MJ, Cravatt BF, Walsh DA, Chapman V. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27501482">Robust Anti-Nociceptive Effects of MAG Lipase Inhibition in a Model of Osteoarthritis Pain.</a> <em>Br. J. Pharmacol.</em> <strong>2016</strong>, <em>173</em>, 3134–3144.</p>
+
+
+<p>Kolar MJ, Kamat SS, Parsons WH, Homan EA, Maher T, Peroni OD, Syed I, Fjeld K, Molven A, Kahn BB, Cravatt BF, Saghatelian A. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27509211">Branched Fatty Acid Esters of Hydroxy Fatty Acids are Preferred Substrates of the MODY8 Protein Carboxyl Ester Lipase.</a> <em>Biochemistry</em> <strong>2016</strong>, <em>55</em>, 4636–4641.</p>
+<img src="images/refs/bi-2016-005654_0006.gif" width="313" height="143" alt=""/>
+
+
+<p>Tada N, Jansen DJ, Mower MP, Blewett MM, Umotoy JC, Cravatt BF, Wolan DW, Shenvi RA. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27413784">Synthesis and Sulfur Electrophilicity of the Nuphar Thiaspirane Pharmacophore.</a> <em>ACS Cent. Sci.</em> <strong>2016</strong>, <em>2</em>, 401–408.</p>
+<img src="images/refs/oc-2016-00113a_0014.gif" width="370" height="143" alt=""/>
+
+
+<p>Wiley JL, Lefever TW, Pulley NS, Marusich JA, Cravatt BF, Lichtman AH. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27385208">Just Add Water: Cannabinoid Discrimination in a Water T-Maze with FAAH(-/-) and FAAH(+/+) Mice.</a> <em>Behav. Pharmacol.</em> <strong>2016</strong>, <em>27</em>, 479–484.</p>
+
+<p>Ogura Y, Parsons WH, Kamat SS, Cravatt BF. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27399000">A Calcium-Dependent Acyltransferase that Produces N-Acyl Phosphatidylethanolamines.</a> <em>Nat. Chem. Biol.</em> <strong>2016</strong>, <em>12</em>, 669–671.</p>
+
+<p>Briggs KJ, Koivunen P, Cao S, Backus KM, Olenchock BA, Patel H, Zhang Q, Signoretti S, Gerfen GJ, Richardson AL, Witkiewicz AK, Cravatt BF, Clardy J, Kaelin WG Jr. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27368101">Paracrine Induction of HIF by Glutamate in Breast Cancer: EglN1 Senses Cysteine.</a> <em>Cell</em> <strong>2016</strong>, <em>166</em>, 126–139.</p>
+
+<p>Backus KM, Correia BE, Lum KM, Forli S, Horning BD, González-Páez GE, Chatterjee S, Lanning BR, Teijaro JR, Olson AJ, Wolan DW, Cravatt BF. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27309814">Proteome-Wide Covalent Ligand Discovery in Native Biological Systems.</a> <em>Nature</em> <strong>2016</strong>, <em>534</em>, 570–574.</p>
+
+<p>Owens RA, Ignatowska-Jankowska BM, Mustafa M, Beardsley PM, Wiley JL, Jali A, Selley DE, Niphakis M, Cravatt BF, Lichtman AH. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27307500">Discriminative Stimulus Properties of the Endocannabinoid Catabolic Enzyme Inhibitor SA-57 in Mice.</a> <em>J. Pharmacol. Exp. Ther. </em> <strong>2016</strong>, <em>358</em>, 306–314.</p>
+
+
+<p>Chen W, Dong J, Plate L, Mortenson DE, Brighty GJ, Li S, Liu Y, Galmozzi A, Lee PS, Hulce JJ, Cravatt BF, Saez E, Powers ET, Wilson IA, Sharpless KB, Kelly JW. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27191344">Arylfluorosulfates Inactivate Intracellular Lipid Binding Protein(s) through Chemoselective SuFEx Reaction with a Binding Site Tyr Residue.</a> <em>J. Am. Chem. Soc.</em> <strong>2016</strong>, <em>138</em>, 7353–7364.</p>
+<img src="images/refs/ja-2016-02960v_0008.gif" width="348" height="200" alt=""/>
+
+
+<p> Wills KL, Petrie GN, Millett G, Limebeer CL, Rock EM, Niphakis MJ, Cravatt BF, Parker LA. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26647976">Double Dissociation of Monoacylglycerol Lipase Inhibition and CB1 Antagonism in the Central Amygdala, Basolateral Amygdala, and the Interoceptive Insular Cortex on the Affective Properties of Acute Naloxone-Precipitated Morphine Withdrawal in Rats.</a> <em>Neuropsychopharmacology</em> <strong>2016</strong>, <em>41</em>, 1865–1873.</p>
+
+
+<p> Chen Y, Liu X, Vickstrom CR, Liu MJ, Zhao L, Viader A, Cravatt BF, Liu QS. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27182552">Neuronal and Astrocytic Monoacylglycerol Lipase Limit the Spread of Endocannabinoid Signaling in the Cerebellum.</a> <em>eNeuro.</em> <strong>2016</strong>, <em>3</em>, 1–13.</p>
+
+
+<p> Parsons WH, Kolar MJ, Kamat SS, Cognetta AB, Hulce JJ, Saez E, Kahn BB, Saghatelian A, Cravatt BF. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27018888">AIG1 and ADTRP are Atypical Integral Membrane Hydrolases that Degrade Bioactive FAHFAs.</a> <em>Nat. Chem. Biol.</em> <strong>2016</strong>, <em>5</em>, 367–372.
+<p><img src="images/refs/nchembio.2051-toc.jpg" width="365" height="200" alt=""/></p>
+
+
+<p> Panlilio LV, Thorndike EB, Nikas SP, Alapafuja SO, Bandiera T, Cravatt BF, Makriyannis A, Piomelli D, Goldberg SR, Justinova Z. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26558620">Effects of Fatty Acid Amide Hydrolase (FAAH) Inhibitors on Working Memory in Rats.</a> <em>Psychopharmacology (Berl)</em> <strong>2016</strong>, <em>10</em>, 1879–1888.</p>
+
+
+<p> Limebeer CL, Rock EM, Puvanenthirarajah N, Niphakis MJ, Cravatt BF, Parker LA. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26974857">Elevation of 2-AG by Monoacylglycerol Lipase Inhibition in the Visceral Insular Cortex Interferes with Anticipatory Nausea in a Rat Model.</a> <em>Behav. Neurosci. </em> <strong>2016</strong>, <em>2</em>, 261–266.</p>
+
+
+<p> Wilkerson JL, Niphakis MJ, Grim TW, Mustafa MA, Abdullah RA, Poklis JL, Dewey WL, Akbarali H, Banks ML, Wise LE, Cravatt BF, Lichtman AH. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26791602">The Selective Monoacylglycerol Lipase Inhibitor MJN110 Produces Opioid-Sparing Effects in a Mouse Neuropathic Pain Model.</a> <em>J. Pharmacol. Exp. Ther.</em> <strong>2016</strong>, <em>1</em>, 145–156.</p>
+
+
+<p> Wang B, Rong X, Duerr MA, Hermanson DJ, Hedde PN, Wong JS, de Aguiar Vallim TQ, Cravatt BF, Gratton E, Ford DA, Tontonoz P. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26833026">Intestinal Phospholipid Remodeling Is Required for Dietary-Lipid Uptake and Survival on a High-Fat Diet.</a> <em>Cell Metab.</em> <strong>2016</strong>, <em>3</em>, 492–504.
+<p><img src="images/refs/1-s2.0-S1550413116000024-fx1.jpg" width="375" height="375" alt=""/></p>
+
+
+
+<p> Sticht MA, Limebeer CL, Rafla BR, Abdullah RA, Poklis JL, Ho W, Niphakis MJ, Cravatt BF, Sharkey KA, Lichtman AH, Parker LA. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26541329">Endocannabinoid Regulation of Nausea is Mediated by 2-Arachidonoylglycerol (2-AG) in the Rat Visceral Insular Cortex.</a> <em>Neuropharmacology</em> <strong>2016</strong>, <em>102</em>, 92–102.</p>
+
+
+<p> Buczynski MW, Herman MA, Hsu KL, Natividad LA, Irimia C, Polis IY, Pugh H, Chang JW, Niphakis MJ, Cravatt BF, Roberto M, Parsons LH. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26755579">Diacylglycerol Lipase Disinhibits VTA Dopamine Neurons During Chronic Nicotine Exposure.</a> <em>Proc. Natl. Acad. Sci. USA</em> <strong>2016</strong>, <em>4</em>, 1086–1091.</p>
+
+
+<p> Viader A, Ogasawara D, Joslyn CM, Sanchez-Alavez M, Mori S, Nguyen W, Conti B, Cravatt BF. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26779719">A Chemical Proteomic Atlas of Brain Serine Hydrolases Identifies Cell Type-Specific Pathways Regulating Neuroinflammation.</a> <em>eLife</em> <strong>2016</strong>, <em>5</em>, e12345.</p>
+
+
+<p> Ogasawara D, Deng H, Viader A, Baggelaar MP, Breman A, den Dulk H, van den Nieuwendijk AM, Soethoudt M, van der Wel T, Zhou J, Overkleeft HS, Sanchez-Alavez M, Mo S, Nguyen W, Conti B, Liu X, Chen Y, Liu QS, Cravatt BF, van der Stelt M. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26668358">Rapid and Profound Rewiring of Brain Lipid Signaling Networks by Acute Diacylglycerol Lipase Inhibition.</a> <em>Proc. Natl. Acad. Sci. USA</em> <strong>2016</strong>, 1, 26–33.</p>
+
+
+
+<a name="2015"><h3>2015:</h3></a>
+
+
+<p> Janssen FJ, Baggelaar MP, Hummel JJ, Overkleeft HS, Cravatt BF, Boger DL, van der Stelt M. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26584396">Comprehensive Analysis of Structure-Activity Relationships of α-Ketoheterocycles as sn-1-Diacylglycerol Lipase α Inhibitors.</a> <em>J. Med. Chem.</em> <strong>2015</strong>, <em>24</em>, 9742–9753.
+<p><img src="images/refs/jm-2015-01627f_0014.gif" width="375" height="150" alt=""/></p>
+
+
+
+
+
+
+<p> Vázquez C, Tolón RM, Grande MT, Caraza M, Moreno M, Koester EC, Villaescusa B, Ruiz-Valdepeñas L, Fernández-Sánchez FJ, Cravatt BF, Hillard CJ, Romero J. Endocannabinoid regulation of amyloid-induced neuroinflammation.
+  <b>Neurobiol Aging.</b> 2015 Aug 15. pii: S0197-4580(15)00414-5.
+  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26362942">[Pubmed]</a>
+</p>
+
+<p> Rock EM, Limebeer CL, Ward JM, Cohen A, Grove K, Niphakis MJ, Cravatt BF, Parker LA. Interference with acute nausea and anticipatory nausea in rats by fatty acid amide hydrolase (FAAH) inhibition through a PPARα and CB1 receptor mechanism, respectively: a double dissociation.
+ <b>Psychopharmacology (Berl).</b> 2015 Oct;232(20):3841-8.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26297326">[Pubmed]</a>
+</p>
+
+<p> Sanchez-Alavez M, Nguyen W, Mori S, Moroncini G, Viader A, Nomura DK, Cravatt BF, Conti B. Monoacylglycerol Lipase Regulates Fever Response.
+ <b>PLoS One</b> 2015 Aug 19;10(8):e0134437.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26287872">[Pubmed]</a>
+</p>
+
+<p> Craney A, Dix MM, Adhikary R, Cravatt BF, Romesberg FE. An Alternative Terminal Step of the General Secretory Pathway in Staphylococcus aureus.
+ <b>MBio</b> 2015 Aug 18;6(4). pii: e01178-15.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26286693">[Pubmed]</a>
+</p>
+
+<p> Viader A, Blankman JL, Zhong P, Liu X, Schlosburg JE, Joslyn CM, Liu QS, Tomarchio AJ, Lichtman AH, Selley DE, Sim-Selley LJ, Cravatt BF. Metabolic Interplay between Astrocytes and Neurons Regulates Endocannabinoid Action.
+ <b>Cell Rep</b> 2015 Aug 4;12(5):798-808.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26212325">[Pubmed]</a>
+</p>
+
+<p> Cognetta AB 3rd, Niphakis MJ, Lee HC, Martini ML, Hulce JJ, Cravatt BF. Selective N-Hydroxyhydantoin Carbamate Inhibitors of Mammalian Serine Hydrolases.
+ <b>Chem Biol</b> 2015 Jul 23;22(7):928-37.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26120000">[Pubmed]</a>
+</p>
+
+<p> Niphakis MJ, Lum KM, Cognetta AB 3rd, Correia BE, Ichu TA, Olucha J, Brown SJ, Kundu S, Piscitelli F, Rosen H, Cravatt BF. A Global Map of Lipid-Binding Proteins and Their Ligandability in Cells.
+ <b>Cell</b> 2015 Jun 18;161(7):1668-80.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26091042">[Pubmed]</a>
+</p>
+
+<p> Baggelaar MP, Chameau PJ, Kantae V, Hummel J, Hsu KL, Janssen F, van der Wel T, Soethoudt M, Deng H, den Dulk H, Allarà M, Florea BI, Di Marzo V, Wadman WJ, Kruse CG, Overkleeft HS, Hankemeier T, Werkman TR, Cravatt BF, van der Stelt M. Highly Selective, Reversible Inhibitor Identified by Comparative Chemoproteomics Modulates Diacylglycerol Lipase Activity in Neurons.
+ <b>J Am Chem Soc</b> 2015 Jul 15; 137(27):8851-7.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26083464">[Pubmed]</a>
+</p>
+
+<p> Schreiber SL, Kotz JD, Li M, Aubé J, Austin CP, Reed JC, Rosen H, White EL, Sklar LA, Lindsley CW, Alexander BR, Bittker JA, Clemons PA, de Souza A, Foley MA, Palmer M, Shamji AF, Wawer MJ, McManus O, Wu M, Zou B, Yu H, Golden JE, Schoenen FJ, Simeonov A, Jadhav A, Jackson MR, Pinkerton AB, Chung TD, Griffin PR, Cravatt BF, Hodder PS, Roush WR, Roberts E, Chung DH, Jonsson CB, Noah JW, Severson WE, Ananthan S, Edwards B, Oprea TI, Conn PJ, Hopkins CR, Wood MR, Stauffer SR, Emmitte KA; NIH Molecular Libraries Project Team. 
+<br>Advancing Biological Understanding and Therapeutics Discovery with Small-Molecule Probes.
+ <b>Cell</b> 2015 Jun 4;161:1252-1265. 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26046436">[Pubmed]</a>
+</p>
+
+<p> Bilbao A, Serrano A, Cippitelli A, Pavón FJ, Giuffrida A, Suárez J, García-Marchena N, Baixeras E, Gómez de Heras R, Orio L, Alén F, Ciccocioppo R, Cravatt BF, Parsons LH, Piomelli D, Rodríguez de Fonseca F. Role of the satiety factor oleoylethanolamide in alcoholism.
+ <b>Addict Biol</b> 2015 Jun 2. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/26037332">[Pubmed]</a>
+</p>
+
+<p> Ghosh S, Kinsey SG, Liu QS, Hruba L, McMahon LR, Grim TW, Merritt CR, Wise LE, Abdulla RA, Selley DE, Sim-Selley L, Cravatt BF, Lichtman AH. Full FAAH inhibition combined with partial monoacylglycerol lipase inhibition: Augmented and sustained antinociceptive effects with negligible cannabimimetic side effects in mice.
+ <b>J Pharmacol Exp Ther</b> 2015 May 21. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25998048">[Pubmed]</a>
+</p>
+
+<p> Kohnz RA, Mulvihill MM, Chang JW, Hsu KL, Sorrentino A, Cravatt BF, Bandyopadhyay S, Goga A, Nomura DK. Activity-Based Protein Profiling of Oncogene-Driven Changes in Metabolism Reveals Broad Dysregulation of PAFAH1B2 and 1B3 in Cancer.
+ <b>ACS Chem Biol</b> 2015 May 7. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25945974">[Pubmed]</a>
+</p>
+
+<p> Vázquez C, Tolón RM, Pazos MR, Moreno M, Koester EC, Cravatt BF, Hillard CJ, Romero J. Endocannabinoids regulate the activity of astrocytic hemichannels and the microglial response against an injury: In vivo studies
+ <b>Neurobiol Dis</b> 2015 Jul;79:41-50.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25917763">[Pubmed]</a>
+</p>
+
+<p> Lee HC, Simon GM, Cravatt BF. ABHD4 Regulates Multiple Classes of N-Acyl Phospholipids in the Mammalian Central Nervous System.
+ <b>Biochemistry</b> 2015 Apr 8. [Epub ahead of print] 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25853435">[Pubmed]</a>
+</p>
+
+<p> Ignatowska-Jankowska BM, Wilkerson JL, Mustafa M, Abdullah R, Niphakis M, Wiley JL, Cravatt BF, Lichtman AH. Selective Monoacylglycerol Lipase Inhibitors: Antinociceptive versus Cannabimimetic Effects in Mice.
+ <b>J Pharmacol Exp Ther</b> 2015 Mar 11. [Epub ahead of print] 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25762694">[Pubmed]</a>
+</p>
+
+<p> Dincheva I, Drysdale AT, Hartley CA, Johnson DC, Jing D, King EC, Ra S, Gray JM, Yang R, DeGruccio AM, Huang C, Cravatt BF, Glatt CE, Hill MN, Casey BJ, Lee FS. FAAH genetic variation enhances fronto-amygdala function in mouse and human.
+ <b>Nat Commun</b> 2015 Mar 3;6:6395. 
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25731744">[Pubmed]</a>
+</p>
+
+<p> Nass SR, Long JZ, Schlosburg JE, Cravatt BF, Lichtman AH, Kinsey SG.  Endocannabinoid Catabolic Enzymes Play Differential Roles in Thermal Homeostasis in Response to Environmental or Immune Challenge.
+ <b>J Neuroimmune Pharmacol</b> 2015 Feb 27. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25715681">[Pubmed]</a>
+</p>
+
+<p> Hruba L, Seillier A, Zaki A, Cravatt BF, Lichtman AH, Giuffrida A, McMahon LR.  Simultaneous inhibition of Fatty Acid amide hydrolase and monoacylglycerol lipase shares discriminative stimulus effects with δ9-tetrahydrocannabinol in mice.
+ <b>J Pharmacol Exp Ther</b> 2015 May;353:261-8.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25711338">[Pubmed]</a>
+</p>
+
+<p> Adachi S, Cognetta AB 3rd, Niphakis MJ, He Z, Zajdlik A, St Denis JD, Scully CC, Cravatt BF, Yudin AK.  Facile synthesis of borofragments and their evaluation in activity-based protein profiling.
+ <b>Chem Commun (Camb)</b> 2015 Feb 12;51:3608-11.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25633248">[Pubmed]</a>
+</p>
+
+<p> Chang JW, Zuhl AM, Speers AE, Niessen S, Brown SJ, Mulvihill MM, Fan YC, Spicer TP, Southern M, Scampavia L, Fernandez-Vega V, Dix MM, Cameron MD, Hodder PS, Rosen H, Nomura DK, Kwon O, Hsu KL, Cravatt BF.  Selective Inhibitor of Platelet-Activating Factor Acetylhydrolases 1b2 and 1b3 That Impairs Cancer Cell Survival.
+ <b>ACS Chem Biol.</b> 2015 Jan 20. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25602368">[Pubmed]</a>
+</p>
+
+<p> Kamat SS, Camara K, Parsons WH, Chen DH, Dix MM, Bird TD, Howell AR, Cravatt BF. Immunomodulatory lysophosphatidylserines are regulated by ABHD16A and ABHD12 interplay.
+ <b>Nat Chem Biol.</b> 2015 Jan 12. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25580854">[Pubmed]</a>
+</p>
+
+<p> Camara K, Kamat SS, Lasota CC, Cravatt BF, Howell AR. Combining cross-metathesis and activity-based protein profiling: New β-lactone motifs for targeting serine hydrolases.
+ <b>Bioorg Med Chem Lett.</b> 2015 Jan 15;25(2):317-21.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25541002">[Pubmed]</a>
+</p>
+
+<p> Hulce JJ, Joslyn C, Speers AE, Brown SJ, Spicer T, Fernandez-Vega V, Ferguson J, Cravatt BF, Hodder P, Rosen H. An in Vivo Active Carbamate-based Dual Inhibitor of Lysophospholipase 1 (LYPLA1) and Lysophospholipase 2 (LYPLA2).
+ <b>Probe Reports from the NIH Molecular Libraries Program</b> 2013 Dec 9
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25506974">[Pubmed]</a>
+</p>
+
+<p> Gamage TF, Ignatowska-Jankowska BM, Muldoon PP, Cravatt BF, Damaj MI, Lichtman AH. Differential effects of endocannabinoid catabolic inhibitors on morphine withdrawal in mice.
+ <b>Drug Alcohol Depend</b> 2015 Jan 1;146:7-16
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25479915">[Pubmed]</a>
+</p>
+
+<a name="2014"><h3>2014:</h3></a>
+
+<p> Cravatt BF, Kodadek T. Editorial overview: Omics: Methods to monitor and manipulate biological systems: recent advances in 'omics'.
+ <b>Curr Opin Chem Biol.</b> 2014 Dec 27. pii: S1367-5931(14)00193-8.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25549533">[Pubmed]</a>
+</p>
+
+<p> Galmozzi A, Sonne SB, Altshuler-Keylin S, Hasegawa Y, Shinoda K, Luijten IH, Chang JW, Sharp LZ, Cravatt
+  BF, Saez E, Kajimura S. ThermoMouse: An In Vivo Model to Identify Modulators of UCP1 Expression in Brown
+  Adipose Tissue.
+ <b>Cell Rep</b> 2014 Dec 11;9(5):1584-93
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25466254">[Pubmed]</a>
+</p>
+
+<p> Zhao N, Darby CM, Small J, Bachovchin DA, Jiang X, Burns-Huang KE, Botella H, Ehrt S, Boger DL, Anderson
+  ED, Cravatt BF, Speers AE, Fernandez-Vega V, Hodder PS, Eberhart C, Rosen H, Spicer TP, Nathan
+  CF. Target-Based Screen Against a Periplasmic Serine Protease That Regulates Intrabacterial pH Homeostasis
+  in Mycobacterium tuberculosis.
+ <b>ACS Chem Biol</b> 2014 Dec 5. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25457457">[Pubmed]</a>
+</p>
+
+<p> Cravatt BF. TRP Channels-Convergent Sites of Action for Phytochemicals and Endogenous Lipid Transmitters That Regulate
+  Human Sensation and Physiology.
+ <b>ACS Chem Neurosci</b> 2014 Nov 19;5(11):1083
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25406930">[Pubmed]</a>
+</p>
+
+<p> Wiebelhaus JM, Grim TW, Owens RA, Lazenka MF, Sim-Selley LJ, Abdullah RA, Niphakis MJ, Vann RE, Cravatt
+  BF, Wiley JL, Negus SS, Lichtman AH.
+  Delta-9 tetrahydrocannabinol (THC) and endocannabinoid degradative enzyme inhibitors attenuate intracranial
+  self-stimulation (ICSS) in mice. <b>J Pharmacol Exp Ther</b> 2014 Nov 14. [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25398241">[Pubmed]</a>
+</p>
+
+<p> Manna JD, Wepy JA, Hsu K, Chang JW, Cravatt BF, Marnett LJ. (2014) Identification of the Major
+  Prostaglandin Glycerol Ester Hydrolase in Human Cancer Cells. <b>J Biol Chem</b> 2014 Oct 9. [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25301951">[Pubmed]</a>
+</p>
+
+<p> Inloes JM, Hsu KL, Dix MM, Viader A, Masuda K, Takei T, Wood MR, Cravatt BF. (2014) The hereditary
+  spastic paraplegia-related enzyme DDHD2 is a principal brain triglyceride lipase.
+<b>Proc Natl Acad Sci USA</b> 2014 Sep 29. [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25267624">[Pubmed]</a>
+</p>
+
+<p> Muldoon PP, Chen J, Harenza JL, Abdullah RA, Sim-Selley LJ, Cravatt BF, Miles MF, Chen X, Lichtman AH,
+  Damaj MI. (2014) Inhibition of monoacylglycerol lipase enzyme reduces nicotine withdrawal. <b>Br J
+ Pharmacol</b> 2014 Sep 26 [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25258021">[Pubmed]</a>
+</p>
+
+<p> Zhang Z, Wang W, Zhong P, Liu SJ, Long JZ, Zhao L, Gao HQ, Cravatt BF, Liu QS. (2014) Blockade of
+  2-arachidonoylglycerol hydrolysis produces antidepressant-like effects and enhances adult hippocampal
+  neurogenesis and synaptic plasticity. <b>Hippocampus</b> 2014 Aug 12. [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25131612">[Pubmed]</a>
+</p>
+
+<p> Chang CJ, Cravatt BF, Johnson DS, Lim MH. (2014) Molecular medicine and neurodegenerative
+  diseases.  <b>Chem Soc Rev</b> 2014 Aug 8. [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25105517">[Pubmed]</a>
+</p>
+
+<p> Parker LA, Niphakis MJ, Downey R, Limebeer CL, Rock EM, Sticht MA, Morris H, Abdullah RA, Lichtman AH,
+  Cravatt BF. (2014) Effect of selective inhibition of monoacylglycerol lipase (MAGL) on acute nausea,
+  anticipatory nausea, and vomiting in rats and Suncus murinus.  <b>Psychopharmacology</b> 2014 Aug 3. [Epub
+  ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25085768">[Pubmed]</a>
+</p>
+
+<p> Grim TW, Ghosh S, Hsu KL, Cravatt BF, Kinsey SG, Lichtman AH. (2014) Combined inhibition of FAAH and COX
+  produces enhanced anti-allodynic effects in mouse neuropathic and inflammatory pain models.  <b>Pharmacol Biochem Behav</b> 2014;124C:405-411.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25058512">[Pubmed]</a>
+</p>
+
+<p> Kambe T, Correia BE, Niphakis MJ, Cravatt BF. (2014) Mapping the protein interaction landscape for fully
+    functionalized small-molecule probes in human cells. <b>J Am Chem Soc</b> 2014;136:10777.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25045785">[Pubmed]</a>
+</p>
+
+<p> Lanning BR, Whitby LR, Dix MM, Douhan J, Gilbert AM, Hett EC, Johnson TO, Joslyn C, Kath JC, Niessen S,
+    Roberts LR, Schnute ME, Wang C, Hulce JJ, Wei B, Whiteley LO, Hayward MM, Cravatt BF. (2014) A road map
+    to evaluate the proteome-wide selectivity of covalent kinase inhibitors. <b>Nat Chem Biol</b> 2014 Jul
+    13. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25038787">[Pubmed]</a>
+</p>
+
+<p> Naydenov AV, Horne EA, Cheah CS, Swinney K, Hsu KL, Cao JK, Marrs WR, Blankman JL, Tu S, Cherry AE, Fung
+    S, Wen A, Li W, Saporito MS, Selley DE, Cravatt BF, Oakley JC, Stella N. (2014) ABHD6 Blockade Exerts Antiepileptic Activity in PTZ-Induced Seizures and in Spontaneous Seizures
+    in R6/2 Mice. <b>Neuron</b> 2014;83:361.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25033180">[Pubmed]</a>
+</p>
+
+<p> Alpár A, Tortoriello G, Calvigioni D, Niphakis MJ, Milenkovic I, Bakker J, Cameron GA, Hanics J, Morris
+    CV, Fuzik J, Kovacs GG, Cravatt BF, Parnavelas JG, Andrews WD, Hurd YL, Keimpema E, Harkany T. (2014)
+    Endocannabinoids modulate cortical development by configuring Slit2/Robo1 signalling. <b>Nat Commun</b> 2014;5:4421.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25030704">[Pubmed]</a>
+</p>
+
+<p> Niphakis MJ, Cravatt BF. (2014) Enzyme inhibitor discovery by activity-based protein profiling. <b>Annu
+    Rev Biochem</b> 2014;83:341.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24905785">[Pubmed]</a>
+</p>
+
+<p>Schlosburg JE, Kinsey SG, Ignatowska-Jankowska B, Ramesh D, Abdullah RA, Tao Q, Booker L, Long JZ, Selley
+  DE, Cravatt BF, Lichtman AH. (2014)Prolonged monoacylglycerol lipase blockade causes equivalent cannabinoid
+  receptor type 1 receptor-mediated adaptations in Fatty Acid amide hydrolase wild-type and knockout mice. <b>J Pharmacol Exp Ther</b> 2014;350:196.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24849924">[Pubmed]</a>
+</p>
+
+<p> Hama AT, Germano P, Varghese MS, Cravatt BF, Milne GT, Pearson JP, Sagen J. (2014) Fatty acid amide
+  hydrolase (FAAH) inhibitors exert pharmacological effects, but lack antinociceptive efficacy in rats with
+  neuropathic spinal cord injury pain. <b>PLoS One</b> 2014;9:e96396.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24788435">[Pubmed]</a>
+</p>
+
+<p> Deng X, Liang H, Ulanovskaya OA, Ji Q, Zhou T, Sun F, Lu Z, Hutchison AL, Lan L, Wu M, Cravatt BF, He
+C. (2014) Steady-state hydrogen peroxide induces glycolysis in Staphylococcus aureus and Pseudomonas
+aeruginosa. <b>J Bacteriol</b> 2014 Apr 25. [Epub ahead of print]
+<a href="http://http://www.ncbi.nlm.nih.gov/pubmed/24769698">[Pubmed]</a>
+</p>
+
+<p> Rajagopalan S, Wang C, Yu K, Kuzin AP, Richter F, Lew S, Miklos AE, Matthews ML, Seetharaman J, Su M, Hunt
+JF, Cravatt BF, Baker D. (2014) Design of activated serine-containing catalytic triads with atomic-level
+accuracy. <b>Nat Chem Biol</b> 2014;10:386-91.
+<a href="http://http://www.ncbi.nlm.nih.gov/pubmed/24705591">[Pubmed]</a>
+</p>
+
+<p> Adibekian A, Martin BR, Chang JW, Hsu KL, Tsuboi K, Bachovchin DA, Speers AE, Brown SJ, Spicer T,
+Fernandez-Vega V, Ferguson J, Cravatt BF, Hodder P, Rosen H. (2014) Characterization of a Selective, Reversible Inhibitor of
+Lysophospholipase 2 (LYPLA2). <b>Probe Reports from the NIH Molecular Libraries Program</b> updated 2014 Jan 13.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24624468">[Pubmed]</a>
+</p>
+
+<p> Dix MM, Simon GM, Cravatt BF. (2014) Global Identification of Caspase Substrates Using PROTOMAP (Protein
+Topography and Migration Analysis Platform) <b>Methods Mol Biol</b> 2014;1133:61-70.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=historysearch&querykey=1">[Pubmed]</a>
+</p>
+
+<p> Galmozzi A, Dominguez E, Cravatt BF, Saez E. (2014) Application of Activity-Based Protein Profiling to
+Study Enzyme Function in Adipocytes. <b>Methods Enzymol</b> 2014;538C:151-169. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24529438">[Pubmed]</a>
+</p>
+
+<p> Zhong P, Wang W, Pan B, Liu X, Zhang Z, Long JZ, Zhang HT, Cravatt BF, Liu QS. (2014) Monoacylglycerol
+Lipase Inhibition Blocks Chronic Stress-Induced Depressive-Like Behaviors via Activation of mTOR
+Signaling. <b>Neuropsychopharmacology</b> 2014 Jan 30. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24476943">[Pubmed]</a>
+</p>
+
+<p> Otrubova K, Cravatt BF, Boger DL. (2014) Design, Synthesis, and Characterization of α-Ketoheterocycles
+That Additionally Target the Cytosolic Port Cys269 of Fatty Acid Amide Hydrolase. <b>J Med Chem</b> 2014 Feb 13;57(3):1079-89.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24456116">[Pubmed]</a>
+</p>
+
+<p> Lajkiewicz NJ, Cognetta AB 3rd, Niphakis MJ, Cravatt BF, Porco JA Jr. (2013) Remodeling Natural Products:
+Chemistry and Serine Hydrolase Activity of a Rocaglate-Derived β-Lactone. <b>J Am Chem Soc</b> 2014 Feb 12;136(6):2659-64.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24447064">[Pubmed]</a>
+</p>
+
+<p> Dominguez E, Galmozzi A, Chang JW, Hsu KL, Pawlak J, Li W, Godio C, Thomas J, Partida D, Niessen S,
+O'Brien PE, Russell AP, Watt MJ, Nomura DK, Cravatt BF, Saez E. (2013) Integrated phenotypic and
+activity-based profiling links Ces3 to obesity and diabetes. <b>Nat Chem Biol</b> 2014 Feb;10(2):113-21.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24362705">[Pubmed]</a>
+</p>
+
+<a name="2013"><h3>2013:</h3></a>
+
+<p> Ward J, Spath SN, Pabst B, Carpino PA, Ruggeri RB, Xing G, Speers AE, Cravatt BF, Ahn K. (2013)
+Mechanistic characterization of a 2-thioxanthine myeloperoxidase inhibitor and selectivity assessment
+utilizing click chemistry-activity-based protein profiling.
+<b>Biochemistry</b> 2013 Dec 23;52(51):9187-201.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24320749">[Pubmed]</a>
+</p>
+
+<p> Yun B, Lee H, Ghosh M, Cravatt BF, Hsu KL, Bonventre JV, Ewing H, Gelb MH, Leslie CC. (2013) Serine
+hydrolase inhibitors block necrotic cell death by preventing calcium overload of the mitochondria and
+permeability transition pore formation. <b>J Biol Chem</b> 2013 Dec 2. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24297180">[Pubmed]</a>
+</p>
+
+<p> Wang C, Weerapana E, Blewett MM, Cravatt BF. (2013) A chemoproteomic platform to quantitatively map targets of lipid-derived electrophiles.
+<b>Nat Methods</b> 2013 Dec 1. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24292485">[Pubmed]</a>
+</p>
+
+<p> Ismail HM, O'Neill PM, Hong DW, Finn RD, Henderson CJ, Wright AT, Cravatt BF, Hemingway J, Paine
+MJ. (2013) Pyrethroid activity-based probes for profiling cytochrome P450 activities associated with
+insecticide interactions.
+<br><b>Proc Natl Acad Sci USA</b> 2013 Nov 18. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24248381">[Pubmed]</a>
+</p>
+
+<p> Hsu KL, Tsuboi K, Whitby LR, Speers AE, Pugh H, Inloes J, Cravatt BF. (2013) Development and Optimization
+of Piperidyl-1,2,3-Triazole Ureas as Selective Chemical Probes of Endocannabinoid Biosynthesis.
+<br><b>J Med Chem.</b> 2013 Oct 23. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24152245">[Pubmed]</a>
+</p>
+
+<p> Hsu KL, Tsuboi K, Chang JW, Whitby LR, Speers AE, Pugh H, Cravatt BF. (2013) Discovery and Optimization of
+Piperidyl-1,2,3-Triazole Ureas as Potent, Selective, and in Vivo-Active Inhibitors of α/β-Hydrolase Domain Containing 6 (ABHD6).
+<br><b>J Med Chem.</b> 2013 Oct 23. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24152295?dopt=Abstract">[Pubmed]</a>
+</p>
+
+<p> Nomura DK, Cravatt BF. (2013) Lipid Metabolism in Cancer.
+<br><b>Biochim Biophys Acta. </b> 2013 Aug 3. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23921253">[Pubmed]</a>
+</p>
+
+<p> Moellering RE, Cravatt BF. (2013) Functional lysine modification by an intrinsically reactive primary
+glycolytic metabolite.
+<br><b>Science. </b> 2013 Aug 2;341(6145):549-53.
+<a href="./intranet/pdf/Mollering2013Aug.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23908237">[Pubmed]</a>
+</p>
+
+<p> Lowery CA, Matamouros S, Niessen S, Zhu J, Scolnick J, Lively JM, Cravatt BF, Miller SI, Kaufmann GF,
+Janda KD. (2013) A chemical biology approach to interrogate quorum-sensing regulated behaviors at the
+molecular and cellular level.
+<br><b>Chem Biol. </b> 2013 Jul 25;20(7):903-11.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23890008">[Pubmed]</a>
+</p>
+
+<p> Ignatowska-Jankowska BM, Ghosh S, Crowe MS, Kinsey SG, Niphakis MJ, Abdullah RA, Tao Q, O'Neal ST,
+Walentiny DM, Wiley JL, Cravatt BF, Lichtman AH. (2013) In vivo characterization of the highly selective
+monoacylglycerol lipase inhibitor KML29: Antinociceptive activity without cannabimimetic side effects.
+<br> <b> Br J Pharmacol. </b> 2013 Jul 12. doi: 10.1111/bph.12298. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23848221">[Pubmed]</a>
+</p>
+
+<p>Li J, Cisar JS, Zhou CY, Vera B, Williams H, Rodríguez AD, Cravatt BF, Romo D. (2013)
+Simultaneous structure-activity studies and arming of natural products by C-H amination reveal cellular
+targets of eupalmerin acetate.
+<br><b>Nat Chem.</b> 2013 Jun 20;5(6):510-7.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23695633">[Pubmed]</a>
+</p>
+
+<p> Niphakis MJ, Cognetta AB, Chang JW, Buczynski MW, Parsons LH, Byrne F, Burston JJ, Chapman V, Cravatt
+BF. (2013) Evaluation of NHS carbamates as a potent and selective class of endocannabinoid hydrolase
+inhibitors.
+<br><b> ACS Chem Neurosci. </b> 2013 Jun 3. [Epub ahead of print]
+<a href="./intranet/pdf/Niphakis2013June.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23731016">[Pubmed]</a>
+</p>
+
+<p> Chang JW, Cognetta AB 3rd, Niphakis MJ, Cravatt BF. (2013) Proteome-Wide Reactivity Profiling Identifies
+Diverse Carbamate Chemotypes Tuned for Serine Hydrolase Inhibition.
+<br><b> ACS Chem Biol. </b> 2013 May 23. [Epub ahead of print]
+<a href="./intranet/pdf/Chang2013May.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23701408">[Pubmed]</a>
+</p>
+
+
+<p> Gu C, Shannon DA, Colby T, Wang Z, Shabab M, Kumari S, Villamor JG, McLaughlin CJ, Weerapana E, Kaiser M,
+Cravatt BF, van der Hoorn RA. (2013) Chemical proteomics with sulfonyl fluoride probes reveals selective
+labeling of functional tyrosines in glutathione transferases.
+<br><b>Chem Biol. </b> 2013 Apr 18;20(4):541-8.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23601643">[Pubmed]</a>
+</p>
+
+<p> Otrubova K, Brown M, McCormick MS, Han GW, O'Neal ST, Cravatt BF, Stevens RC, Lichtman AH, Boger
+DL. (2013) Rational Design of Fatty Acid Amide Hydrolase Inhibitors That Act by Covalently Bonding to Two
+Active Site Residues.
+<br> <b>J Am Chem Soc. </b> 2013 Apr 12. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23581831">[Pubmed]</a>
+</p>
+
+<p> Komatsu T, Hanaoka K, Adibekian A, Yoshioka K, Terai T, Ueno T, Kawaguchi M, Cravatt BF, Nagano T. (2013)
+Diced electrophoresis gel (DEG) assay for screening enzymes with specified activities.
+<br> <b>J Am Chem Soc. </b> 2013 Apr 12. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23581642">[Pubmed]</a>
+</p>
+
+<p> Blankman JL, Cravatt BF. (2013) Chemical probes of endocannabinoid metabolism.
+<br><b>Pharmacol Rev. </b> 2013 Mar 19;65(2):849-71.
+<a href="./intranet/pdf/Blankman2013Mar.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23512546">[Pubmed]</a>
+</p>
+
+<p> Simon GM, Niphakis MJ, Cravatt BF. (2013) Determining target engagement in living systems.
+<br><b>Nat Chem Biol. </b>2013 Mar 18;9(4):200-205.
+<a href="./intranet/pdf/Simon2013Mar.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23508173">[Pubmed]</a>
+</p>
+
+<p> Deng X, Weerapana E, Ulanovskaya O, Sun F, Liang H, Ji Q, Ye Y, Fu Y, Zhou L, Li J, Zhang H, Wang C, Alvarez
+S, Hicks LM, Lan L, Wu M, Cravatt BF, He C. (2013) Proteome-wide Quantification and Characterization of
+Oxidation-Sensitive Cysteines in Pathogenic Bacteria.
+<br><b>Cell Host Microbe. </b> 2013 Mar 13;13(3):358-70.
+<a href="./intranet/pdf/Deng2013Mar.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23498960">[Pubmed]</a>
+</p>
+
+<p> Ulanovskaya OA, Zuhl AM, Cravatt BF. (2013)  NNMT promotes epigenetic remodeling in cancer by creating a
+metabolic methylation sink.
+<br><b>Nat Chem Biol. </b> 2013 Mar(9):300-306.
+<a href="./intranet/pdf/Ulanovskaya2013March.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23455543">[Pubmed]</a>
+<a href="./intranet/pdf/Ulanovskaya2013March_NCB_news.pdf">[Nature Chemical Biology News&amp;Views]</a>
+</p>
+
+<p> Hulce JJ, Cognetta AB, Niphakis MJ, Tully SE, Cravatt BF. (2013) Proteome-wide mapping of cholesterol-interacting proteins in mammalian cells.
+<br><b>Nat Methods. </b> 2013 Mar;10(3):259-64.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23396283">[Pubmed]</a>
+<a href="./intranet/pdf/Hulce2013Feb.pdf">[PDF]</a>
+<a href="http://cen.acs.org/articles/91/i7/New-Partners-Cholesterol.html">[C&amp;E News Highlight]</a>
+</p>
+
+<p> Kinsey SG, Wise LE, Ramesh D, Abdullah R, Selley DE, Cravatt BF, Lichtman AH. (2013) Repeated Low Dose
+Administration of the Monoacylglycerol Lipase Inhibitor JZL184 Retains CB1 Receptor Mediated Antinociceptive
+and Gastroprotective Effects.
+<br> <b> J Pharmacol Exp Ther. </b>2013 Feb 14. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23412396">[Pubmed]</a>
+</p>
+
+<p> French JB, Zhao H, An S, Niessen S, Deng Y, Cravatt BF, Benkovic SJ. (2013) Hsp70/Hsp90 chaperone
+machinery is involved in the assembly of the purinosome.
+<br><b>Proc Natl Acad Sci U S A. </b>2013 Feb 12;110(7):2528-33.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23359685">[Pubmed]</a>
+</p>
+
+<p> Ramesh D, Gamage TF, Vanuytsel T, Owens RA, Abdullah RA, Niphakis MJ, Shea-Donohue T, Cravatt BF, Lichtman
+AH.(2013) Dual Inhibition of Endocannabinoid Catabolic Enzymes Produces Enhanced Anti-Withdrawal Effects in
+Morphine-Dependent Mice.
+<br><b> Neuropsychopharmacology. </b> 2013 Jan 3. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23303065">[Pubmed]</a>
+</p>
+
+<p> Cao Z, Mulvihill MM, Mukhopadhyay P, Xu H, Erdélyi K, Hao E, Holovac E, Haskó G, Cravatt BF, Nomura DK,
+Pacher P. (2013) Monoacylglycerol Lipase Controls Endocannabinoid and Eicosanoid Signaling and Hepatic Injury
+in Mice.
+<br><b>Gastroenterology. </b> 2013 Apr;144(4):808-817
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23295443">[Pubmed]</a>
+</p>
+
+<p> Blankman JL, Long JZ, Trauger SA, Siuzdak G, Cravatt BF. (2013) ABHD12 controls brain
+lysophosphatidylserine pathways that are deregulated in a murine model of the neurodegenerative disease PHARC.
+<br><b>Proc Natl Acad Sci U S A. </b> 2013 110(4):1500-5.
+<a href="./intranet/pdf/Blankman2013Jan.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23297193">[Pubmed]</a>
+</p>
+
+<a name="2012"><h3>2012:</h3></a>
+<p> Nagano JM, Hsu KL, Whitby LR, Niphakis MJ, Speers AE, Brown SJ, Spicer T, Fernandez-Vega V, Ferguson J, Hodder
+P, Srinivasan P, Gonzalez TD, Rosen H, Bahnson BJ, Cravatt BF. (2012) Selective inhibitors and tailored
+activity probes for lipoprotein-associated phospholipase A(2).
+<br><b>Bioorg Med Chem Lett. </b> 2013 Feb 1;23(3):839-43
+<a href="./intranet/pdf/Nagono2013Feb.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23260346">[Pubmed]</a>
+</p>
+
+<p>Hsu KL, Tsuboi K, Adibekian A, Pugh H, Masuda K, Cravatt BF. (2012) DAGLβ inhibition perturbs a lipid network
+involved in macrophage inflammatory responses.
+<br><b>Nat Chem Biol. </b> 2012 Dec;8(12):999-1007.
+<a href="./intranet/pdf/Hsu2012Dec.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23103940">[Pubmed]</a>
+</p>
+
+<p> Ramya TN, Weerapana E, Cravatt BF, Paulson JC. (2012) Glycoproteomics enabled by tagging sialic acid or
+galactose terminated glycans.
+<br><b> Glycobiology. </b> 2013 Feb;23(2):211-21.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23070960">[Pubmed]</a>
+</p>
+
+<p> Benjamin DI, Cravatt BF, Nomura DK. (2012)  Global Profiling Strategies for Mapping Dysregulated Metabolic
+Pathways in Cancer.
+<br><b> Cell Metab. </b> 2012 Nov 7;16(5):565-77.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23063552">[Pubmed]</a>
+</p>
+
+<p>Keow JY, Pond ED, Cisar JS, Cravatt BF, Crawford BD. (2012) Activity-based labeling of matrix
+metalloproteinases in living vertebrate embryos.
+<br><b>PLoS One. </b> 2012;7(8):e43434.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22952682">[Pubmed]</a>
+</p>
+
+<p>Palumbo-Zerr K, Horn A, Distler A, Zerr P, Dees C, Beyer C, Selvi E, Cravatt BF, Distler O, Schett G, Distler
+JH. (2012) Inactivation of fatty acid amide hydrolase exacerbates experimental fibrosis by enhanced
+endocannabinoid-mediated activation of CB1.
+<br><b>Ann Rheum Dis. </b>2012 Dec;71(12):2051-4.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22915616">[Pubmed]</a>
+</p>
+
+<p> Brown WH, Gillum MP, Lee HY, Camporez JP, Zhang XM, Jeong JK, Alves TC, Erion DM, Guigni BA, Kahn M, Samuel
+VT, Cravatt BF, Diano S, Shulman GI. (2012) Fatty acid amide hydrolase ablation promotes ectopic lipid storage
+and insulin resistance due to centrally mediated hypothyroidism.
+<br><b>Proc Natl Acad Sci U S A. </b> 2012 Sep 11;109(37):14966-71.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22912404">[Pubmed]</a>
+</p>
+
+<p> Liu X, Dix M, Speers AE, Bachovchin DA, Zuhl AM, Cravatt BF, Kodadek TJ. (2012) Rapid Development of a
+Potent Photo-triggered Inhibitor of the Serine Hydrolase RBBP9.
+<br><b>Chembiochem.</b> 2012 Sep 24;13(14):2082-93.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22907802">[Pubmed]</a>
+</p>
+
+<p> Di Venere A, Dainese E, Fezza F, Angelucci BC, Rosato N, Cravatt BF, Finazzi-Agrò A, Mei G, Maccarrone
+M. (2012) Rat and human fatty acid amide hydrolases: Overt similarities and hidden differences.
+<br><b>Biochim Biophys Acta. </b> 2012 Nov;1821(11):1425-33.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22877990">[Pubmed]</a>
+</p>
+
+<p> Dix MM, Simon GM, Wang C, Okerberg E, Patricelli MP, Cravatt BF. (2012) Functional Interplay between
+Caspase Cleavage and Phosphorylation Sculpts the Apoptotic Proteome.
+<br><b> Cell. </b> 2012 Jul 20;150(2):426-40.
+<a href="./intranet/pdf/Dix2012July.pdf">[PDF]</a>
+<a href="http://www.nature.com/nmeth/journal/v9/n9/full/nmeth.2157.html">[Nature Methods Highlight]</a>
+<a href="http://www.drugdiscoverynews.com/index.php?newsarticle=6505">[Drug Discovery News Highlight]</a>
+<a href="http://www.nature.com/nchembio/journal/v8/n9/full/nchembio.1053.html">[Nature Chemical Biology Highlight]</a>
+</p>
+
+<p>Stock K, Kumar J, Synowitz M, Petrosino S, Imperatore R, Smith ES, Wend P, Purfürst B, Nuber UA, Gurok U,
+Matyash V, Wälzlein JH, Chirasani SR, Dittmar G, Cravatt BF, Momma S, Lewin GR, Ligresti A, Petrocellis LD,
+Cristino L, Marzo VD, Kettenmann H, Glass R. (2012) Neural precursor cells induce cell death of high-grade
+astrocytomas through stimulation of TRPV1.
+<br><b>	Nat Med. </b> 2012 Jul 22. doi: 10.1038/nm.2827. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22820645">[Pubmed]</a>
+</p>
+
+<p>Hill MN, Kumar SA, Filipski SB, Iverson M, Stuhr KL, Keith JM, Cravatt BF, Hillard CJ, Chattarji S, McEwen
+BS. (2012) Disruption of fatty acid amide hydrolase activity prevents the effects of chronic stress on anxiety and
+amygdalar microstructure.
+<br><b> Mol Psychiatry. </b> 2012 Jul 10. doi: 10.1038/mp.2012.90. [Epub ahead of print]
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22776900">[Pubmed]</a>
+</p>
+
+<p> Ghosh S, Wise LE, Chen Y, Gujjar R, Mahadevan A, Cravatt BF, Lichtman AH. (2012) The monoacylglycerol
+lipase inhibitor JZL184 suppresses inflammatory pain in the mouse carrageenan model.
+<br><b> Life Sci. </b> 2013 92(8-9):498-505.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22749865">[Pubmed]</a>
+</p>
+
+<p>Saario SM, McKinney MK, Speers AE, Wang C, Cravatt BF. (2012) Clickable, photoreactive inhibitors to probe
+the active site microenvironment of fatty acid amide hydrolase.
+<br><b> Chem Sci. </b> 2012 Jan 1;3(1):77-83.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22737400">[Pubmed]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378062/">[PMC3378062]</a>
+</p>
+
+<p>Adibekian A, Martin BR, Chang JW, Hsu KL, Tsuboi K, Bachovchin DA, Speers AE, Brown SJ, Spicer T,
+Fernandez-Vega V, Ferguson J, Hodder PS, Rosen H, Cravatt BF (2012) Confirming Target Engagement for
+Reversible Inhibitors in Vivo by Kinetically Tuned Activity-Based Probes.
+<br><b> J Am Chem Soc. </b> 2012 Jun 27;134(25):10345-8.
+<a href="./intranet/pdf/Adibekian2012June.pdf">[PDF]</a>
+<a href="http://f1000.com/717952369">[Faculty of 1000 Review]</a>
+</p>
+
+<p> Cisar JS and Cravatt BF (2012)  Fully functionalized small-molecule probes for integrated phenotypic
+screening and target identification.
+<br><b> J Am Chem Soc. </b> 2012 Jun 27;134(25):10385-8.
+<a href="./intranet/pdf/Cisar2012June.pdf">[PDF]</a>
+<a href="http://f1000.com/717348006">[Faculty of 1000 Review]</a>
+</p>
+
+<p> Blankman JL and Cravatt BF (2012) The Endocannabinoid System: From Basic Research to
+Translational Opportunity
+<br><b> ACS Chem. Neurosci.</b> 2012 May 16;3(5):337–338.
+<a href="./intranet/pdf/Blankman2012May.pdf">[PDF]</a>
+</p>
+
+<p> Skaddan MB, Zhang L, Johnson DS, Zhu A, Zasadny KR, Coelho RV, Kuszpit K, Currier G, Fan KH, Beck EM, Chen
+L, Drozda SE, Balan G, Niphakis M, Cravatt BF, Ahn K, Bocan T, Villalobos A. (2012). The synthesis and in vivo
+evaluation of [(18)F]PF-9811: a novel PET ligand for imaging brain fatty acid amide hydrolase (FAAH).
+<br><b> Nucl Med Biol. </b> 2012 Oct;39(7):1058-67.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22571907">[Pubmed]</a>
+</p>
+
+<p>Chang JW, Niphakis MJ, Lum KM, Cognetta AB 3rd, Wang C, Matthews ML, Niessen S, Buczynski MW, Parsons LH,
+Cravatt BF. (2012). Highly Selective Inhibitors of Monoacylglycerol Lipase Bearing a Reactive Group that Is
+Bioisosteric with Endocannabinoid Substrates.
+<br><b>Chem Biol. </b> 2012 May 25;19(5):579-88.
+<a href="./intranet/pdf/Chang2012May.pdf">[PDF]</a>
+</p>
+
+<p> Dillon MB, Bachovchin DA, Brown SJ, Finn MG, Rosen H, Cravatt BF, Mowen KA. (2012). Novel Inhibitors for
+PRMT1 Discovered by High-Throughput Screening Using Activity-Based Fluorescence Polarization.
+<br><b>ACS Chem Biol. </b> 2012 Jul 20;7(7):1198-204.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22506763">[Pubmed]</a>
+</p>
+
+<p> Wiskerke J, Irimia C, Cravatt BF, De Vries TJ, Schoffelmeer AN, Pattij T, Parsons LH. (2012)
+Characterization of the Effects of Reuptake and Hydrolysis Inhibition on Interstitial Endocannabinoid Levels
+in the Brain: An in Vivo Microdialysis Study.
+<br><b>ACS Chem. Neurosci.</b> 2012 Apr 22;3(5):407–41
+<a href="./intranet/pdf/Wiskerke2012Apr.pdf">[PDF]</a>
+</p>
+
+<p> Bashashati M, Storr MA, Nikas SP, Wood JT, Godlewski G, Liu J, Ho W, Keenan CM, Zhang H, Alapafuja SO, Cravatt
+BF, Lutz B, Mackie K, Kunos G, Patel KD, Makriyannis A, Davison JS, Sharkey KA. (2012). Inhibiting fatty acid amide
+hydrolase normalizes endotoxin-induced enhanced gastrointestinal motility in the mouse.
+<br><b> Br J Pharmacol. </b> 2012 Mar;165(5):1556-71.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21883147">[Pubmed]</a>
+</p>
+
+<p> Zuhl AM, Mohr JT, Bachovchin DA, Niessen S, Hsu KL, Berlin JM, Dochnahl M, Lopez-Alberca MP, Fu GC,
+Cravatt BF. (2012). Competitive Activity-Based Protein Profiling Identifies Aza-?-Lactams as a Versatile
+Chemotype for Serine Hydrolase Inhibition.
+<br><b>J Am Chem Soc. </b> 2012 Mar 21;134(11):5068-71.
+<a href="./intranet/pdf/Zuhl2012Mar.pdf">[PDF]</a>
+</p>
+
+<p> Lim SK, Park MJ, Lim JC, Kim JC, Han HJ, Kim GY, Cravatt BF, Woo CH, Ma SJ, Yoon KC, Park SH. (2011).
+Hyperglycemia induces apoptosis via CB(1) activation through the decrease of FAAH 1 in retina pigment
+epithelial cells.
+<br><b> J Cell Physiol. </b> 2012 Feb;227(2):569-77.
+<a href="./intranet/pdf/Lim2012Feb.pdf">[PDF]</a>
+</p>
+
+<p> Benito C, Tolon RM, Castillo AI, Ruiz-Valdepenas L, Martinez-Orgado JA, Fernandez-Sanchez FJ, Vazquez C,
+Cravatt BF, Romero J. (2012). Beta Amyloid Exacerbates Inflammation in Astrocytes Lacking Fatty Acid Amide
+Hydrolase through a Mechanism Involving Ppar-alpha, Ppar-gamma and Trpv1, But Not Cb(1) or Cb(2) Receptors.
+<br> <b> Br J Pharmacol. </b> 2012 Jun;166(4):1474-89.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22321194">[Pubmed]</a>
+</p>
+
+<p> Moellering RE, Cravatt BF. (2012). How chemoproteomics can enable drug discovery and development.
+<br> <b> Chem Biol. </b> 2012 Jan 27;19(1):11-22.
+<a href="./intranet/pdf/Moellering2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Kaschani F, Nickel S, Pandey B, Cravatt BF, Kaiser M, van der Hoorn RA. (2012). Selective inhibition of
+plant serine hydrolases by agrochemicals revealed by competitive ABPP.
+<br><b>Bioorg Med Chem. </b> 2012 Jan 15;20(2):597-600.
+<a href="./intranet/pdf/Kaschani2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Wise LE, Long KA, Abdullah RA, Long JZ, Cravatt BF, Lichtman AH. (2012) Dual Fatty Acid Amide Hydrolase
+and Monoacylglycerol Lipase Blockade Produces THC-Like Morris Water Maze Deficits in Mice.
+<br><b> ACS Chem. Neurosci.</b>2012 Jan 27;3(5):369–378
+<a href="./intranet/pdf/Wise2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Tai T, Tsuboi K, Uyama T, Masuda K, Cravatt BF, Houchi H, Ueda N. (2012) Endogenous Molecules Stimulating
+N-Acylethanolamine-Hydrolyzing Acid Amidase (NAAA)
+<br> <b> ACS Chem. Neurosci.</b> 2012 Jan 27, 3(5):379–385
+<a href="./intranet/pdf/Tai2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Kaczocha M, Lin Q, Nelson LD, McKinney MK, Cravatt BF, London E, Deutsch DG. (2012) Anandamide Externally
+Added to Lipid Vesicles Containing-Trapped Fatty Acid Amide Hydrolase (FAAH) Is Readily Hydrolyzed in a
+Sterol-Modulated Fashion.
+<br> <b> ACS Chem. Neurosci.</b> 2012 Jan 18;3(5):364–368
+<a href="./intranet/pdf/Kaczocha2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Yu PT, Babicky M, Jaquish D, French R, Marayuma K, Mose E, Niessen S, Hoover H, Shields D, Cheresh D,
+Cravatt BF, Lowy AM. (2012). The RON-Receptor regulates pancreatic cancer cell migration through
+phosphorylation-dependent breakdown of the hemidesmosome.
+<br> <b> Int J Cancer. </b> 2012 Oct 15;131(8):1744-54.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22275185">[Pubmed]</a>
+</p>
+
+<p> Bachovchin DA, Cravatt BF. (2012). The pharmacological landscape and therapeutic potential of serine hydrolases.
+<br><b>Nat Rev Drug Discov. </b> 2012 Jan 3;11(1):52-68.
+<a href="./intranet/pdf/Bachovchin2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Seeliger JC, Holsclaw CM, Schelle MW, Botyanszki Z, Gilmore SA, Tully SE, Niederweis M, Cravatt BF, Leary
+JA, Bertozzi CR. (2012). Elucidation and Chemical Modulation of Sulfolipid-1 Biosynthesis in Mycobacterium tuberculosis.
+<br><b>J Biol Chem. </b> 2012 Mar 9;287(11):7990-8000.
+<a href="./intranet/pdf/Seeliger2012Mar.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3318749/">[PMC3318749]</a>
+</p>
+
+<p>Chang JW, Moellering RE, Cravatt BF. (2012). An Activity-Based Imaging Probe for the Integral Membrane Hydrolase KIAA1363.
+<br><b>Angew Chem Int Ed Engl. </b> 2012 Jan 23;51(4):966-70.
+<a href="./intranet/pdf/Chang2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Rothmann M, Niessen S, Haushalter RW, Cravatt BF, Burkart MD. (2012). Resin-based investigation of acyl
+carrier protein interaction networks in Escherichia coli.
+<br><b>Bioorg Med Chem. </b> 2012 Jan 15;20(2):667-71.
+<a href="./intranet/pdf/Rothmann2012Jan.pdf">[PDF]</a>
+</p>
+
+<a name="2011"><h3>2011:</h3></a>
+
+<p> Rowland MM, Bostic HE, Gong D, Speers AE, Lucas N, Cho W, Cravatt BF, Best
+MD. (2011). Phosphatidylinositol (3,4,5)-Trisphosphate Activity Probes for the Labeling
+and Proteomic Characterization of Protein Binding Partners.
+<br><b>  Biochemistry. </b> 2011 Dec 27;50(51):11143-61.
+<a href="./intranet/pdf/Rowland2011Dec.pdf">[PDF]</a>
+</p>
+
+<p> Li Y, Martin BR, Cravatt BF, Hofmann SL. (2011). DHHC5 palmitoylates flotillin-2 and is rapidly degraded on induction of neuronal differentiation in cultured
+cells.
+<br><b> J Biol Chem. </b> 2012 Jan 2;287(1):523-30.
+<a href="./intranet/pdf/Li2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Martin BR, Wang C, Adibekian A, Tully SE, Cravatt BF. (2011). Global profiling of dynamic protein palmitoylation.
+<br><b> Nat Methods. </b> 2011 Nov 6;9(1):84-9.
+<a href="./intranet/pdf/Martin2011Nov.pdf">[PDF]</a>
+</p>
+
+<p> Niphakis MJ, Johnson DS, Ballard TE, Stiff C, Cravatt BF (2011). O-Hydroxyacetamide Carbamates as a Highly
+Potent and Selective Class of Endocannabinoid Hydrolase Inhibitors
+<br><b> ACS Chem. Neurosci.</b> 2011 Oct 10; 3(5):418–426
+<a href="./intranet/pdf/Niphakis2011Nov.pdf">[PDF]</a>
+</p>
+
+<p> Nomura DK, Morrison BE, Blankman JL, Long JZ, Kinsey SG, Marcondes MC, Ward AM, Lichtman AH, Conti B,
+Cravatt BF. (2011). Endocannabinoid Hydrolysis Generates Brain Prostaglandins That Promote Neuroinflammation.
+<br><b> Science. </b> 2011 Nov 11;334(6057):809-13
+<a href="./intranet/pdf/Nomura2011Nov.pdf">[PDF]</a>
+<a href="./pdf/Nomura2011Nov_feature3.pdf">[Science Perspective]</a>
+<a href="./pdf/Nomura2011Nov_feature1.pdf">[Nature Reviews Drug Discovery Highlights]</a>
+<a href="./pdf/Nomura2011Nov_feature2.pdf">[SciBX Highlights]</a>
+</p>
+
+<p>Pan B, Wang W, Zhong P, Blankman JL, Cravatt BF, Liu QS. (2011).Alterations of Endocannabinoid Signaling,
+Synaptic Plasticity, Learning, and Memory in Monoacylglycerol Lipase Knock-out Mice.
+<br><b> J Neurosci. </b> 2011 Sep 21;31(38):13420-13430.
+<a href="./intranet/pdf/Pan2011Sep.pdf">[PDF]</a>
+</p>
+
+<p> Long JZ, Cisar JS, Milliken D, Niessen S, Wang C, Trauger SA, Siuzdak G, Cravatt BF. (2011). Metabolomics
+annotates ABHD3 as a physiologic regulator of medium-chain phospholipids.
+<br><b> Nat Chem Biol. </b> 2011 Sep 18;7(11):763-5
+<a href="./intranet/pdf/Long2011Sep.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3201731/">[PMC3201731]</a>
+</p>
+
+<p> Zhong P, Pan B, Gao XP, Blankman JL, Cravatt BF, Liu QS. (2011). Genetic deletion of monoacylglycerol
+lipase alters endocannabinoid-mediated retrograde synaptic depression in the cerebellum.
+<br><b> J Physiol. </b> 2011 Oct 15;589(Pt 20):4847-55.
+<a href="./intranet/pdf/Zhong2011Oct.pdf">[PDF]</a>
+</p>
+
+<p> Tsuboi K, Bachovchin DA, Speers AE, Spicer TP, Fernandez-Vega V, Hodder P, Rosen H, Cravatt BF. (2011). Potent
+and Selective Inhibitors of Glutathione S-transferase Omega 1 that Impair Cancer Drug Resistance.
+<br> <b>J Am Chem Soc. </b> 2011 Oct 19;133(41):16605-16.
+<a href="./intranet/pdf/Tsuboi2011Oct.pdf">[PDF]</a>
+</p>
+
+<p> Nomura DK, Lombardi DP, Chang JW, Niessen S, Ward AM, Long JZ, Hoover HH, Cravatt BF. (2011).
+Monoacylglycerol Lipase Exerts Dual Control over Endocannabinoid and Fatty Acid Pathways to Support Prostate Cancer.
+<br><b> Chem Biol. </b> 2011 Jul 29;18(7):846-56.
+<a href="./intranet/pdf/Nomura2011Jul.pdf">[PDF]</a>
+</p>
+
+<p> Kaschani F, Nickel S, Pandey B, Cravatt BF, Kaiser M, van der Hoorn RA. (2012). Selective inhibition of
+plant serine hydrolases by agrochemicals revealed by competitive ABPP.
+<br><b>Bioorg Med Chem. </b> 2012 Jan 15;20(2):597-600.
+<a href="./intranet/pdf/Kaschani2012Jan.pdf">[PDF]</a>
+</p>
+
+<p> Kinsey SG, Naidu PS, Cravatt BF, Dudley DT, Lichtman AH. (2011). Fatty acid amide hydrolase blockade
+attenuates the development of collagen-induced arthritis and related thermal hyperalgesia in mice.
+<br><b>Pharmacol Biochem Behav. </b> 2011 Oct;99(4):718-25.
+<a href="./intranet/pdf/Kinsey2011Oct.pdf">[PDF]</a>
+</p>
+
+<p>Ramesh D, Ross G, Schlosburg J, Owens RA, Abdullah R, Kinsey SG, Long J, Nomura D, Sim-Selley L, Cravatt
+BF, Akbarali H, Lichtman AH. (2011). Blockade of endocannabinoid hydrolytic enzymes attenuates precipitated
+opioid withdrawal symptoms in mice.
+<br><b>J Pharmacol Exp Ther. </b> 2011 Oct;339(1):173-85.
+<a href="./intranet/pdf/Ramesh2011Oct.pdf">[PDF]</a>
+</p>
+
+<p> Long JZ, Cravatt BF. (2011). The Metabolic Serine Hydrolases and Their Functions in Mammalian Physiology and Disease.
+<br><b>Chem Rev. </b> 2011 Oct 12;111(10):6022-63.
+<a href="./intranet/pdf/Long2011Oct.pdf">[PDF]</a>
+</p>
+
+<p> Lone AM, Bachovchin DA, Westwood D, Speers AE, Spicer TP, Fernandez-Vega V, Chase P, Hodder P, Rosen H,
+Cravatt BF, Saghatelian A. (2011). A substrate-free activity-based protein profiling screen for the discovery
+of selective PREPL inhibitors.
+<br><b>J Am Chem Soc. </b> 2011 Aug 3;133(30):11665-74.
+<a href="./intranet/pdf/Lone2011Aug.pdf">[PDF]</a>
+</p>
+
+<p> Johnson DS, Stiff C, Lazerwith SE, Kesten SR, Fay LK, Morris M, Beidler D, Liimatta MB, Smith SE, Dudley
+DT, Sadagopan N, Bhattachar SN, Kesten SJ, Nomanbhoy TK, Cravatt BF, Ahn K. (2011).
+Discovery of PF-04457845: A Highly Potent, Orally Bioavailable, and Selective Urea FAAH Inhibitor.
+<br><b>ACS Med Chem Lett. </b> 2011 Feb 10;2(2):91-96.
+<a href="intranet/pdf/Johnson_2011_ACSMedChemLett.pdf">[PDF]</a>
+<a href="http://f1000.com/7365957">[Faculty of 1000 Review]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3109749/">[PMC3109749]</a>
+</p>
+
+<p> Hall CI, Reese ML, Weerapana E, Child MA, Bowyer PW, Albrow VE, Haraldsen JD, Phillips MR, Sandoval ED,
+Ward GE, Cravatt BF, Boothroyd JC, Bogyo M. (2011).
+Chemical genetic screen identifies Toxoplasma DJ-1 as a regulator of parasite secretion, attachment, and
+invasion.
+<br><b>Proc Natl Acad Sci U S A. </b> 2011 Jun 28;108(26):10568-73.
+<a href="./intranet/pdf/Hall2011Jun.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127939/">[PMC3127939]</a>
+</p>
+
+<p> Kinsey SG, Nomura DK, O'Neal ST, Long JZ, Mahadevan A, Cravatt BF, Grider JR, Lichtman AH. (2011).
+Inhibition of monoacylglycerol lipase (MAGL) attenuates NSAID-induced gastric hemorrhages in mice.
+<br><b> J Pharmacol Exp Ther. </b> 2011 Sep;338(3):795-802.
+<a href="./intranet/pdf/Kinsey2011Sep.pdf">[PDF]</a>
+</p>
+
+<p> Bachovchin DA, Zuhl AM, Speers AE, Wolfe MR, Weerapana E, Brown SJ, Rosen H, Cravatt BF. (2011).
+Discovery and Optimization of Sulfonyl Acrylonitriles as Selective, Covalent Inhibitors of Protein Phosphatase
+Methylesterase-1.
+<br><b>J Med Chem. </b> 54(14):5229-36
+<a href="intranet/pdf/Bachovchin_2011_JMedChem.pdf">[PDF]</a>
+</p>
+
+<p>Adibekian A, Martin BR, Wang C, Hsu KL, Bachovchin DA, Niessen S, Hoover H, Cravatt BF. (2011).
+Click-generated triazole ureas as ultrapotent in vivo-active serine hydrolase inhibitors.
+<br><b> Nat Chem Biol. </b> 7:469-478
+<a href="intranet/pdf/Adibekian_2011_NCB.pdf">[PDF]</a>
+<a href="http://f1000.com/11716956">[Faculty of 1000 Review]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3118922/">[PMC3118922]</a>
+</p>
+
+<p> Straiker A, Wager-Miller J, Hu S, Blankman J, Cravatt B, Mackie K. (2011).
+COX-2 and FAAH can regulate the time course of depolarization induced suppression of excitation.
+<br><b> Br J Pharmacol. </b> 2011 Nov;164(6):1672-83.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21564090">[Pubmed]</a>
+</p>
+
+<p>Chang JW, Nomura DK, Cravatt BF. (2011).
+A Potent and Selective Inhibitor of KIAA1363/AADACL1 that Impairs Prostate Cancer Pathogenesis.
+<br><b> Chem Biol. </b> 18(4):476-84
+<a href="intranet/pdf/Chang_2011_ChemBiol.pdf">[PDF]</a>
+<a href="intranet/pdf/Chang_2011_ChemBiol_Preview.pdf">[Chemistry &amp; Biology Preview]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119342/">[PMC3119342]</a>
+</p>
+
+<p>Booker L, Kinsey SG, Abdullah RA, Blankman JL, Long JZ, Ezzili C, Boger DL, Cravatt BF, Lichtman AH. (2011).
+The FAAH Inhibitor PF-3845 Acts in the Nervous System to Reverse Lipopolysaccharide-induced Tactile Allodynia in Mice.
+<br><b> Br J Pharmacol. </b> 2011 Apr 20
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21506952">[Pubmed]</a>
+</p>
+
+<p> Ahn K, Smith SE, Liimatta MB, Beidler D, Sadagopan N, Dudley DT, Young T, Wren P, Zhang Y, Swaney S, Van
+Becelaere K, Blankman JL, Nomura DK, Bhattachar SN, Stiff C, Nomanbhoy TK, Weerapana E, Johnson DS, Cravatt
+BF. (2011).Mechanistic and pharmacological characterization of PF-04457845: a highly potent and selective FAAH
+inhibitor that reduces inflammatory and noninflammatory pain.
+<br><b>J Pharmacol Exp Ther. </b> 2011 Jul;338(1):114-24.
+<a href="./intranet/pdf/Ahn2011Jul.pdf">[PDF]</a>
+</p>
+
+<p> Rossi S, Furlan R, Chiara VD, Muzio L, Musella A, Motta C, Studer V, Cavasinni F, Bernardi G, Martino G,
+Cravatt BF, Lutz B, Maccarrone M, Centonze D. (2011).
+Cannabinoid CB1 receptors regulate neuronal TNF-α effects in experimental autoimmune encephalomyelitis.
+<br><b> Brain Behav Immun. </b> 2011 Aug;25(6):1242-8.
+<a href="./intranet/pdf/Rossi2011Aug.pdf">[PDF]</a>
+</p>
+
+<p>Sticht MA, Long JZ, Rock EM, Limebeer CL, Mechoulam R, Cravatt BF, Parker LA. (2011).
+The MAGL inhibitor, JZL184, attenuates LiCl-induced vomiting in the Suncus murinus and 2AG attenuates
+LiCl-induced nausea-like behavior in rats.
+<br><b>Br J Pharmacol. </b> 2012 Apr;165(8):2425-35
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21470205">[Pubmed]</a>
+</p>
+
+<p> Ezzili C, Mileni M, McGlinchey N, Long JZ, Kinsey SG, Hochstatter DG, Stevens RC, Lichtman AH, Cravatt
+BF, Bilsky EJ, Boger DL. (2011).
+Reversible Competitive α-Ketoheterocycle Inhibitors of Fatty Acid Amide Hydrolase Containing Additional
+Conformational Constraints in the Acyl Side Chain: Orally Active, Long-Acting Analgesics.
+<br><b> J Med Chem. </b> 54(8):2805-22.
+<a href="intranet/pdf/Ezzili_2011_JMedChem.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3085948/">[PMC3085948]</a>
+</p>
+
+<p> Bachovchin DA, Mohr JT, Speers AE, Wang C, Berlin JM, Spicer TP, Fernandez-Vega V, Chase P, Hodder PS,
+Schürer SC, Nomura DK, Rosen H, Fu GC, Cravatt BF. (2011).Academic cross-fertilization by
+public screening yields a remarkable class of protein phosphatase methylesterase-1 inhibitors.
+<br><b> Proc Natl Acad Sci U S A. </b> 108(17):6811-6.
+<a href="intranet/pdf/Bachovchin_2011_PNAS.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/isubscribe/journals/cen/89/i11/html/8911notw8.html">[C&amp;E News Highlight]</a>
+<a href="http://f1000.com/9416957">[Faculty of 1000 Review]</a>
+<a href="http://www.nature.com/nrd/journal/v10/n5/full/nrd3452.html#Highthroughput-screening">[Nature Reviews
+Drug Discovery Highlight]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3084096/">[PMC3084096]</a>
+</p>
+
+<p> Mukhopadhyay B, Cinar R, Yin S, Liu J, Tam J, Godlewski G, Harvey-White J, Mordi I, Cravatt BF,
+Lotersztajn S, Gao B, Yuan Q, Schuebel K, Goldman D, Kunos G. (2011).
+Hyperactivation of anandamide synthesis and regulation of cell-cycle progression via cannabinoid type 1 (CB1)
+receptors in the regenerating liver.
+<br><b> Proc Natl Acad Sci U S A. </b> 108(15):6323-8
+<a href="intranet/pdf/Mukhopadhyay_2011_PNAS.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076854/">[PMC3076854]</a>
+</p>
+
+<p> Mileni M, Garfunkle J, Ezzili C, Cravatt BF, Stevens RC, Boger DL. (2011).
+Fluoride-Mediated Capture of a Noncovalent Bound State of a Reversible Covalent Enzyme Inhibitor: X-ray
+Crystallographic Analysis of an Exceptionally Potent α-Ketoheterocycle Inhibitor of Fatty Acid Amide
+Hydrolase.
+<br><b> J Am Chem Soc. </b> 133(11):4092-100
+<a href="intranet/pdf/Mileni_2011_JACS.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3060301/">[PMCPMC3060301]</a>
+</p>
+
+<p> Nicolaou KC, Sanchini S, Sarlah D, Lu G, Wu TR, Nomura DK, Cravatt BF, Cubitt B, de la Torre JC, Hessell
+AJ, Burton DR. (2011).
+Organic Synthesis toward Small-Molecule Probes and Drugs Special Feature: Design, synthesis, and biological
+evaluation of a biyouyanagin compound library.
+<br><b>	Proc Natl Acad Sci U S A. </b> 108(17):6715-20.
+<a href="intranet/pdf/Nicolaou_2011_PNAS.pdf">[PDF]</a>
+</p>
+
+<p> Meier JL, Patel A, Niessen S, Meehan MJ, Kersten R, Yang J, Rothmann M, Cravatt BF, Dorrestein PC,
+Burkart MD, Bafna V. (2011). Practical 4'-Phosphopantetheine Active Site Discovery from Proteomic Samples.
+<br><b> J Proteome Res. </b> 10(1):320-9
+<a href="intranet/pdf/Meier_2011_JProteomeRes.pdf">[PDF]</a></p>
+
+<p> Mukhopadhyay P, Horváth B, Rajesh M, Matsumoto S, Saito K, Bátkai S, Patel V, Tanchian G, Gao RY, Cravatt
+BF, Haskó G, Pacher P. (2011).
+Fatty acid amide hydrolase is a key regulator of the endocannabinoid-induced myocardial tissue injury.
+<br><b> Free Radic Biol Med. </b> 50(1):179-95
+<a href="intranet/pdf/Mukhopadhyay_2011_FreeRadBioMed.pdf">[PDF]</a></p>
+
+<p> Long JZ, La Cava M, Jin X, Cravatt BF. (2011).
+An anatomical and temporal portrait of physiological substrates for fatty acid amide hydrolase.
+<br><b>J Lipid Res. </b> 52(2):337-44
+<a href="intranet/pdf/Long_2011_JLipidRes.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023554/">[PMC3023554]</a>
+</p>
+
+<p> Kinsey SG, O'Neal ST, Long JZ, Cravatt BF, Lichtman AH. (2011).
+Inhibition of endocannabinoid catabolic enzymes elicits anxiolytic-like effects in the marble burying assay.
+<br><b>Pharmacol Biochem Behav.</b> 98(1):21-7
+<a href="intranet/pdf/Kinsey_2011_PharmBiochemBehav.pdf">[PDF]</a></p>
+
+<a name="2010"><h3>2010:</h3></a>
+
+<p>Godlewski G, Alapafuja SO, Batkai S, Nikas SP, Cinar R, Offertaler L, Osei-Hyiaman D, Liu J, Mukhopadhyay
+B,Harvey-White J, Tam J, Pacak K, Blankman JL, Cravatt BF, Makriyannis A, Kunos G. (2010)
+Inhibitor of Fatty Acid Amide Hydrolase Normalizes Cardiovascular Function in Hypertension without Adverse
+Metabolic Effects.
+<br><b>Chem Biol. </b> 17(11):1256-66.
+<a href="intranet/pdf/Godlewski_2010_ChemBiol.pdf">[PDF]</a></p>
+
+<p> Weerapana E, Wang C, Simon GM, Richter F, Khare S, Dillon MB, Bachovchin DA, Mowen K, Baker D, Cravatt
+BF. (2010)  Quantitative reactivity profiling predicts functional cysteines in proteomes.
+<br><b> Nature. </b>468:790-795.
+<a href="intranet/pdf/Weerapana_2010_Nature.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/cen/news/88/i48/8848news1.html">[C&amp;E News Highlight]</a>
+<a href="./pdf/Weerapana2010NatureCommentary.pdf">[Nature Commnetary]</a>
+<a href="./pdf/Weerapana2010_NCB_highlight.pdf">[Nature Chemical Biology Highlight]</a>
+<a href="./pdf/Weerapana2010_FutureMedChemHighlight.pdf">[Future Medicinal Chemistry Highlight]</a>
+<a href="./pdf/Weerapana2011_ACIE_highlight.pdf">[Angewandte Chemie Highlight]</a></p>
+
+<p> Bachovchin DA, Ji T, Li W, Simon GM, Blankman JL, Adibekian A, Hoover H, Niessen S, Cravatt BF. (2010)
+Superfamily-wide portrait of serine hydrolase inhibition achieved by library-versus-library screening.
+<br><b> Proc Natl Acad Sci U S A. </b> 107(49):20941-6
+<a href="intranet/pdf/Bachovchin_2010_PNAS.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/isubscribe/journals/cen/89/i06/html/8906sci1.html">[C&amp;E News
+Highlight]</a></p>
+
+<p>Lichtman AH, Blankman JL, Cravatt BF. (2010) Endocannabinoid overload.
+<br><b> Mol Pharmacol. </b> 78(6):993-5.
+<a href="intranet/pdf/Lichtman_2010_MolPharm.pdf">[PDF]</a></p>
+
+<p> Bowyer PW, Simon GM, Cravatt BF, Bogyo M. (2010)
+Global profiling of proteolysis during rupture of P. falciparum from the host erythrocyte.
+<br><b> Mol Cell Proteomics. </b> 10(5):M110.001636
+<a href="intranet/pdf/Bowyer_2010_MCP.pdf">[PDF]</a></p>
+
+<p> Speers AE, Cravatt BF. (2010)
+Ligands in crystal structures that aid in functional characterization.
+<br><b>Acta Crystallogr Sect F Struct Biol Cryst Commun. </b> 2010 Oct 1;66(Pt 10):1306-8.
+<a href="intranet/pdf/Speers_2010_ActaCryst.pdf">[PDF]</a></p></p>
+
+<p> Gaultier A, Simon G, Niessen S, Dix MM, Takimoto S, Cravatt BF, Gonias SL. (2010)
+LDL Receptor-related Protein 1 Regulates the Abundance of Diverse Cell-signaling Proteins in the Plasma
+Membrane Proteome.
+<br><b>J Proteome Res. </b> 9(12):6689-95
+<a href="intranet/pdf/Gaultier_2010_JProteomeRes.pdf">[PDF]</a></p>
+
+<p> Wurdak H, Zhu S, Min KH, Aimone L, Lairson LL, Watson J, Chopiuk G, Demas J, Charette B, Weerapana E,
+Cravatt BF, Cline HT, Peters EC, Zhang J, Walker JR, Wu C, Chang J, Tuntland T, Cho CY, Schultz PG. (2010)
+A small molecule accelerates neuronal differentiation in the adult rat.
+<br><b>Proc Natl Acad Sci U S A. </b> 107(38):16542-7
+<a href="intranet/pdf/Wurdak_2010_PNAS.pdf">[PDF]</a></p>
+
+<p> Kopp F, Komatsu T, Nomura DK, Trauger SA, Thomas JR, Siuzdak G, Simon GM, Cravatt BF.(2010)
+The Glycerophospho Metabolome and Its Influence on Amino Acid Homeostasis Revealed by Brain Metabolomics of
+GDE1(-/-) Mice.
+<br><b>Chem Biol.</b> 17(8):831-840.
+<a href="intranet/pdf/Kopp2010ChemAndBio.pdf">[PDF]</a></p>
+
+<p>Knuckley B, Jones JE, Bachovchin DA, Slack J, Causey CP, Brown SJ, Rosen H, Cravatt BF, Thompson PR.(2010)
+A fluopol-ABPP HTS assay to identify PAD inhibitors.
+<br><b>Chem Commun (Camb).</b> 46(38):7175-7
+<a href="http://pubs.rsc.org/en/Content/ArticleLanding/2010/CC/c0cc02634d">[PDF]</a></p>
+
+<p> Schlosburg JE, Blankman JL, Long JZ, Nomura DK, Pan B, Kinsey SG, Nguyen PT, Ramesh D, Booker L, Burston
+JJ, Thomas EA, Selley DE, Sim-Selley LJ, Liu QS, Lichtman AH, Cravatt BF. (2010)
+Chronic monoacylglycerol lipase blockade causes functional antagonism of the endocannabinoid system.
+<br><b>Nat Neurosci.</b> 13(9):1113-9
+<a href="intranet/pdf/Schlosburg2010NatNeurosci.pdf">[PDF]</a>
+<a href="http://f1000.com/5929956#evaluations">[Faculty of 1000 Review]</a></p></p>
+
+<p> Nomura DK, Dix MM, Cravatt BF. (2010)
+Activity-based protein profiling for biochemical pathway discovery in cancer.
+<br><b>	Nat Rev Cancer.</b> 10(9):630-8
+<a href="intranet/pdf/Nomura2010NRC.pdf">[PDF]</a></p>
+
+<p>Marrs WR, Blankman JL, Horne EA, Thomazeau A, Lin YH, Coy J, Bodor AL, Muccioli GG, Hu SS, Woodruff G,
+FungS, Lafourcade M, Alexander JP, Long JZ, Li W, Xu C, Möller T, Mackie K, Manzoni OJ, Cravatt BF, Stella
+N. (2010) The serine hydrolase ABHD6 controls the accumulation and efficacy of 2-AG at cannabinoid receptors.
+<br><b>Nat Neurosci.</b> 2010 Jul 25;13(8):951-959.
+<a href="intranet/pdf/Marrs_2010_NatNeurosci.pdf">[PDF]</a></p>
+
+<p> Shu-Jung Hu S, Arnold A, Hutchens JM, Radicke J, Cravatt BF, Wager-Miller J, Mackie K, Straiker A. (2010)
+Architecture of cannabinoid signaling in mouse retina.
+<br><b>J Comp Neurol.</b> 2010 Sep 15;518(18):3848-66.
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/cne.22429/abstract">[PDF]</a></p>
+
+<p>Steen PW, Tian S, Tully SE, Cravatt BF, Lemosy EK. (2010)
+Activation of Snake in a serine protease cascade that defines the dorsoventral axis is atypical and
+pipe-independent in Drosophila embryos.
+<br><b>FEBS Lett.</b> 584(16):3557-60
+<a href="http://dx.doi.org/10.1016/j.febslet.2010.07.020">[PDF]</a> </p>
+
+<p>Johnson DS, Weerapana E, Cravatt BF.	(2010)
+Strategies for discovering and derisking covalent, irreversibleenzyme inhibitors.
+<br><b>Future Med Chem.</b> 2010 Jun 1;2(6):949-964.
+<a href="intranet/pdf/Johnson_2010_FutureMedChem.pdf">[PDF]</a></p>
+
+<p>Buchebner M, Pfeifer T, Rathke N, Chandak PG, Lass A, Schreiber R, Kratzer A, Zimmermann R, Sattler W,
+Koefeler H, Froehlich E, Kostner GM, Birner-Gruenberger R, Chiang KP, Haemmerle G, Zechner R, Levak-Frank S,
+Cravatt BF, Kratky D. (2010)
+Cholesteryl ester hydrolase activity is abolished in HSL-/- macrophages but unchanged in macrophages lacking
+KIAA1363.
+<br><b>J Lipid Res.</b> 51(10):2896-908
+<a href="intranet/pdf/Buchebner_2010_JLipidRes.pdf">[PDF]</a></p>
+
+<p>Thors L, Burston JJ, Alter BJ, McKinney MK, Cravatt BF, Ross RA, Pertwee RG, Gereau RW 4th, Wiley JL,
+Fowler CJ. (2010)
+Biochanin A, a naturally occurring inhibitor of fatty acid amide hydrolase.
+<br><b>Br J Pharmacol.</b> 2010 Jun;160(3):549-60.
+<a href="intranet/pdf/Thors_2010_BJP.pdf">[PDF]</a></p>
+
+<p>Cravatt BF, Kodadek T. (2010)
+The interface of chemical biology and the nervous system (related to the NIDA Chemical Genomics Symposium).
+<br><b>Mol Biosyst.</b> 6(8):1337
+<a href="intranet/pdf/Cravatt_2010_MolBiosyst.pdf">[PDF]</a></p>
+
+<p>Kinsey SG, Long JZ, Cravatt BF, Lichtman AH. (2010)
+Fatty Acid Amide Hydrolase and Monoacylglycerol Lipase Inhibitors Produce Anti-Allodynic Effects in Mice
+Through Distinct Cannabinoid Receptor Mechanisms.
+<br><b>J Pain.</b> 11(12):1420-8
+<a href="intranet/pdf/Kinsey_2010_JPain.pdf">[PDF]</a></p>
+
+<p>Mileni M, Kamtekar S, Wood DC, Benson TE, Cravatt BF, Stevens RC. (2010) Crystal structure of fatty acid
+amide hydrolase bound to the carbamate inhibitor URB597: discovery of a deacylating water molecule and
+insight into enzyme inactivation.
+<br><b>J Mol Biol. </b> 400(4):743-54
+<a href="intranet/pdf/Mileni_2010_JMB.pdf">[PDF]</a></p>
+
+<p> Freigang S, Zadorozhny V, McKinney MK, Krebs P, Herro R, Pawlak J, Kain L, Schrantz N, Masuda K, Liu Y,
+Savage PB, Bendelac A, Cravatt BF, Teyton L. (2010)
+Fatty acid amide hydrolase shapes NKT cell responses by influencing the serum transport of lipid antigen in
+mice.
+<br><b>J Clin Invest. </b> 120(6):1873-84.
+<a href="http://www.jci.org/articles/view/40451">[PDF]</a></p>
+
+<p> Rossi S, De Chiara V, Musella A, Sacchetti L, Cantarella C, Castelli M, Cavasinni F, Motta C, Studer V,
+Bernardi G, Cravatt BF, Maccarrone M, Usiello A, Centonze D. (2010)
+Preservation of striatal cannabinoid CB1 receptor function correlates with the anti-anxiety effects of FAAH
+inhibition.
+<br><b>Mol Pharmacol. </b> 78(2):260-8.
+<a href="intranet/pdf/Rossi_2010_MolPharmacol.pdf">[PDF]</a></p>
+
+<p> Simon GM, Cravatt BF. (2010)
+Characterization of mice lacking candidate N-acyl ethanolamine biosynthetic enzymes provides evidence for
+multiple pathways that contribute to endocannabinoid production in vivo.
+<br><b>Mol Biosyst. </b>6(8):1411-8.
+<a href="intranet/pdf/Simon_2010_MolBiosyst.pdf">[PDF]</a> </p>
+
+<p> Pattipati SN, Kinsey SG, Guo T, Cravatt BF, Lichtman AH. (2010)
+Regulation of Inflammatory Pain by Inhibition of Fatty Acid Amide Hydrolase (FAAH).
+<br><b>J Pharmacol Exp Ther. </b> 334(1):182-90.
+<a href="intranet/pdf/Naidu_2010_JPharmExpTher.pdf">[PDF]</a></p>
+
+<p> Falenski KW, Thorpe AJ, Schlosburg JE, Cravatt BF, Abdullah RA, Smith TH, Selley DE, Lichtman AH,
+Sim-Selley LJ. (2010)
+FAAH(-/-) Mice Display Differential Tolerance, Dependence, and Cannabinoid Receptor Adaptation After
+Delta(9)-Tetrahydrocannabinol and Anandamide Administration.
+<br><b>Neuropsychopharmacology. </b> 35(8):1775-87
+<a href="intranet/pdf/Falenski_2010_Neuropsychopharmacology.pdf">[PDF]</a></p>
+
+<p> Bachovchin DA, Wolfe MR, Masuda K, Brown SJ, Spicer TP, Fernandez-Vega V, Chase P, Hodder PS, Rosen H,
+Cravatt BF. (2010)
+Oxime esters as selective, covalent inhibitors of the serine hydrolase retinoblastoma-binding protein 9
+(RBBP9).
+<br><b>Bioorg Med Chem Lett. </b> 20:2254-58
+<a href="intranet/pdf/Bachovchin_2010_BMCLetters.pdf">[PDF]</a></p>
+
+<p> Tully SE, Cravatt BF. (2010)
+Activity-Based Probes That Target Functional Subclasses of Phospholipases in Proteomes.
+<br><b>J Am Chem Soc. </b> 132(10):3264-5
+<a href="intranet/pdf/Tully_2010_JACS.pdf">[PDF]</a></p>
+
+<p> Ramya TN, Weerapana E, Liao L, Zeng Y, Tateno H, Liao L, Yates JR 3rd, Cravatt BF, Paulson JC. (2010)
+In situ trans ligands of CD22 identified by glycan-protein photo-cross-linking enabled proteomics.
+<br><b>Mol Cell Proteomics. </b> 9(6):1339-51
+<a href="intranet/pdf/Ramya_2010_MolCellProteomics.pdf">[PDF]</a></p>
+
+<p> Gottesfeld JM, Cravatt BF. (2010)
+Introduction to Minireview Series Chemical Biology Meets Biological Chemistry.
+<br><b>J Biol Chem. </b> 285(15):11031-32
+<a href="intranet/pdf/Cravatt_2010_JBC_review.pdf">[PDF]</a></p>
+
+<p> Simon GM, Cravatt BF. (2010)
+Activity-based proteomics of enzyme superfamilies -- serine hydrolases as a case study.
+<br><b>J Biol Chem. </b> 285(15):11051-55
+<a href="intranet/pdf/Simon_2010_JBC_review.pdf">[PDF]</a></p>
+
+<p> Long JZ, Jin X, Adibekian A, Li W, Cravatt BF. (2010)
+Characterization of Tunable Piperidine and Piperazine Carbamates as Inhibitors of Endocannabinoid Hydrolases.
+<br><b> J Med Chem. </b> 53(4):1830-42
+<a href="intranet/pdf/Long_2010_jmc.pdf">[PDF]</a></p>
+
+<p> Sipe JC, Scott TM, Murray S, Harismendy O, Simon GM, Cravatt BF, Waalen J. (2010)
+Biomarkers of endocannabinoid system activation in severe obesity.
+<br><b> PLoS One.</b> 5(1):e8792
+<a href="intranet/pdf/Sipe_2010_PLOSone.pdf">[PDF]</a></p>
+
+<p> Shields DJ, Niessen S, Murphy EA, Mielgo A, Desgrosellier JS, Lau SK, Barnes LA, Lesperance J, Bouvet M,
+Tarin D, Cravatt BF, Cheresh DA. (2010)
+RBBP9: A tumor-associated serine hydrolase activity required for pancreatic neoplasia.
+<br><b>Proc Natl Acad Sci U S A. </b> 107(5):2189-94
+<a href="intranet/pdf/Shields_2010_pnas.pdf">[PDF]</a>
+<a href="http://f1000.com/7184956">[Faculty of 1000 Review]</a>
+</p>
+
+<p>Nomura DK, Long JZ, Niessen S, Hoover HS, Ng S, Cravatt BF. (2010)
+Monoacylglycerol Lipase Regulates a Fatty Acid Network that Promotes Cancer Pathogenesis.
+<br><b>Cell. </b> 140(1):49-61.
+<a href="intranet/pdf/Nomura2010_cell.pdf">[PDF]</a>
+<a href="intranet/pdf/manning_preview_2010.pdf">[Cell Preview by Yecies and Manning]</a>
+<a href="http://stke.sciencemag.org/cgi/content/long/sigtrans;3/104/ec8?printview=true">[Sicence Signaling
+Editors' Choice]</a>
+<a href="http://news.discovery.com/tech/cancer-cells-fat-tumor.html">[DiscoveryNews Highlight]</a>
+<a href="http://www.lipidmaps.org/update/2010/100201/full/lipidmaps.2010.2.html">[Nature Lipidomics
+Highlight]</a>
+<a href="intranet/pdf/Nomura2010_cell_ChemAndBio_highlight.pdf">[Chemistry & Biology Highlight]</a>
+<a href="intranet/pdf/Nomura2010_cell_NatCanRev_highlight.pdf">[Nature Reviews Cancer Highlight]</a>
+<a href="intranet/pdf/Nomura2010_cell_NatChemBio_highlight.pdf">[Nature Chemical Biology Highlight]</a>
+<a href="intranet/pdf/Nomura2010_cell_NatMedicine_highlight.pdf">[Nature Medicine Highlight]</a>
+<a href="http://www.asbmb.org/news.aspx?id=6136">[ASBMB Lipid Corner's Highlight]</a>
+<a href="http://f1000biology.com/article/id/2059956">[Faculty of 1000 Review]</a>
+</p>
+
+<a name="2009"><h3>2009:</h3></a>
+
+<p>Ahn K, Johnson DS, Cravatt BF. (2009)
+Fatty acid amide hydrolase as a potential therapeutic target for the treatment of pain and CNS disorders.
+<br><b>Expert Opin Drug Discov.</b> 4(7):763-784.
+<a href="intranet/pdf/Ahn_2009_ExpertOpinDrugDiscov.pdf">[PDF]</a>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2882713/?tool=pubmed">[PMC2882713]</a></p>
+
+<p>Mileni M, Garfunkle J, Ezzili C, Kimball FS, Cravatt BF, Stevens RC, Boger DL. (2009)
+X-ray Crystallographic Analysis of alpha-Ketoheterocycle Inhibitors Bound to a Humanized Variant of Fatty
+AcidAmide Hydrolase.
+<br><b>J Med Chem. </b> 53(1):230-240.
+<a href="intranet/pdf/Mileni2009_2.pdf">[PDF]</a></p>
+
+<p>Long JZ, Nomura DK, Vann RE, Walentiny DM, Booker L, Jin X, Burston JJ, Sim-Selley LJ, Lichtman AH, Wiley
+JL, Cravatt BF. (2009)
+Dual blockade of FAAH and MAGL identifies behavioral processes regulated by endocannabinoid crosstalk in vivo.
+<br><b>Proc Natl Acad Sci U S A. </b>  106(48):20270-5.
+<a href="intranet/pdf/Long2009_2.pdf">[PDF]</a></p>
+
+<p>Hu SS, Bradshaw HB, Benton VM, Chen JS, Huang SM, Minassi A, Bisogno T, Masuda K, Tan B, Roskoski R Jr, Cravatt BF, Di Marzo V, Walker JM. (2009)
+The biosynthesis of N-arachidonoyl dopamine (NADA), a putative endocannabinoid and endovanilloid, via
+conjugation of arachidonic acid with dopamine. <br><b>Prostaglandins Leukot Essent Fatty Acids. </b> 81(4):291-301.<a href="intranet/pdf/Hu2009.pdf">[PDF]</a></p>
+
+<p>Meier J, Niessen S, Hoover H, Foley TL, Cravatt BF, Burkart MD. (2009) An orthogonal active site
+identification system (OASIS) for proteomic profiling of natural product biosynthesis.
+<br><b>ACS Chem Biol.</b> 4(11):948-57.
+<a href="intranet/pdf/Meier2009.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/doi/full/10.1021/cb1000026" target="_blank">[ACS Chem Biol "Best of 2009" highlight]</a>
+</p>
+
+<p>Sabido E, Tarrago T, Niessen S, Cravatt BF, Giralt E. (2009)
+Activity-Based Probes for Monitoring Postproline Protease Activity.  <br><b>Chembiochem. </b>10(14):2361-6.
+<a href="intranet/pdf/Sabido2009.pdf">[PDF]</a></p>
+
+<p>Straiker A, Hu SS, Long J, Arnold A, Wager-Miller J, Cravatt BF, Mackie K. (2009)
+Monoacyl glycerol lipase (MGL) limits the duration of endocannabinoid-mediated depolarization-induced
+suppression of excitation (DSE) in autaptic hippocampal neurons.
+<br><b>Mol Pharmacol.</b> 76(6):1220-7.
+<a href="intranet/pdf/Straiker2009.pdf">[PDF]</a></p>
+
+<p>Kinsey SG, Long JZ, O'Neal ST, Abdullah RA, Poklis JL, Boger DL, Cravatt BF, Lichtman AH. (2009)
+Blockade of endocannabinoid-degrading enzymes attenuates neuropathic pain.
+<br><b>J Pharmacol Exp Ther. </b>330(3):902-10.
+<a href="intranet/pdf/Kinsey2009.pdf">[PDF]</a> <a href="intranet/pdf/Kinsey_JPET_highlight.pdf">[JPETHighlight]</a>
+</p>
+
+<p>Pan B, Wang W, Long J, Sun D, Hillard CJ, Cravatt BF, Liu QS. (2009)
+Blockade of 2-AG hydrolysis by selective monoacylglycerol lipase inhibitor JZL184 enhances retrograde
+endocannabinoid signaling.
+<br><b>J Pharmacol Exp Ther. </b>331(2):591-7.
+<a href="intranet/pdf/Pan2009.pdf">[PDF]</a></p>
+
+<p>Mileni M, Garfunkle J, DeMartino JK, Cravatt BF, Boger DL, Stevens RC. (2009)
+Binding and Inactivation Mechanism of a Humanized Fatty Acid Amide Hydrolase by alpha-Ketoheterocycle
+Inhibitors Revealed from Cocrystal Structures.
+<br><b>J Am Chem Soc. </b>131(30):10497-506.
+<a href="intranet/pdf/Mileni2009.pdf">[PDF]</a></p>
+
+<p>Wright AT, Song JD, Cravatt BF. (2009)
+A Suite of Activity-Based Probes for Human Cytochrome P450 Enzymes.
+<br><b>J Am Chem Soc. </b>131(30):10692-700.
+<a href="intranet/pdf/Wright2009.pdf">[PDF]</a></p>
+
+<p>Long JZ, Nomura DK, Cravatt BF. (2009)
+Characterization of monoacylglycerol lipase inhibition reveals differences in central and peripheral
+endocannabinoid metabolism.
+<br><b>Chem Biol. </b>16(7):744-53.
+<a href="intranet/pdf/Long2009.pdf">[PDF]</a></p>
+
+<p>Simon GM, Dix MM, Cravatt BF.  (2009)
+Comparative Assessment of Large-Scale Proteomic Studies of Apoptotic Proteolysis.
+<br><b>ACS Chem. Biol. </b>4(6):401-8.
+<a href="intranet/pdf/SimonACS2009.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/action/showStoryContent?doi=10.1021%2Fon.2009.06.08.389368">[J. Proteome
+Research News Feature]</a>
+</p>
+
+<p>Schlosburg JE, Carlson BL, Ramesh D, Abdullah RA, Long JZ, Cravatt BF, Lichtman AH. (2009)
+Inhibitors of Endocannabinoid-Metabolizing Enzymes Reduce Precipitated Withdrawal Responses in THC-Dependent
+Mice.
+<br><b>AAPS J. </b>11(2):342-52.
+<a href="intranet/pdf/Schlosburg2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2691470"
+target="_blank">[PMC2691470]</a></p>
+
+<p>Bradshaw HB, Rimmerman N, Hu SS, Benton VM, Stuart JM, Masuda K, Cravatt BF, O'Dell DK, Walker JM. (2009)
+The endocannabinoid anandamide is a precursor for the signaling lipid N-arachidonyl glycine through two
+distinct pathways.
+<br><b>BMC Biochem.  </b>10:14
+<a href="intranet/pdf/Bradshaw2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2689249"
+target="_blank">[PMC2689249]</a></p>
+
+<p>Johnson DS, Ahn K, Kesten S, Lazerwith SE, Song Y, Morris M, Fay L, Gregory T, Stiff C, Dunbar JB Jr,
+Liimatta M, Beidler D, Smith S, Nomanbhoy TK, Cravatt BF. (2009)
+Benzothiophene piperazine and piperidine urea inhibitors of fatty acid amide hydrolase (FAAH).
+<br><b>Bioorg Med Chem Lett. </b>19(10):2865-9.
+<a href="intranet/pdf/Johnson2009.pdf">[PDF]</a></p>
+
+<p>Kaschani F, Gu C, Niessen S, Hoover H, Cravatt BF, Van der Hoorn RA. (2009)
+Diversity of serine hydrolase activities of unchallenged and Botrytis-infected Arabidopsis thaliana.
+<br><b>Mol Cell Proteomics. </b>8(5):1082-93.
+<a href="intranet/pdf/Kaschani2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2689769"
+target="_blank">[PMC2689769]</a></p>
+
+
+<p><a href="http://www.cell.com/chemistry-biology/issue?pii=S1074-5521(09)X0005-0" target="_blank"><img
+src="images/cb_cover2009.jpg" align="right" height="150" border=0></a>
+<p>Ahn K, Johnson DS, Mileni M, Beidler D, Long JZ, McKinney MK, Weerapana E, Sadagopan N, Liimatta M, Smith
+SE, Lazerwith S, Stiff C, Kamtekar S, Bhattacharya K,  Zhang Y, Swaney S, Van Becelaere K, Stevens RC,
+Cravatt BF.  (2009)
+Discovery and Characterization of a Highly Selective FAAH Inhibitor that Reduces Inflammatory
+Pain.
+<br><b>Chem Biol. </b>16(4):411-20.
+<a href="intranet/pdf/Ahn2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2692831"
+target="_blank">[PMC2692831]</a></p>
+
+
+<p>Schlosburg JE, Boger DL, Cravatt BF, Lichtman AH. (2009)
+Endocannabinoid modulation of scratching response in an acute allergenic model: a new prospective neural
+therapeutic target for pruritus.
+<br><b>J Pharmacol Exp Ther.  </b>329(1):314-23.
+<a href="intranet/pdf/Schlosburg2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2670585"
+target="_blank">[PMC2670585]</a></p>
+
+
+<p>Naidu PS, Booker L, Cravatt BF, Lichtman AH. (2009)
+Synergy between enzyme inhibitors of fatty acid amide hydrolase and cyclooxygenase in visceral nociception.
+<br><b>J Parmacol Exp Ther. </b>329(1):48-56.
+<a href="intranet/pdf/Naidu2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2670588"
+target="_blank">[PMC2670588]</a></p>
+
+<p>Bachovchin DA, Brown SJ, Rosen H, Cravatt BF. (2009)
+Identification of selective inhibitors of uncharacterized enzymes by high-throughput screening with
+fluorescent activity-based probes.
+<br><b>Nat Biotechnol. </b>27(4):387-94.
+<a href="intranet/pdf/Bachovchin2009.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2709489" target="_blank">[PMC2709489]</a>
+<a href="http://www.rsc.org/chemistryworld/News/2009/April/02040901.asp">[Article in RSC Chemistry World]</a>
+<a href="pdf/ScibX2009p1-3.pdf">[SciBX Cover Story]</a>
+<a href="http://www.f1000biology.com/article/id/1160078" target="_blank">[Faculty of 1000 Review]</a>
+</p>
+
+<p>Lever IJ, Robinson M, Cibelli M, Paule C, Santha P, Yee L, Hunt SP, Cravatt BF, Elphick MR, Nagy I, Rice
+AS. (2009)
+Localization of the endocannabinoid-degrading enzyme fatty acid amide hydrolase in rat dorsal root ganglion
+cells and its regulation after peripheral nerve injury.
+<br><b>J Neurosci. </b>29(12):3766-80.
+<a href="intranet/pdf/Lever2009.pdf">[PDF]</a></p>
+
+<p>Sun X, Wang H, Okabe M, Mackie K, Kingsley PJ, Marnett LJ, Cravatt BF, Dey SK. (2009)
+Genetic loss of Faah compromises male fertility in mice.
+<br><b> Biol Reprod. </b> 80(2):235-42.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18987328">[Pubmed]</a>
+</p>
+
+<p>Nakai R, Salisbury CM, Rosen H, Cravatt BF. (2009)
+Ranking the selectivity of PubChem screening hits by activity-based protein profiling: MMP13 as a case
+study.
+<br><b>Bioorg Med Chem.</b> 17(3):1101-8.
+<a href="intranet/pdf/Nakai2008BMC.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2661618"
+target="_blank">[PMC2661618]</a></p>
+
+
+<p>Martin BR, Cravatt BF. (2009)
+Large-scale profiling of protein palmitoylation in mammalian cells.
+<br><b>Nat Methods.  </b>6(2):135-8.
+<a href="intranet/pdf/Martin2009.pdf">[PDF]</a>
+<a href="pdf/Toying2009.pdf">[ACS Chemical Biology Spotlight]</a></p>
+
+<p>Long JZ, Li W, Booker L, Burston JJ, Kinsey SH, Schlosburg JE, Pavon FJ, Serrano AM, Selley DE, Parsons
+LH, Lichtman AH, Cravatt BF. (2009)
+Selective blockade of 2-arachidonoylglycerol hydrolysis produces cannabinoid behavioral effects.
+<br><b>Nat Chem Biol. </b>5(37):37-44.
+<a href="intranet/pdf/Long2008NCB.pdf">[PDF]</a>
+<a href="pdf/Marnett2008.pdf">[Nature Chemical Biology News & Views]</a>
+<a href="http://www.f1000biology.com/article/id/1138985" target="_blank">[Faculty of 1000 Review]</a>
+<a href="http://pubs.acs.org/doi/full/10.1021/cb1000026" target="_blank">[ACS Chem Biol
+"Best of 2009" highlight]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2605181"
+target="_blank">[PMC2605181]</a></p>
+
+
+<a name="2008"><h3>2008:</h3></a>
+
+<p>Barglow KT, Saikatendu KS, Bracey MH, Huey R, Morris GM, Olson AJ, Stevens RC, Cravatt BF. (2008)
+Functional proteomic and structural insights into molecular recognition in the nitrilase family
+enzymes. <br><b>Biochemistry.  </b>47(51):13514-23.
+<a href="intranet/pdf/Barglow2008.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2665915" target="_blank">[PMC2665915]</a>
+</p>
+
+<p>Cravatt BF. (2008)
+Tetrahedron Young Investigator Award 2008.  <br><b>Bioorg Med Chem Lett. </b>18(22)5837.
+<a href="intranet/pdf/CravattBMCL2008.pdf">[PDF]</a></p>
+
+<p>Hoover HS, Blankman JL, Niessen S, Cravatt BF. (2008)
+Selectivity of    inhibitors of endocannabinoid biosynthesis evaluated by activity-based protein
+profiling.
+<br><b>Bioorg Med Chem Lett. </b>18(22):5838-41.
+<a href="intranet/pdf/HooverHS2008BMCL.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2634297"
+target="_blank">[PMC2634297]</a></p>
+
+
+<p>Slaymaker IM, Bracey M, Mileni M, Garfunkle J, Cravatt BF, Boger DL, Stevens RC. (2008)
+Correlation of inhibitor effects on enzyme activity and thermal stability for the integral membrane protein
+fatty acid amide hydrolase.
+<br><b>Bioorg Med Chem Lett. </b>18(22):5847-50
+<a href="intranet/pdf/Slaymaker2008.pdf">[PDF]</a></p>
+
+<p><a href="http://www.sciencedirect.com/science?_ob=PublicationURL&_tockey=%23TOC%235221%232008%23999819977%23701101%23FLA%23&_cdi=5221&_pubType=J&_auth=y&_acct=C000050428&_version=1&_urlVersion=0&_userid=1018416&md5=8fc81bf4deea357615941c7cd379eee4"
+target="_blank"><img src="images/bmcl_cover2008.gif" align="right" height="150" border=0></a>
+<p>Demartino JK, Garfunkle J, Hochstatter DG, Cravatt BF, Boger DL. (2008)
+Exploration of a fundamental substituent effect of alpha-ketoheterocycle enzyme inhibitors: Potent and
+selective inhibitors of fatty acid amide hydrolase.
+<br><b>Bioorg Med Chem Lett. </b>18(22):5842-5846.
+<a href="intranet/pdf/DeMartino2008BMCL.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2582052"
+target="_blank">[PMC2582052]</a></p>
+
+
+<p>Simon GM, Cravatt BF.(2008)
+Challenges for the 'chemical-systems' biologist.
+<br><b>Nat Chem Biol. </b>4(11):639-42.
+<a href="intranet/pdf/SimonNCB2008.pdf">[PDF]</a></p>
+
+<p>Conn EM, Madsen MA, Cravatt BF, Ruf W, Deryugina EI, Quigley JP. (2008)
+Cell surface proteomics identifies molecules functionally linked to tumor cell intravasation.
+<br><b>J Biol Chem. </b>283(39):26518-27.
+<a href="intranet/pdf/ConnEM2008JBC.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2546538"
+target="_blank">[PMC2546538]</a></p>
+
+
+<p>Mileni M, Johnson DS, Wang Z, Everdeen DS, Liimatta M, Pabst B, Bhattacharya K, Nugent RA, Kamtekar S,
+Cravatt BF, Ahn K, Stevens RC. (2008)
+Structure-guided inhibitor design for human FAAH by interspecies active site conversion.
+<br><b> Proc Natl Acad Sci U S A. </b>105(35):12820-4.
+<a href="intranet/pdf/Mileni2008PNAS.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2529035"
+target="_blank">[PMC2529035]</a></p>
+
+
+<p>Dix MM, Simon GM, Cravatt BF. (2008)
+Global mapping of the topography and magnitude of proteolytic events in
+apoptosis.
+<br><b>Cell. </b>134(4):679-91.
+<a href="intranet/pdf/DixSimonCell2008.pdf">[PDF]</a>
+<a href="protomap">[Accompanying website]</a>
+<a href="pdf/Cell_Commentary_2008.pdf">[Cell Commentary]</a>
+<a href="pdf/Salvesen2008.pdf">[Nature Chemical Biology News & Views]</a>
+<a href="pdf/NatRevsMCB_Highlight_2008.pdf">[Nature Reviews MCB Highlight]</a>
+<a href="pdf/NatMethods_Highlight_2008.pdf">[Nature Methods Highlight]</a>
+<a href="http://www.f1000biology.com/article/id/1124089" target="_blank">[Faculty of 1000 Review]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2597167"
+target="_blank">[PMC2597167]</a></p>
+
+
+<p>Suarez J, Bermudez-Silva FJ, Mackie K, Ledent C, Zimmer A, Cravatt BF,  de Fonseca FR. (2008)
+Immunohistochemical description of the endogenous  cannabinoid system in the rat cerebellum and functionally
+related nuclei.
+<br><b>J Comp Neurol. </b>509(4):400-421.
+<a href="intranet/pdf/Suarez2008JCompNeuro.pdf">[PDF]</a></p>
+
+<p>Ortega-Gutierez S, Leung D, Ficarro S, Peters EC, Cravatt BF. (2008)
+Targeted disruption of the PME-1 gene causes loss of demethylated PP2A and perinatal lethality in
+mice.
+<br><b>PLoS ONE. </b>3(7):e2486.
+<a href="intranet/pdf/Ortega-Gutierrez2008PLOS.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2438471"
+target="_blank">[PMC2438471]</a></p>
+
+
+<p>Rimmerman N, Bradshaw HB, Hughes HV, Chen JS, Hu SS, McHugh D, Vefring E, Jahnsen JA, Thompson EL, Masuda
+K, Cravatt BF, Burstein S, Vasko MR, Prieto AL, O'Dell DK, Walker JM. (2008)
+N-palmitoyl glycine, a novel endogenous lipid that acts as a modulator of calcium influx and nitric oxide
+production in sensory neurons.
+<br><b>Mol Pharmacol. </b>74(1):213-224.
+<a href="intranet/pdf/Rimmerman2008MolPharm.pdf">[PDF]</a></p>
+
+<p>Hegde VL, Hegde S, Cravatt BF, Hofseth LJ, Nagarkatti M, Nagarkatti PS. (2008)
+Attenuation of experimental autoimmune hepatitis by exogenous and endogenous cannabinoids: involvement of
+regulatory T cells.
+<br><b>Mol Pharmacol. </b>74(1):20-33.
+<a href="intranet/pdf/Hegde2008MolPharm.pdf">[PDF]</a> </p>
+
+<p><a href="http://www.nature.com/nchembio/journal/v4/n7/covers/index.html" target="_blank"><img
+src="images/eranthie_cover.gif" align="right" height="150" border=0></a>
+Weerapana E, Simon GM, Cravatt BF. (2008)
+Disparate proteome reactivity profiles of carbon electrophiles.
+<br><b>Nat Chem Biol. </b>4(7):405-407.
+<a href="intranet/pdf/Weerapana2008NCB.pdf">[PDF]</a>
+<a href="intranet/pdf/Kodadek2008.pdf">[Nature Chemical Biology News and Views]</a>
+<a href="intranet/pdf/NatMethodsHighlight2008.pdf">[Nature Methods Highlight]</a>
+<a href="http://www.f1000biology.com/article/id/1109496" target="_blank">[Faculty of 1000 Review]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2440582"
+target="_blank">[PMC2440582]</a></p>
+
+
+<p>Wang P, Shim E, Cravatt BF, Jacobsen R, Schoeniger J, Kim AC, Paetzel M, Dalbey RE. (2008)
+Escherichia coli signal peptide peptidase A is a serine-lysine protease with a lysine recruited to the
+nonconserved amino-terminal domain in the S49 protease family.
+<br><b>Biochemistry.</b> 47(24):6361-9.
+<a href="intranet/pdf/Wang2008Biochemistry.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2706529"
+target="_blank">[PMC2706529]</a></p>
+
+
+<p>Gaultier A, Arandjelovic S, Niessen S, Overton CD, Linton MF, Fazio S, Campana WM, Cravatt BF 3rd, Gonias
+SL. (2008)
+Regulation of tumor necrosis factor receptor-1 and the IKK-NF-kappaB pathway by LDL receptor-related protein
+explains the antiinflammatory activity of this receptor.
+<br><b>Blood. </b>111(11):5316-5325.
+<a href="intranet/pdf/Gaultier2008Blood.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2396725"
+target="_blank">[PMC2396725]</a></p>
+
+
+<p>Nomura DK, Blankman JL, Simon GM, Fujioka K, Issa RS, Ward AM, Cravatt BF, Casida JE. (2008)
+Activation of the endocannabinoid system by organophosphorus nerve agents.
+<br><b>Nat Chem Biol. </b>4(6):373-378.
+<a href="intranet/pdf/Nomura2008NCB.pdf">[PDF]</a>
+<a href="http://www.f1000biology.com/article/id/1122976" target="_blank">[Faculty of 1000 Review]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2597283"
+target="_blank">[PMC2597283]</a></p>
+
+
+<p>Ahn K, McKinney MK, Cravatt BF. (2008)
+Enzymatic pathways that regulate endocannabinoid signaling in the nervous system.
+<br><b>Chem Rev. </b>108(5):1687-1707.
+<a href="intranet/pdf/Ahn2008ChemRevs.pdf">[PDF]</a></p>
+
+<p> Simon GM, Cravatt BF. (2008)
+Anandamide biosynthesis catalyzed by the phosphodiesterase GDE1 and detection of glycerophospho-N-acyl
+ethanolamine precursors in mouse brain.
+<br><b>J Biol Chem.</b> 283(14):9341-9.
+<a href="intranet/pdf/Simon2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2431036"
+target="_blank">[PMC2431036]</a></p>
+
+
+<p> Nomura DK, Fujioka K, Issa RS, Ward AM, Cravatt BF, Casida JE. (2008)
+Dual roles of brain serine hydrolase KIAA1363 in ether lipid metabolism and organophosphate
+detoxification.
+<br><b>Toxicol Appl Pharmacol.  </b> 228(1):42-8.
+<a href="intranet/pdf/x"> [PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2423230"
+target="_blank">[PMC2423230]</a></p>
+
+
+<p>Turman MV, Kingsley PJ, Rouzer CA, Cravatt BF, Marnett LJ. (2008)
+Oxidative metabolism of a fatty acid amide hydrolase-regulated lipid,
+arachidonoyltaurine. <br><b>Biochemistry. </b> 47(12):3917-25.
+<a href="intranet/pdf/Turman2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2760074"
+target="_blank">[PMC2760074]</a></p>
+
+
+<p> Salisbury CM, Cravatt BF. (2008)
+Optimization of activity-based probes for proteomic profiling of histone deacetylase complexes.
+<br><b>J Am Chem Soc. </b>130(7):2184-2194.
+<a href="intranet/pdf/Salisbury2007b.pdf">[PDF]</a> </p>
+
+<p> Egertova M, Simon GM, Cravatt BF, Elphick MR. (2008)
+Localization of N-acyl phosphatidylethanolamine phospholipase D (NAPE-PLD)
+expression in mouse brain: A new perspective on N-acylethanolamines as neural signaling molecules.
+<br><b>J Comp Neurol. </b>506(4):604-615.
+<a href="intranet/pdf/Egertova2007.pdf">[PDF]</a></p>
+
+<p> Maccarrone M, Rossi S, Bari M, De Chiara V, Fezza F, Musella A, Gasperi V, Prosperetti C, Bernardi G,
+Finazzi-Agro A, Cravatt BF, Centonze D. (2008)
+Anandamide inhibits metabolism and physiological actions of 2-arachidonoylglycerol in the striatum.
+<br><b> Nat Neurosci. </b>11(2):152-159.
+<a href="intranet/pdf/Maccarrone2007.pdf">[PDF]</a> </p>
+
+<p> Nyilas R, Dudok B, Urban GM, Mackie K, Watanabe M, Cravatt BF, Freund TF, Katona I. (2008)
+Enzymatic machinery for endocannabinoid biosynthesis associated with calcium stores in glutamatergic axon
+terminals.
+<br><b>J Neurosci. </b>28(5):1058-1063.
+<a href="intranet/pdf/Nyilas2007.pdf">[PDF]</a> </p>
+
+<p>Cravatt BF, Wright AT, Kozarich JW. (2008)
+Activity-based protein profiling: from enzyme chemistry to proteomic chemistry.
+<br><b>Annu Rev Biochem. </b>77:383-414.
+<a href="intranet/pdf/Cravatt2008AnnRevBiochem.pdf">[PDF]</a> </p>
+
+<p> Wise LE, Cannavacciulo R, Cravatt BF, Martin BF, Lichtman AH. (2008)
+valuation of fatty acid amides in the carrageenan-induced paw edema model.
+<br><b>Neuropharmacology.</b> 54(1):181-8.
+<a href="intranet/pdf/Wise2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2200792"
+target="_blank">[PMC2200792]</a></p>
+
+
+<p> <a name="2007"><h3>2007:</h3></a>
+
+<p><a href="http://www.chembiol.com/content/issue?volume=14&issue=12" target="_blank"><img
+src="images/jackie_cover.gif" align="right" height="150" border=0></a>
+Blankman JL, Simon GM, Cravatt BF. (2007)
+A comprehensive profile of brain enzymes that hydrolyze the endocannabinoid 2-arachidonoylglycerol.
+<br><b>Chem Biol. </b>14(12):1347-1356.
+<a href="intranet/pdf/Blankman2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2692834"
+target="_blank">[PMC2692834]</a></p>
+
+
+<p> Cravatt BF, Simon GM, Yates JR 3rd (2007)
+The biological impact of mass-spectrometry-based proteomics.
+<br><b>Nature. </b>450(7172):991-1000.
+<a href="intranet/pdf/Cravatt2007.pdf">[PDF]</a> </p>
+
+<p> Chamero P, Marton TF, Logan DW, Flanagan K, Cruz JR, Saghatelian A, Cravatt BF, Stowers L. (2007)
+Identification of protein pheromones that promote aggressive behaviour.
+<br><b>Nature. </b>450(7171):899-902.
+<a href="intranet/pdf/Chamero2007.pdf">[PDF]</a> </p>
+
+<p> Carlson EE, Cravatt BF. (2007)
+Enrichment tags for enhanced-resolution profiling of the polar metabolome.
+<br><b>J Am Chem Soc. Dec </b>5. 129(51):15780-2.
+<a href="intranet/pdf/Carlson2007b.pdf">[PDF]</a> </p>
+
+<p> Ahn K, Johnson DS, Fitzgerald LR, Liimatta M, Arendse A, Stevenson T, Lund ET, Nugent RA, Nomanbhoy TK,
+Alexander JP, Cravatt BF. (2007)
+Novel mechanistic class of fatty acid amide hydrolase inhibitors with remarkable selectivity.
+<br><b>Biochemistry. </b>46(45):13019-13030.
+<a href="intranet/pdf/Ahn2007.pdf">[PDF]</a> </p>
+
+<p> List K, Currie B, Scharschmidt TC, Szabo R, Shireman J, Molinolo A, Cravatt BF, Segre J, Bugge TH. (2007)
+Autosomal ichthyosis with hypotrichosis syndrome displays low matriptase proteolytic activity and is
+phenocopied in ST14 hypomorphic mice.
+<br><b>J Biol Chem.</b> 282(50):36714-23.
+<a href="intranet/pdf/List2007.pdf">[PDF]</a> </p>
+
+<p> Barglow KT, Cravatt BF. (2007)
+Activity-based protein profiling for the functional annotation of enzymes.
+<br><b>Nat Methods. </b>4(10):822-827.
+<a href="intranet/pdf/Barglow2007.pdf">[PDF]</a> </p>
+
+<p> Wright AT, Cravatt BF. (2007)
+Chemical proteomic probes for profiling cytochrome P450 activities and drug interactions in vivo.
+<br><b>Chem Biol. </b>14(9):1043-1051.
+<a href="intranet/pdf/Wright2007.pdf">[PDF]</a>  <a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2044501" target="_blank">[PMC2044501]</a></p>
+
+<p> Wan Y, Saghatelian A, Chong LW, Zhang CL, Cravatt BF, Evans RM. (2007)
+Maternal PPAR-gamma protects nursing neonates by suppressing the production of inflammatory milk.
+<br><b>Genes Dev. </b>21(15):1895-1908.
+<a href="intranet/pdf/Wan2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1935028" target="_blank">[PMC1935028]</a>
+<a href="http://www.f1000biology.com/article/id/1089944" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Li W, Blankman JL, Cravatt BF. (2007)
+A functional proteomic strategy to discover inhibitors for uncharacterized hydrolases.
+<br><b>J Am Chem Soc. </b>129(31):9594-9595.
+<a href="intranet/pdf/Li2007.pdf">[PDF]</a> </p>
+
+<p> Everley PA, Gartner CA, Haas W, Saghatelian A, Elias JE, Cravatt BF, Zetter BR, Gygi SP. (2007)
+Assessing enzyme activities using stable isotope labeling and mass spectrometry.
+<br><b>Mol Cell Proteomics. </b>6(10):1771-1777.
+<a href="intranet/pdf/Everley2007.pdf">[PDF]</a> </p>
+
+<p> Evans MJ, Morris GM, Wu J, Olson AJ, Sorensen EJ, Cravatt BF. (2007)
+Mechanistic and structural requirements for active site labeling of phosphoglycerate mutase by spiroepoxides.
+<br><b>Mol Biosyst. </b>3(7):495-506.
+<a href="intranet/pdf/Evans2007.pdf">[PDF]</a> </p>
+
+<p> Hardouin C, Kelso MJ, Romero FA, Rayl TJ, Leung D, Hwang I, Cravatt BF, Boger DL. (2007)
+Structure-activity relationships of alpha-ketooxazole inhibitors of fatty acid amide hydrolase.
+<br><b>J Med Chem. </b>50(14):3359-68.
+<a href="intranet/pdf/Hardouin2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2531194" target="_blank">[PMC2531194]</a>
+</p>
+
+<p> Weerapana E, Speers AE, Cravatt BF. (2007)
+Tandem orthogonal proteolysis-activity-based protein profiling (TOP-ABPP)-a general method for mapping sites
+of probe modification in proteomes.
+<br><b>Nat Protoc. </b>2(6):1414-1425.
+<a href="intranet/pdf/Weerapana2007.pdf">[PDF]</a> </p>
+
+<p> Hanson SR, Hsu TL, Weerapana E, Kishikawa K, Simon GM, Cravatt BF, Wong CH. (2007)
+Tailored glycoproteomics and glycan site mapping using saccharide-selective bioorthogonal probes.
+<br><b>J Am Chem Soc. </b>129(23):7266-7267
+<a href="intranet/pdf/Hanson2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2552998" target="_blank">[PMC2552998]</a>
+</p>
+
+
+<p> Batkai S, Rajesh M, Mukhopadhyay P, Hasko G, Liaudet L, Cravatt BF, Csiszar A, Ungvari ZI, Pacher
+P. (2007) Decreased age-related cardiac dysfunction, myocardial nitrative stress, inflammatory gene
+expressionand apoptosis in mice lacking fatty acid amide hydrolase.
+<br><b>Am J Physiol Heart Circ Physiol. </b>293(2):H909-H918.
+<a href="intranet/pdf/Batkai2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2225473" target="_blank">[PMC2225473]</a>
+</p>
+
+
+<p> Carlson EE, Cravatt BF (2007)
+Chemoselective probes for metabolite enrichment and profiling.
+<br><b>Nat Methods. </b>4(5):429-435.
+<a href="intranet/pdf/Carlson2007.pdf">[PDF]</a>
+<a href="intranet/pdf/JProtResHighlight.pdf">[Journal of Proteome Research Commentary]</a>
+<a href="intranet/pdf/AnalChemHighlight.pdf">[Analytical Chemistry Commentary]</a> </p>
+
+
+<p> Romero FA, Du W, Hwang I, Rayl TJ, Kimball FS, Leung D, Hoover HS, Apodaca RL, Breitenbucher JG, Cravatt
+BF, Boger DL. (2007) Potent and selective alpha-ketoheterocycle-based inhibitors of the anandamide and
+oleamide catabolizing enzyme, fatty acid amide hydrolase.
+<br><b>J Med Chem. </b>50(5):1058-1068.
+<a href="intranet/pdf/Romero2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2531193"
+target="_blank">[PMC2531193]</a></p>
+
+
+<p> Naidu PS, Varvel SA, Ahn K, Cravatt BF, Martin BR, Lichtman AH. (2007) Evaluation of fatty acid amide
+hydrolase inhibition in murine models of emotionality.
+<br><b>Psychopharmacology (Berl). </b>192(1):61-70.
+<a href="intranet/pdf/Naidu2007.pdf">[PDF]</a> </p>
+
+
+<p> Wang H, Xie H, Sun X, Kingsley PJ, Marnett LJ, Cravatt BF, Dey SK. (2007) Differential regulation of
+endocannabinoid synthesis and degradation in the uterus during embryo implantation.
+<br><b>Prostaglandins Other Lipid Mediat. </b>83(1-2):62-74.
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1805469" target="_blank">[PMC1805469]</a>
+</p>
+
+
+<p>Macpherson LJ, Dubin AE, Evans MJ, Marr F, Schultz PG, Cravatt BF, Patapoutian A. (2007) Noxious compounds
+activate TRPA1 ion channels through covalent modification of cysteines.
+<br><b>Nature. </b>445(7127):541-545.
+<a href="intranet/pdf/Macpherson2007.pdf">[PDF]</a>
+<a href="intranet/pdf/Macpherson_commentary">[Nature Commentary]</a>
+<a href="http://www.f1000biology.com/article/id/1066961" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Salisbury CM, Cravatt BF. (2007) Activity-based probes for proteomic profiling of histone deacetylase
+complexes.
+<br><b>Proc Natl Acad Sci U S A. </b>104(4):1171-1176.
+<a href="intranet/pdf/Salisbury2007.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1783107" target="_blank">[PMC1783107]</a>
+<a href="http://www.f1000biology.com/article/id/1063690" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Bogyo M, Cravatt BF. (2007) Genomics and proteomics - From genes to function: advances in applications of
+chemical and systems biology.
+<br><b>Curr Opin Chem Biol. </b>11(1):1-3.
+<a href="intranet/pdf/Bogyo2007.pdf">[PDF]</a> </p>
+
+<p> Blednov YA, Cravatt BF, Boehm SL 2nd, Walker D, Harris RA. (2007) Role of endocannabinoids in alcohol
+consumption and intoxication: Studies of mice lacking fatty acid amide hydrolase.
+<br><b>Neuropsychopharmacology. </b>32(7):1570-1582.
+<a href="intranet/pdf/Blednov2007.pdf">[PDF]</a> </p>
+
+
+
+<a name="2006"><h3>2006:</h3></a>
+
+<p> Wise LE, Shelton CC, Cravatt BF, Martin BR, Lichtman AH. (2006) Assessment of anandamide's
+pharmacologicaleffects in mice deficient of both fatty acid amide hydrolase and cannabinoid CB(1) receptors.
+<br><b>Eur J Pharmacol. </b>557(1):44-48.
+<a href="intranet/pdf/Wise2006.pdf">[PDF]</a></p>
+
+<p> Mei G, Di Venere A, Gasperi V, Nicolai E, Masuda KR, Finazzi-Agro' A, Cravatt BF, Maccarrone M. (2006)
+Closing the gate to the active site: Effect of the inhibitor MAFP on the conformation and membrane binding of
+fatty acid amide hydrolase.
+<br><b>J Biol Chem. </b>282(6):3829-3836.
+<a href="intranet/pdf/Mei2006.pdf">[PDF]</a> </p>
+
+<p> Fu J, Astarita G, Gaetani S, Kim J, Cravatt BF, Mackie K, Piomelli D. (2006) Food intake regulates
+oleoylethanolamide formation and degradation in the proximal small intestine.
+<br><b>J Biol Chem. </b>282(2):1518-1528. <a href="intranet/pdf/Fu2006.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1764767" target="_blank">[PMC1764767]</a>
+</p>
+
+
+<p><a href="http://www.chembiol.com/content/issue?volume=13&issue=10" target="_blank"><img
+src="images/kylecover.gif" align="right" height="150" border=0></a>
+Chiang KP, Niessen S, Saghatelian A, Cravatt BF. (2006) An enzyme that regulates ether lipid signaling
+pathways in cancer annotated by multidimensional profiling.
+<br><b>Chem Biol. </b>13(10):1041-1050.
+<a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VRP-4M57VBH-6-G&amp;_cdi=6240&amp;_user=1018416&amp;_orig=browse&amp;_coverDate=10%2F31%2F2006&amp;_sk=999869989&amp;view=c&amp;wchp=dGLbVtb-zSkWA&amp;md5=fe5c8cbb9445aae45f20a7d6785cd922&amp;ie=/sdarticle.pdf">[Full
+text]</a>
+<a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VRP-4M57VBH-2-3&amp;_cdi=6240&amp;_user=1018416&amp;_orig=browse&amp;_coverDate=10%2F31%2F2006&amp;_sk=999869989&amp;view=c&amp;wchp=dGLbVtb-zSkWA&amp;md5=a192362fa1bd36c8519f935c6a36f659&amp;ie=/sdarticle.pdf">[Chemistry
+&amp; Biology Commentary]</a>
+<a href="http://pubs.acs.org/cgi-bin/article.cgi/acbcct/2006/1/i09/html/cb600415e.html#cb600415ej4"> [ACS
+Chemical Biology Commentary]</a>
+<a href="http://pubs.acs.org/cen/news/84/i44/8444notw7.html">[C&amp;E News Commentary]</a>
+<a href="http://www.nature.com/nmeth/journal/v4/n1/full/nmeth0107-8b.html">[Nature Methods Commentary]</a>
+</p>
+
+
+<p> Varvel SA, Wise LE, Niyuhire F, Cravatt BF, Lichtman AH. (2007) Inhibition of fatty-acid amide hydrolase
+accelerates acquisition and extinction rates in a spatial memory task.
+<br><b>Neuropsychopharmacology. </b>32(5):1032-1041.
+<a href="intranet/pdf/Varvel2007.pdf">[PDF]</a> </p>
+
+<p> Barglow KT, Cravatt BF. (2006) Substrate mimicry in an activity-based probe that targets the nitrilase
+family of enzymes.
+<br><b>Angew Chem Int Ed Engl. </b>45(44):7408-7411.
+<a href="intranet/pdf/Barglow2006.pdf">[PDF]</a>
+<a href="http://www.f1000biology.com/article/id/1061734" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Wei BQ, Mikkelsen TS, McKinney MK, Lander ES, Cravatt BF. (2006) A second fatty acid amide hydrolase with
+variable distribution among placental mammals.
+<br><b>J Biol Chem. </b>281(48):36569-36578.
+<a href="intranet/pdf/Wei2006.pdf">[PDF]</a> </p>
+
+<p> Mulder AM, Cravatt BF. (2006) Endocannabinoid metabolism in the absence of fatty acid amide hydrolase
+(FAAH): Discovery of phosphorylcholine derivatives of N-acyl ethanolamines.
+<br><b>Biochemistry. </b>45(38):11267-11277.
+<a href="intranet/pdf/Mulder2006.pdf">[PDF]</a> </p>
+
+<p> Nomura DK, Durkin KA, Chiang KP, Quistad GB, Cravatt BF, Casida JE. (2006) Serine hydrolase KIAA1363:
+Toxicological and structural features with emphasis on organophosphate interactions.
+<br><b>Chem Res Toxicol. </b>19(9):1142-1150. <a href="intranet/pdf/Nomura2006.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2512971" target="_blank">[PMC2512971]</a>
+</p>
+
+<p> Evans MJ, Cravatt BF. (2006) Mechanism-based profiling of enzyme families.
+<br><b>Chem Rev. </b>106(8):3279-3301.
+<a href="intranet/pdf/Evans2006.pdf">[PDF]</a> </p>
+
+<p> Wang H, Xie H, Guo Y, Zhang H, Takahashi T, Kingsley PJ, Marnett LJ, Das SK, Cravatt BF, Dey SK. (2006)
+Fatty acid amide hydrolase deficiency limits early pregnancy events.
+<br><b>J Clin Invest. </b>116(8):2122-2131. <a href="intranet/pdf/Wang2006.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1523389" target="_blank">[PMC1523389]</a>
+</p>
+
+<p> Alexander JP, Cravatt BF. (2006) The putative endocannabinoid transport blocker LY2183240 is a potent
+inhibitor of FAAH and several other brain serine hydrolases.
+<br><b>J Am Chem Soc. </b>128(30):9699-9704.
+<a href="intranet/pdf/AlexanderCravatt2006.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/cgi-bin/article.cgi/acbcct/2006/1/i08/html/cb600392e.html#cb600392ej5"> [ACS
+Chemical Biology Commentary]</a> </p>
+
+<p> McKinney MK, Cravatt BF. (2006) Structure-based design of a FAAH variant that discriminates between the
+N-acyl ethanolamine and taurine families of signaling lipids.
+<br><b>Biochemistry. </b>45(30):9016-9022.
+<a href="intranet/pdf/McKinneyCravatt2006.pdf">[PDF]</a> </p>
+
+<p> Saghatelian A, McKinney MK, Bandell M, Patapoutian A, Cravatt BF. (2006) A FAAH-regulated class of N-acyl
+taurines that activates TRP ion channels.
+<br><b>Biochemistry. </b>45(30):9007-9015.
+<a href="intranet/pdf/SaghatelianMcKinney2006.pdf">[PDF]</a> </p>
+
+<p> Simon GM, Cravatt BF. (2006) Endocannabinoid biosynthesis proceeding through glycerophospho-N-acyl
+ethanolamine and a role for alpha/beta hydrolase 4 in this pathway.
+<br><b>J Biol Chem. </b>281(36):26465-26472.
+<a href="intranet/pdf/Simon2006.pdf">[PDF]</a> </p>
+
+<p> Safo PK, Cravatt BF, Regehr WG. (2006) Retrograde endocannabinoid signaling in the cerebellar cortex.
+<br><b>Cerebellum. </b>5(2):134-145. </p>
+
+<p> Sieber SA, Cravatt BF. (2006) Analytical platforms for activity-based protein profiling - exploiting the
+versatility of chemistry for functional proteomics.
+<br><b>Chem Commun (Camb). </b>22:2311-2319.
+<a href="intranet/pdf/SieberandCravatt2006.pdf">[PDF]</a> </p>
+
+<p> Madsen MA, Deryugina EI, Niessen S, Cravatt BF, Quigley JP. (2006) Activity based protein profiling
+implicates urokinase (uPA) activation as a key step in human fibrosarcoma intravasation.
+<br><b>J Biol Chem. </b>281(23):15997-16005.
+<a href="intranet/pdf/Madsen2006.pdf">[PDF]</a> </p>
+
+<p> Leung D, Saghatelian A, Simon GM, Cravatt BF. (2006) Inactivation of N-acyl phosphatidylethanolamine
+phospholipase D reveals multiple mechanisms for the biosynthesis of endocannabinoids.
+<br><b>Biochemistry. </b>45(15):4720-4726.
+<a href="intranet/pdf/Leung2006.pdf">[PDF]</a> <a href="intranet/pdf/Leung2006supp.pdf">[Supplemental Material]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1538545" target="_blank">[PMC1538545]</a>
+</p>
+
+<p> Sieber SA, Niessen S, Hoover HS, Cravatt BF. (2006) Proteomic profiling of metalloprotease activities
+withcocktails of active-site probes.
+<br><b>Nat Chem Biol. </b>2(5):274-281.
+<a href="intranet/pdf/Sieber2006.pdf">[PDF]</a> <a href="intranet/pdf/Bogyo2006.pdf">[Nature Chemical Biology Commentary]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1538544" target="_blank">[PMC1538544]</a>
+</p>
+
+<p> Balakrishnan A, Patel B, Sieber SA, Chen D, Pachikara N, Zhong G, Cravatt BF, Fan H. (2006)
+Metalloprotease inhibitors GM6001 and TAPI-0 inhibit the obligate intracellular human pathogen Chlamydia
+trachomatis by targeting peptide deformylase of the bacterium.
+<br><b>J Biol Chem. </b>281(24):16691-16699.
+<a href="intranet/pdf/Balakrishnan2006.pdf">[PDF]</a> </p>
+
+<p> Milner JM, Kevorkian L, Young DA, Jones D, Wait R, Donell ST, Barksby E, Patterson AM, Middleton J,
+Cravatt BF, Clark IM, Rowan AD, Cawston TE. (2006) Fibroblast activation protein alpha is expressed by
+chondrocytes following a pro-inflammatory stimulus and is elevated in osteoarthritis.
+<br><b>Arthritis Res Ther. </b>8(1):R23. <a href="intranet/pdf/Milner2006.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1526559" target="_blank">[PMC1526559]</a>
+</p>
+
+<p> Basavarajappa BS, Yalamanchili R, Cravatt BF, Cooper TB, Hungund BL. (2006) Increased ethanol consumption
+and preference and decreased ethanol sensitivity in female FAAH knockout mice.
+<br><b>Neuropharmacology. </b>50(7):834-844.
+<a href="intranet/pdf/Basavarajappa2006.pdf">[PDF]</a> </p>
+
+<p> Siegmund SV, Seki E, Osawa Y, Uchinami H, Cravatt BF, Schwabe RF. (2006)
+Fatty acid amide hydrolase determines anandamide-induced cell death in the liver. <br><b>J Biol
+Chem. </b>281(15):10431-10438. <a href="intranet/pdf/Siegmund2006.pdf">[PDF]</a> </p>
+
+
+<a name="2005"><h3>2005:</h3></a>
+
+
+<p> Saghatelian A, Cravatt BF. (2005) Assignment of protein function in the postgenomic era.
+<br><b>Nat Chem Biol. </b>1(3):130-142.
+<a href="intranet/pdf/Saghatelian2005.pdf">[PDF]</a> </p>
+
+<p> Varvel SA, Cravatt BF, Engram AE, Lichtman AH. (2005) FAAH (-/-) mice exhibit an increased sensitivity to
+the disruptive effects of anandamide or oleamide in a working memory water maze task.
+<br><b>J Pharmacol Exp Ther. </b>317(1):251-257.
+<a href="intranet/pdf/Varvel2005.pdf">[PDF]</a></p>
+
+<p><a href="http://www.chembiol.com/content/issue?volume=12&issue=11" target="_blank"><img
+src="images/alexandercover.gif" align="right" border=0></a>
+Alexander JP, Cravatt BF. (2005) Mechanism of carbamate inactivation of FAAH: implications for the design of
+covalent inhibitors and in vivo functional probes for enzymes.
+<br><b>Chem Biol. </b>12(11):1179-1187.
+<a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VRP-4HKMB86-6-2&amp;_cdi=6240&amp;_user=1018416&amp;_orig=browse&amp;_coverDate=11%2F30%2F2005&amp;_sk=999879988&amp;view=c&amp;wchp=dGLzVzz-zSkWb&amp;md5=e29d39f265421782c0139ff36774fc37&amp;ie=/sdarticle.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1994809" target="_blank">[PMC1994809]</a>
+<a href="http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6VRP-4HKMB86-2-1&amp;_cdi=6240&amp;_user=1018416&amp;_orig=browse&amp;_coverDate=11%2F30%2F2005&amp;_sk=999879988&amp;view=c&amp;wchp=dGLbVlz-zSkzk&amp;md5=840b8daa2584c686ac4fedba894f06b1&amp;ie=/sdarticle.pdf">[Chemistry &amp; Biology Commentary]</a> </p>
+
+<p> Want EJ, Cravatt BF, Siuzdak G. (2005) The expanding role of mass spectrometry in metabolite profiling
+and characterization.
+<br><b>Chembiochem. </b>6(11):1941-1951.</p>
+
+<p> Evans MJ, Saghatelian A, Sorensen EJ, Cravatt BF (2005) Target discovery in small-molecule cell-based
+screens by in situ proteome reactivity profiling.
+<br><b>Nat Biotechnol. </b>23(10):1303-1307.
+<a href="intranet/pdf/Evans2005.pdf">[PDF]</a>
+<a href="http://www.nature.com/nature/journal/v437/n7060/full/437792a.html">[Nature Commentary]</a>
+<a href="http://pubs.acs.org/isubscribe/journals/cen/83/i41/html/8341escic1a.html">[C&amp;E News
+Commentary]</a>
+<a href="http://jbt.abrf.org/cgi/content/full/16/4/474">[Journal of Biomolecular Techniques Commentary]</a>
+</p>
+
+
+<p> Cravatt BF. (2005) Live chemical reports from the cell surface.
+<br><b>Chem Biol. </b>12(9):954-956. </p>
+
+<p> Drahl C, Cravatt BF, Sorensen EJ. (2005) Protein-reactive natural products.
+<br><b>Angew Chem Int Ed Engl. </b>44(36):5788-5809.
+<a href="intranet/pdf/Drahl2005.pdf">[PDF]</a> </p>
+
+<p> Osei-Hyiaman D, Depetrillo M, Harvey-White J, Bannon AW, Cravatt BF, Kuhar MJ, Mackie K, Palkovits M,
+Kunos G. (2005) Cocaine- and amphetamine-related transcript peptide is involved in the orexigenic effect of
+endogenous anandamide.
+<br><b>Neuroendocrinology. </b>81(4):273-282.
+<a href="intranet/pdf/Osei_Hyiaman_NeuroEndo_2005.pdf">[PDF]</a> </p>
+
+<p>Jessani N, Niessen S, Wei BQ, Nicolau M, Humphrey M, Ji Y, Han W, Noh DY, Yates JR 3rd, Jeffrey SS,
+CravattBF. (2005) A streamlined platform for high-content functional proteomics of primary human specimens.
+<br><b>Nat Methods. </b>2(9):691-697.
+<a href="intranet/pdf/JessaniNiessen2005.pdf">[PDF]</a> </p>
+
+<p> Speers AE, Cravatt BF. (2005) A tandem orthogonal proteolysis strategy for high-content chemical
+proteomics.
+<br><b>J Am Chem Soc. </b>127(28):10018-10019.
+<a href="intranet/pdf/Speers2005.pdf">[PDF]</a>
+<a href="http://www.f1000biology.com/article/id/1026862" target="_blank">[Faculty of 1000 Review]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1538546" target="_blank">[PMC1538546]</a>
+</p>
+
+<p> Hogestatt ED, Jonsson BA, Ermund A, Andersson DA, Bjork H, Alexander JP, Cravatt BF, Basbaum AI, Zygmunt
+PM. (2005) Conversion of acetaminophen to the bioactive N-acyl phenolamine AM404 via fatty acid amide
+hydrolase-dependent arachidonic acid conjugation in the nervous system.
+<br><b>J Biol Chem. </b>280(36):31405-31412.
+<a href="intranet/pdf/Hogestatt2005.pdf">[PDF]</a> </p>
+
+<p> Saghatelian A, Cravatt BF. (2005) Discovery metabolite profiling - forging functional connections between
+the proteome and metabolome.
+<br><b>Life Sci. </b>77(14):1759-1766. </p>
+
+<p> Cravatt BF (2005) Kinase chemical genomics--a new rule for the exceptions.
+<br><b>Nat Methods. </b>2:411-412.
+<a href="intranet/pdf/CravattNV2005.pdf">[PDF]</a> </p>
+
+<p> Lichtman AH, Cravatt BF. (2005) Food for thought: endocannabinoid modulation of lipogenesis.
+<br><b>J Clin Invest. </b>115(5):1130-1133.
+<a href="intranet/pdf/LichtmanCravatt2005.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1087183" target="_blank">[PMC1087183]</a>
+</p>
+
+<p> Nomura DK, Leung D, Chiang KP, Quistad GB, Cravatt BF, Casida JE. (2005) A brain detoxifying enzyme for
+organophosphorus nerve poisons.
+<br><b>Proc Natl Acad Sci U S A. </b>102(17):6195-6200.
+<a href="intranet/pdf/Nomura2005.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1087944" target="_blank">[PMC1087944]</a>
+</p>
+
+<p> Pacher P, Batkai S, Osei-Hyiaman D, Offertaler L, Liu J, Harvey-White J, Brassai A, Jarai Z, Cravatt BF,
+Kunos G. (2005) Hemodynamic profile, responsiveness to anandamide and baroreflex sensitivity of mice lacking
+fatty acide amide hydrolase.
+<br><b>Am J Physiol Heart Circ Physiol. </b>289(2):H533-541.
+<a href="intranet/pdf/Pacher2005.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2225481" target="_blank">[PMC2225481]</a>
+</p>
+
+
+<p> Go EP, Apon JV, Luo G, Saghatelian A, Daniels RH, Sahi V, Dubrow R, Cravatt BF, Vertes A, Siuzdak
+G. (2005)Desorption/ionization on silicon nanowires.
+<br><b>Anal Chem. </b>77(6):1641-1646.
+<a href="intranet/pdf/Go.pdf">[PDF]</a> </p>
+
+<p> Jessani N, Young JA, Diaz SL, Patricelli MP, Varki A, Cravatt BF. (2005)
+Class assignment of sequence-unrelated members of enzyme superfamilies by activity-based protein profiling. <br><b>Angew Chem Int Ed Engl. </b>44(16):2400-2403. <a href="intranet/pdf/JessaniYoung2005.pdf">[PDF]</a>  <a href="http://www.f1000biology.com/article/id/1025181" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Boger DL, Miyauchi H, Du W, Hardouin C, Fecik RA, Cheng H, Hwang I, Hedrick MP, Leung D, Acevedo O,
+Guimaraes CRW, Jorgensen WL, CravattBF. (2005) Discovery of a potent, selective, and efficacious class of
+reversible alpha-ketoheterocycle inhibitors of fatty acid amide hydrolase effective as analgesics.
+<br><b>J Med Chem. </b>48(6):1849-1856.
+<a href="intranet/pdf/Boger2005.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2492884" target="_blank">[PMC2492884]</a>
+</p>
+
+
+<p> McKinney MK, Cravatt BF. (2005) Structure and function of fatty acid amide hydrolase.
+<br><b>Annu Rev Biochem. </b>74:411-432.
+<a href="intranet/pdf/McKinney2005.pdf">[PDF]</a> </p>
+
+<p> Patel S, Cravatt BF, Hillard CJ. (2005) Synergistic interactions between cannabinoids and environmental
+stress in the activation of the central amygdala.
+<br><b>Neuropsychopharmacology. </b>30(3):497-507.
+<a href="intranet/pdf/Patel2005.pdf">[PDF]</a> </p>
+
+<p> Leung D, Du W, Hardouin C, Cheng H, Hwang I, Cravatt BF, Boger DL. (2005) Discovery of an exceptionally
+potent and selective class of fatty acid amide hydrolase inhibitors enlisting proteome-wide selectivity
+screening: concurrent optimization of enzyme inhibitor potency and selectivity.
+<br><b>Bioorg Med Chem Lett. </b>15(5):1423-1428.
+<a href="intranet/pdf/Leung2005.pdf">[PDF]</a> </p>
+
+<p> Saghatelian A, Cravatt BF. (2005) Global strategies to integrate the proteome and metabolome.
+<br><b>Curr Opin Chem Biol. </b>9(1):62-68.
+<a href="intranet/pdf/SaghatelianandCravatt.pdf">[PDF]</a> </p>
+
+<p> Cravatt BF, Kodadek T. (2005) Proteomics and genomics.
+<br><b>A chemo-centric view of proteomics and genomics. Curr Opin Chem Biol. </b>9(1):1-3.
+<a href="intranet/pdf/CravattandKodatek.pdf">[PDF]</a> </p>
+
+<p> Jessani N, Niessen S, Mueller BM, Cravatt BF. (2005) Breast cancer cell lines grown in vivo: what goes in
+isn't always the same as what comes out.
+<br><b>Cell Cycle. </b>4(2):253-255.
+<a href="intranet/pdf/Jessani2005.pdf">[PDF]</a></p>
+
+<p> Patel S, Carrier EJ, Ho WS, Rademacher DJ, Cunningham S, Reddy DS, Falck JR, Cravatt BF, Hillard
+CJ. (2005) The post-mortal accumulation of brain N-arachidonylethanolamine (anandamide) is dependent upon
+fatty acid amide hydrolase activity.
+<br><b>J Lipid Res. </b>46(2):342-349.
+<a href="intranet/pdf/PatelCarrier2005.pdf">[PDF]</a> </p>
+
+
+<a name="2004"><h3>2004:</h3></a>
+
+<p> Sieber SA, Mondala TS, Head SR, Cravatt BF. (2004) Microarray platform for profiling enzyme activities in
+complex proteomes.
+<br><b>J Am Chem Soc. </b>126(48):15640-15641.
+<a href="intranet/pdf/Sieber2004.pdf">[PDF]</a> </p>
+
+<p> Barglow KT, Cravatt BF. (2004) Discovering disease-associated enzymes by proteome reactivity profiling.
+<br><b>Chem Biol. </b>11(11):1523-1531.
+<a href="intranet/pdf/Barglow2004.pdf">[PDF]</a>
+<a href="http://www.f1000biology.com/article/id/1023009" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Saghatelian A, Trauger SA, Want EJ, Hawkins EG, Siuzdak G, and Cravatt BF. (2004) Assignment of
+endogenoussubstrates to enzymes by global metabolite profiling.
+<br><b>Biochemistry. </b>43(45):14332-14339.
+<a href="intranet/pdf/SaghatelianTrauger2004.pdf">[PDF]</a>
+<a href="intranet/pdf/Sag_NM_Comment.pdf">[Nature Methods Commentary]</a>
+<a href="http://www.f1000biology.com/article/id/1023249" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Azad SC, Monory K, Marsicano G, Cravatt BF, Lutz B, Zieglgansberger W, Rammes G. (2004) Circuitry for
+associative plasticity in the amygdala involves endocannabinoid signaling.
+<br><b>J Neurosci. </b>24(44):9953-9961.
+<a href="intranet/pdf/Azad2004.pdf">[PDF]</a> </p>
+
+<p> Egertova M, Michael GJ, Cravatt BF, Elphick MR. (2004) Fatty acid amide hydrolase in brain ventricular
+epithelium: mutually exclusive patterns of expression in mouse and rat.
+<br><b>J Chem Neuroanat. </b>28(3):171-181. </p>
+
+<p> Huitron-Resendiz S, Sanchez-Alavez M, Wills DN, Cravatt BF, Henriksen SJ. (2004) Characterization of the
+sleep-wake patterns in mice lacking fatty acid amide hydrolase.
+<br><b>Sleep. </b>27(5):857-865.
+<a href="intranet/pdf/Huitron2004.pdf">[PDF]</a> </p>
+
+<p> Cravatt BF, Lichtman AH. (2004) The endogenous cannabinoid system and its role in nociceptive behavior.
+<br><b>J Neurobiol. </b>61(1):149-160. </p>
+
+<p>Jessani N, Humphrey M, McDonald WH, Niessen S, Masuda K, Gangadharan B, Yates JR 3rd, Mueller BM, Cravatt
+BF. (2004) Carcinoma and stromal enzyme activity profiles associated with breast tumor growth in vivo.
+<br><b>Proc Natl Acad Sci USA. </b>101(38):13756-13761.
+<a href="intranet/pdf/JessaniHumphrey2004.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=518829" target="_blank">[PMC518829]</a>
+<a href="http://www.f1000biology.com/article/id/1024765" target="_blank">[Faculty of 1000 Review]</a> </p>
+
+<p> Chiang KP, Gerber AL, Sipe J, Cravatt BF. (2004) Reduced cellular expression and activity of the P129T
+mutant of human fatty acid amide hydrolase - evidence for a link between defects in the endocannabinoid
+system and problem drug use.
+<br><b>Hum Mol Genet. </b>13(18):2113-2119.
+<a href="intranet/pdf/Chiang2004.pdf">[PDF]</a> </p>
+
+<p> Cravatt BF, Saghatelian A, Hawkins EG, Clement AB, Bracey MH, Lichtman AH. (2004) Functional
+disassociation of the central and peripheral fatty acid amide signaling systems.
+<br><b>Proc Natl Acad Sci USA. </b>101(29):10821-10826.
+<a href="intranet/pdf/CravattSaghatelian2004.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=490018" target="_blank">[PMC490018]</a>
+</p>
+
+<p> Gulyas AI, Cravatt BF, Bracey MH, Dinh TP, Piomelli D, Boscia F, Freund TF. (2004) Segregation of two
+endocannabinoid-hydrolyzing enzymes into pre- and postsynaptic compartments in the rat hippocampus,
+cerebellum and amygdala.
+<br><b>Eur J Neurosci. </b>20(2):441-458.
+<a href="intranet/pdf/Gulyas2004.pdf">[PDF]</a> </p>
+
+<p> Lichtman AH, Leung D, Shelton C, Saghatelian A, Hardouin C, Boger D, Cravatt BF. (2004) Reversible
+inhibitors of fatty acid amide hydrolase that promote analgesia: evidence for an unprecedented combination of
+potency and selectivity.
+<br><b>J Pharmacol Exp Ther. </b>311(2):441-448.
+<a href="intranet/pdf/Lichtman2004b.pdf">[PDF]</a> </p>
+
+<p> Saghatelian A, Jessani N, Joseph A, Humphrey M, Cravatt BF. (2004) Activity-based probes for the
+proteomic profiling of metalloproteases.
+<br><b>Proc Natl Acad Sci USA. </b>101(27):10000-10005.
+<a href="intranet/pdf/Saghatelian2004.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=454150" target="_blank">[PMC454150]</a>
+</p>
+
+<p> Ortega-Gutierrez S, Hawkins EG, Viso A, Lopez-Rodriguez ML, Cravatt BF. (2004) Comparison of anandamide
+transport in FAAH wild-type and knockout neurons: Evidence for contributions by both FAAH and the CB1
+receptor to anandamide uptake.
+<br><b>Biochemistry </b>43(25):8184-8190.
+<a href="intranet/pdf/Ortega2004.pdf">[PDF]</a> </p>
+
+<p> Bracey MH, Cravatt BF, Stevens RC. (2004) Structural commonalities among integral membrane enzymes.
+<br><b>FEBS Lett. </b>567(2-3):159-165.
+<a href="intranet/pdf/Bracey2004.pdf">[PDF]</a> </p>
+
+<p> Lichtman AH, Shelton CC, Advani T, Cravatt BF. (2004) Mice lacking fatty acid amide hydrolase exhibit a
+cannabinoid receptor-mediated phenotypic hypoalgesia.
+<br><b>Pain </b>109(3):319-327.
+<a href="intranet/pdf/Lichtman2004.pdf">[PDF]</a> </p>
+
+<p> Speers AE, Cravatt BF. (2004) Profiling enzyme activities in vivo using click chemistry methods.
+<br><b>Chem Biol. </b>11(4):535-546.
+<a href="intranet/pdf/SpeersCravattCB2004.pdf">[PDF]</a> </p>
+
+<p> Massa F, Marsicano G, Hermann H, Cannich A, Monory K, Cravatt BF, Ferri GL, Sibaev A, Storr M, Lutz
+B. (2004) The endogenous cannabinoid system protects against colonic inflammation.
+<br><b>J Clin Invest. </b>113(8):1202-1209.
+<a href="intranet/pdf/massa2004.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=385396" target="_blank">[PMC385396]</a>
+</p>
+
+<p> Jessani N, Cravatt BF. (2004) The development and application of methods for activity-based protein
+profiling.
+<br><b>Curr Opin Chem Biol. </b>8(1):54-59.
+<a href="intranet/pdf/Jessani_Cravatt2004.pdf">[PDF]</a> </p>
+
+<p> Adam GC, Burbaum J, Kozarich JW, Patricelli MP, Cravatt BF. (2004) Mapping enzyme active sites in complex
+proteomes.
+<br><b>J Am Chem Soc. </b>126(5):1363-1368.
+<a href="intranet/pdf/Adam2004.pdf">[PDF]</a> </p>
+
+<p> Weber A, Ni J, Ling KH, Acheampong A, Tang-Liu DD, Burk R, Cravatt BF, Woodward D. (2004) Formation of
+prostamides from anandamide in FAAH knockout mice analyzed by HPLC with tandem mass spectrometry.
+<br><b>J Lipid Res. </b>45(4):757-763.
+<a href="intranet/pdf/Weber2004.pdf">[PDF]</a> </p>
+
+<p> Speers AE, Cravatt BF. (2004) Chemical strategies for activity-based proteomics.
+<br><b>Chembiochem. </b>5(1):41-47.
+<a href="intranet/pdf/Speers2004.pdf">[PDF]</a> </p>
+
+
+<a name="2003"><h3>2003:</h3></a>
+
+<p> Kustedjo K, Deechongkit S, Kelly JW, Cravatt BF. (2003) Recombinant expression, purification, and
+comparative  characterization of torsinA and its torsion dystonia-associated variant deltaE-torsinA.
+<br><b>Biochemistry. </b>42(51):15333-15341.
+<a href="intranet/pdf/Kustedjoetal2003.pdf">[PDF]</a> </p>
+
+<p> Adam GC, Vanderwal CD, Sorensen EJ, Cravatt BF. (2003) (-)-FR182877 is a potent and selective inhibitor
+of carboxylesterase-1.
+<br><b>Angew. Chem. Int. Ed. </b>42:5480-5484.
+<a href="intranet/pdf/Adametal2003.pdf">[PDF]</a> </p>
+
+<p> Liu J, Batkai S, Pacher P, Harvey-White J, Wagner JA, Cravatt BF, Gao B, Kunos G. (2003) LPS Induces
+anandamide synthesis in macrophages via CD14/MAPK/PI3K/NF-kappaB independently of platelet activating factor.
+<br><b>J Biol Chem. </b>278(45):45034-45039.
+<a href="intranet/pdf/Liuetal2003.pdf">[PDF]</a> </p>
+
+<p> Cravatt BF, Lichtman AH. (2003) Fatty acid amide hydrolase: an emerging therapeutic target in the
+endocannabinoid system.
+<br><b>Curr Opin Chem Biol. </b>7(4):469-475.
+<a href="intranet/pdf/CravattLichtman2003.pdf">[PDF]</a>  </p>
+
+<p> Egertova M, Cravatt BF, Elphick MR. (2003) Comparative analysis of fatty acid amide hydrolase and cb(1)
+cannabinoid receptor expression in the mouse brain: evidence of a widespread role for fatty acid amide
+hydrolase in regulation of endocannabinoid signaling.
+<br><b>Neuroscience. </b>119(2):481-496.
+<a href="intranet/pdf/Egertova2003.pdf">[PDF]</a> </p>
+
+<p> Leung D, Hardouin C, Boger DL, Cravatt BF. (2003) Discovering potent and selective reversible inhibitors
+of enzymes in complex proteomes.
+<br><b>Nat Biotechnol. </b>21(6):687-691.
+<a href="intranet/pdf/Leungetal2003.pdf">[PDF]</a> </p>
+
+<p> McKinney MK, Cravatt BF. (2003) Evidence for distinct roles in catalysis for residues of the
+serine-serine-lysine catalytic triad of fatty acid amide hydrolase.
+<br><b>J Biol Chem. </b>278(39):37393-37399.
+<a href="intranet/pdf/mckinney2003.pdf">[PDF]</a> </p>
+
+<p> Clement AB, Hawkins EG, Lichtman AH, Cravatt BF. (2003) Increased seizure susceptibility and
+proconvulsant activity of anandamide in mice lacking fatty acid amide hydrolase.
+<br><b>J Neurosci. </b>23(9):3916-3923.
+<a href="intranet/pdf/Clementetal2003.pdf">[PDF]</a> </p>
+
+<p> Speers AE, Adam GC, Cravatt BF. (2003) Activity-based protein profiling in vivo using a
+copper(I)-catalyzed azide-alkyne [3 + 2] cycloaddition.
+<br><b>J Am Chem Soc. </b>125(16):4686-4687.
+<a href="intranet/pdf/Speersetal2003.pdf">[PDF]</a> </p>
+
+
+
+<a name="2002"><h3>2002:</h3></a>
+
+<p> Aebersold R, Cravatt BF (2002) Proteomics--advances, applications and the challenges that remain.
+<br><b>Trends Biotechnol. </b>20(12 Suppl):S1-2. </p>
+
+<p>Cravatt BF, Lichtman AH (2002) The enzymatic inactivation of the fatty acid amide class of signaling
+lipids.
+<br><b>Chem Phys Lipids. </b>121(1-2):135-148. </p>
+
+<p>Bracey MH, Hanson MA, Masuda KR, Stevens RC, Cravatt BF. (2002) Structural adaptations in a membrane
+enzyme that terminates endocannabinoid signaling.
+<br><b>Science. </b>298(5599):1793-1796.
+<a href="intranet/pdf/Bracey2002.pdf">[PDF]</a>
+<a href="http://pubs.acs.org/isubscribe/journals/cen/80/i50/html/8050sci1.html">[C&amp;E News Commentary]</a>
+<a href="http://www.chembiol.com/content/article/abstract?uid=PIIS1074552103000061">[Chem Biol Commentary]</a>
+<a href="intranet/pdf/nrd0203-highlights.pdf">[Nature Drug Discovery Commentary]</a> </p>
+
+<p> Adam GC, Sorensen EJ, Cravatt BF. (2002) Trifunctional chemical probes for the consolidated detection and
+identification of enzyme activities from complex proteomes.
+<br><b>Mol Cell Proteomics. </b>1(10):828-835.
+<a href="intranet/pdf/AdametalMCP2002.pdf">[PDF]</a> </p>
+
+<p> Adam GC, Sorensen EJ, Cravatt BF. (2002) Chemical strategies for functional proteomics.
+<br><b>Mol Cell Proteomics. </b>1(10):781-790.
+<a href="intranet/pdf/AdamMCPReview.pdf">[PDF]</a> </p>
+
+<p> Jessani N, Liu Y, Humphrey M, Cravatt BF. (2002) Enzyme activity profiles of the secreted and membrane
+proteome that depict cancer cell invasiveness.
+<br><b>Proc Natl Acad Sci USA. </b>99(16):10335-10340.
+<a href="intranet/pdf/Jessanietal2002.PNAS.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=124915" target="_blank">[PMC124915]</a>
+</p>
+
+<p> Waleh NS, Cravatt BF, Apte-Deshpande A, Terao A, Kilduff TS. (2002) Transcriptional regulation of the
+mouse fatty acid amide hydrolase gene.
+<br><b>Gene. </b>291(1-2):203-210.
+<a href="intranet/pdf/Waleh2002.pdf">[PDF]</a> </p>
+
+<p> Adam GC, Sorensen EJ, Cravatt BF. (2002) Proteomic profiling of mechanistically distinct enzyme classes
+using a common chemotype.
+<br><b>Nat Biotechnol. </b>20(8):805-809.
+<a href="intranet/pdf/Adametal2002NatBiotech.pdf">[PDF]</a>
+<a href="http://www.nature.com/cgi-taf/DynaPage.taf?file=/nbt/journal/v20/n8/full/nbt0802-786.html">[Nature
+Biotechnology Commentary]</a> </p>
+
+<p> Lichtman AH, Hawkins EG, Griffin G, Cravatt BF. (2002) Pharmacological activity of fatty acid amides is
+regulated, but not mediated, by fatty acid amide hydrolase in vivo.
+<br><b>J Pharmacol Exp Ther. </b>302(1):73-79.
+<a href="intranet/pdf/Lichtmanetal2002JPET.pdf">[PDF]</a>  </p>
+
+<p> Sipe JC, Chiang K, Gerber AL, Beutler E, Cravatt BF. (2002) A missense mutation in human fatty acid amide
+hydrolase associated with problem drug use.
+<br><b>Proc Natl Acad Sci USA. </b>99(12):8394-8399.
+<a href="intranet/pdf/SipeetalPNAS2002.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=123078" target="_blank">[PMC123078]</a>
+</p>
+
+
+<a name="2001"><h3>2001:</h3></a>
+
+<p> Larsen NA, Heine A, Crane L, Cravatt BF, Lerner RA, Wilson IA. (2001) Structural basis for a disfavored
+elimination reaction in catalytic antibody 1D4.
+<br><b>J Mol Biol. </b>314(1):93-102.
+<a href="intranet/pdf/Larsen2001.pdf">[PDF]</a> </p>
+
+<p> Huitron-Resendiz S, Gombart L, Cravatt BF, Henriksen SJ. (2001) Effect of oleamide on sleep and its
+relationship to blood pressure, body temperature, and locomotor activity in rats.
+<br><b>Exp Neurol. </b>172(1):235-243.
+<a href="intranet/pdf/Huitron2001.pdf">[PDF]</a> </p>
+
+<p> Cravatt BF, Demarest K, Patricelli MP, Bracey MH, Giang DK, Martin BR, Lichtman AH. (2001)
+Supersensitivity to anandamide and enhanced endogenous cannabinoid signaling in mice lacking fatty acid amide
+hydrolase.
+<br><b>Proc. Natl. Acad. Sci. USA. </b>98(16):9371-9376.
+<a href="intranet/pdf/CravattetalPNAS2001.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=55427" target="_blank">[PMC55427]</a>
+<a href="http://pubs.acs.org/isubscribe/journals/cen/79/i31/html/7931scic.html#Anchor-45306">[C&amp;E News
+Commentary]</a>
+<a href="http://www.esi-topics.com/fbp/comments/december02-BenjaminCravatt.html">[ISI Essential Science
+Indicators]</a> </p>
+
+<p> Patricelli MP, Cravatt BF. (2001) Characterization and manipulation of the acyl chain selectivity of
+fatty acid amide hydrolase.
+<br><b>Biochemistry. </b>40(20):6107-6115.
+<a href="intranet/pdf/PatricelliCravatt2001">[PDF]</a> </p>
+
+<p> Patricelli MP, Cravatt BF. (2001) Proteins regulating the biosynthesis and inactivation of
+neuromodulatory fatty acid amides.
+<br><b>Vitam Horm. </b>62:95-131. Review </p>
+
+<p> Kidd D, Liu Y, Cravatt BF (2001) Profiling serine hydrolase activities in complex proteomes.
+<br><b>Biochemistry. </b>40(13):4005-4015.
+<a href="intranet/pdf/Kiddetal2001Biochem.pdf">[PDF]</a> </p>
+
+<p> Adam GC, Cravatt BF, Sorensen EJ. (2001) Profiling the specific reactivity of the  proteome with
+non-directed activity-based probes.
+<br><b>Chem. Biol. </b>8(1):81-95.
+<a href="intranet/pdf/Adametal2001ChemBio.pdf">[PDF]</a> </p>
+
+
+<a name="2000"><h3>2000:</h3></a>
+
+<p> Boger DL, Fecik RA, Patterson JE, Miyauchi H, Patricelli MP, Cravatt BF. (2000) Fatty acid amide
+hydrolase substrate specificity.
+<br><b>Bioorg. Med. Chem. Lett. </b>10(23):2613-2616.
+<a href="intranet/pdf/Boger2000.pdf">[PDF]</a> </p>
+
+<p> Cravatt BF, Sorensen EJ. (2000) Chemical strategies for the global analysis  of protein function.
+<br><b>Curr. Opin. Chem. Biol. </b>4(6):663-668.
+<a href="intranet/pdf/Cravatt_Sorensen2000.pdf">[PDF]</a>  </p>
+
+<p> Wang EW, Kessler BM, Borodovsky A, Cravatt BF, Bogyo M, Ploegh HL, Glas R. (2000) Integration of the
+ubiquitin-proteasome pathway with a cytosolic oligopeptidase activity.
+<br><b>Proc Natl Acad Sci USA. </b>97(18)9990-9995.
+<a href="intranet/pdf/Wang2000.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=27648" target="_blank">[PMC27648]</a> </p>
+
+<p> Kustedjo K, Bracey MH, Cravatt BF. (2000) Torsin A and its torsion dystonia-associated  mutant forms are
+lumenal glycoproteins that exhibit distinct subcellular  localizations.
+<br><b>J Biol. Chem. </b>275(36):27933-27939.
+<a href="intranet/pdf/Kustedjoetal2000.pdf">[PDF]</a> </p>
+
+<p> Boger DL, Sato H, Lerner AE, Hedrick MP, Fecik RA, Miyauchi H, Wilkie GD, Austin BJ, Patricelli MP,
+Cravatt BF. (2000) Exceptionally potent inhibitors of fatty acid amide hydrolase: the enzyme responsible for
+degradation of endogenous oleamide and anandamide.
+<br><b>Proc Natl Acad Sci USA. </b>97(10):5044-5049.
+<a href="intranet/pdf/BogerSato2000.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=25778" target="_blank">[PMC25778]</a> </p>
+
+<p> Patricelli MP, Cravatt BF. (2000) Clarifying the catalytic roles of conserved residues in the amidase
+signature family.
+<br><b>J. Biol. Chem. </b>275(25):19177-19184.
+<a href="intranet/pdf/PatricelliCravattJBC2000.pdf">[PDF]</a> </p>
+
+<p> Egertova M, Cravatt BF, Elphick MR. (2000) Fatty acid amide hydrolase expression in rat choroid plexus:
+possible role in regulation of the sleep-inducing action of oleamide.
+<br><b>Neurosci Lett. </b>282(1-2):13-16.
+<a href="intranet/pdf/Egertova2000.pdf">[PDF]</a> </p>
+
+
+<a name="1999"><h3>1999:</h3></a>
+
+<p> Liu Y, Patricelli MP, Cravatt BF. (1999) Activity-based protein profiling: The serine hydrolases.
+<br><b>Proc. Natl. Acad. Sci. USA. </b>96(26):14694-14699.
+<a href="intranet/pdf/Liuetal1999PNAS.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=24710" target="_blank">[PMC24710]</a> </p>
+
+<p> Patricelli MP, Cravatt BF. (1999) Fatty acid amide hydrolase competitively degrades bioactive amides and
+esters through a nonconventional catalytic mechanism.
+<br><b>Biochemistry </b>38(43):14125-14130.
+<a href="intranet/pdf/PatricelliCravatt1999.pdf">[PDF]</a> </p>
+
+<p> Patricelli MP, Lovato MA, Cravatt BF. (1999) Chemical and mutagenic investigations of fatty acid amide
+hydrolase:  evidence for a family of serine hydrolases with distinct catalytic properties.
+<br><b>Biochemistry </b>38(31): 9804-9812.
+<a href="intranet/pdf/Patricellietal1999Biochem.pdf">[PDF]</a> </p>
+
+<p> Thomas EA, Cravatt BF, Sutcliffe JG. (1999) The endogenous lipid oleamide activates serotonin  5-HT7
+neurons in mouse thalamus and hypothalamus.
+<br><b>J Neurochem. </b>72(6):2370-2378.
+<a href="intranet/pdf/Thomas1999.pdf">[PDF]</a> </p>
+
+<p> Boger DL, Sato H, Lerner AE, Austin BJ, Patterson JE, Patricelli MP, Cravatt BF. (1999) Trifluoromethyl
+ketone inhibitors of fatty acid amide hydrolase: a probe of structural and conformational  features
+contributing to inhibition.
+<br><b>Bioorg. Med. Chem. Lett. </b>9(2):265-270.
+<a href="intranet/pdf/BogerSato1999.pdf">[PDF]</a> </p>
+
+
+<a name="1998"><h3>1998:</h3></a>
+
+<p> Boger DL, Henriksen SJ, Cravatt BF.  (1998) Oleamide: an endogenous sleep-inducing lipid and
+prototypical member of a new class of biological signaling molecules.
+<br><b>Curr. Pharm. Des. </b>4(4):303-314. Review. </p>
+
+<p> Wan M, Cravatt BF, Ring HZ, Zhang X, Francke U. (1998) Conserved chromosomal  location and genomic
+structure of human and mouse fatty-acid amide hydrolase  genes and evaluation of clasper as a candidate
+neurological mutation.
+<br><b>Genomics </b>54(3):408-414.
+<a href="intranet/pdf/Wan1998.pdf">[PDF]</a>  </p>
+
+<p>Patricelli MP, Patterson JE, Boger DL, Cravatt BF.(1998) An endogenous sleep-inducing  compound is a novel
+competitive inhibitor of fatty acid amide hydrolase.
+<br><b>Bioorg. Med. Chem. Lett. </b>8(6):613-618.
+<a href="intranet/pdf/PatricelliPatterson1998.pdf">[PDF]</a>  </p>
+
+<p>Egertova M, Giang DK, Cravatt BF, Elphick MR.(1998) A new perspective on cannabinoid  signalling:
+complementary localization of fatty acid amide hydrolase and the CB1  receptor in rat brain.
+<br><b>Proc. R. Soc. Lond. B Biol. Sci. </b>265(1410):2081-2085.
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1689501" target="_blank">[PMC1689501]</a></p>
+
+<p>Patricelli MP, Lashuel HA, Giang DK, Kelly JW, Cravatt BF.(1998) Comparative characterization of a wild
+type and transmembrane domain-deleted fatty acid amide hydrolase: identification of the transmembrane domain
+as a site for oligomerization.
+<br><b>Biochemistry. </b>37(43):15177-15187.
+<a href="intranet/pdf/Patricellietal1998Biochem.pdf">[PDF]</a>  </p>
+
+<p>Boger DL, Patterson JE, Guan X, Cravatt BF, Lerner RA, Gilula NB.  (1998)
+Chemical  requirements for inhibition of gap junction communication by the biologically active  lipid oleamide.  <br><b>Proc. Natl. Acad. Sci. USA. </b>95(9):4810-4815. <a href="intranet/pdf/Boger1998.pdf">[PDF]</a> <a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=20169" target="_blank">[PMC20169]</a> </p>
+
+<p>Giang DK, Cravatt BF.  (1998) A second mammalian N-myristoyltransferase.
+<br><b>J Biol Chem.  </b>273(12):6595-6598.
+<a href="intranet/pdf/GiangCravatt1998.pdf">[PDF]</a>  </p>
+
+
+<a name="1997"><h3>1997:</h3></a>
+
+<p>Guan X, Cravatt BF, Ehring GR, Hall JE, Boger DL, Lerner RA, Gilula NB. (1997) The sleep-inducing lipid
+oleamide deconvolutes gap junction communication and calcium  wave transmission in glial cells.
+<br><b>J. Cell Biol. </b>139(7):1785-1792.
+<a href="intranet/pdf/Guan1997.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2132638" target="_blank">[PMC2132638]</a>
+</p>
+
+
+<p>Thomas EA, Cravatt BF, Danielson PE, Gilula NB, Sutcliffe JG. (1997) Fatty acid amide hydrolase,  the
+degradative enzyme for anandamide and oleamide, has selective distribution in neurons within  the rat central
+nervous system.
+<br><b>J. Neurosci. Res. </b>50(6):1047-1052.
+<a href="intranet/pdf/Thomas1997.pdf">[PDF]</a>  </p>
+
+<p>Arreaza G, Devane WA, Omeir RL, Sajnani G, Kunz J, Cravatt BF, Deutsch DG. (1997) The cloned  rat
+hydrolytic enzyme responsible for the breakdown of anandamide also catalyzes its formation  via the
+condensation of arachidonic acid and ethanolamine.
+<br><b>Neurosci. Lett. </b>234(1):59-62.
+<a href="intranet/pdf/Arreaza1997.pdf">[PDF]</a>  </p>
+
+<p>Giang DK, Cravatt BF. (1997) Molecular characterization of human and mouse fatty acid  amide hydrolases.
+<br><b>Proc. Natl. Acad. Sci. USA. </b>94(6):2238-2242.
+<a href="intranet/pdf/GiangCravatt1997PNAS.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=20071" target="_blank">[PMC20071]</a> </p>
+
+
+<a name="1996"><h3>1996:</h3></a>
+
+<p>Cravatt BF, Lerner RA, Boge DL. (1996) Structure Determination of an Endogenous Sleep-Inducing Lipid,
+cis-9-Octadecenamide (Oleamide):  A Synthetic Approach to the Chemical Analysis of Trace Quantities of a
+Natural Product.
+<br><b>J Am Chem Soc.  </b>118(3):580-90.
+<a href="intranet/pdf/Cravatt_JACS1996.pdf">[PDF]</a></p>
+
+<p>Cravatt BF, Giang DK, Mayfield SP, Boger DL, Lerner RA, Gilula NB. (1996) Molecular  characterization of
+an enzyme that degrades neuromodulatory fatty-acid amides.
+<br><b>Nature </b>384(6604):83-87.
+<a href="intranet/pdf/Cravatt1996.pdf">[PDF]</a>  </p>
+
+
+<a name="1995"><h3>1995:</h3></a>
+
+<p>Cravatt BF, Prospero-Garcia O, Siuzdak G, Gilula NB, Henriksen SJ, Boger DL, Lerner RA. (1995) Chemical
+characterization of a family of brain lipids that induce sleep.
+<br><b>Science </b>268(5216):1506-1509.
+<a href="intranet/pdf/Cravatt1995.pdf">[PDF]</a>  </p>
+
+
+<a name="1994"><h3>1994:</h3></a>
+
+<p>Boger DL, Lerner RA, Cravatt BF. (1994) Synthesis of a Functionalized Rigid Bicyclo[2.2.1] Heptane - A
+Useful Hapten for Eliciting Catalytic Antibodies.
+<br><b>  J Org Chem.</b>  59(17):5078-9.
+<a href="intranet/pdf/Cravatt_JOC1994.pdf">[PDF]</a></p>
+
+<p>Cravatt BF, Ashley JA, Janda KD, Boger DL, Lerner RA.  (1994) Crossing Extreme Mechanistic Barriers by
+Antibody Catalysis - Syn Elimination to a Cis Olefin.
+<br><b>J Am Chem Soc. </b>116(13):6013-4.
+<a href="intranet/pdf/Cravatt_JACS1994.pdf">[PDF]</a></p>
+
+<p>Lerner RA, Siuzdak G, Prospero-Garcia O, Henriksen SJ, Boger DL, Cravatt BF.   (1994) Cerebrodiene: a
+brain lipid isolated from sleep-deprived cats.
+<br><b>Proc. Natl. Acad. Sci  USA. </b>91(20):9505-9508.
+<a href="intranet/pdf/Lerner1994.pdf">[PDF]</a>
+<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=44841"
+target="_blank">[PMC44841]</a></p>
+
+</font>
+</td>
+<td width="20%"></td> </tr> </tbody></table> </p>
+
+<p><br><br>
+

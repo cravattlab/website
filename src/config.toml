@@ -1,0 +1,7 @@
+title = "The Cravatt Lab"
+baseURL = "http://scripps.edu/cravatt"
+languageCode = "en-us"
+disableKinds = ["taxonomy", "taxonomyTerms", "RSS", "sitemap", "robotsTXT", "404"]
+
+[params]
+    description = "The laboratory of Dr. Benjamin F. Cravatt in the Department of Chemical Physiology at The Scripps Research Institute"

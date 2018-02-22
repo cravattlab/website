@@ -1,0 +1,87 @@
+{{ define "main" }}
+
+<p>
+<img src="images/blank.jpg">
+<img src="images/members.jpg">
+<p>
+
+<table>
+    <td width=250></td>
+    <td valign="top" width=650>
+
+    <table border=0>
+        <tr>
+            <td>
+                <hr>
+                <h4>Benjamin F. Cravatt III, Ph.D.<p></h4>
+                <h5>
+                    Professor and Chair<br>
+                    Department of Molecular Medicine<br>
+                    The Skaggs Institute for Chemical Biology<br>
+                    The Scripps Research Institute, SR107<br>
+                    10550 North Torrey Pines Road<br>
+                    La Jolla, CA  92037<p>
+                    Tel: (858) 784-8633<br>
+                    Fax: (858) 784-8023<br>
+                    E-mail: <a href="mailto:cravatt@scripps.edu">cravatt@scripps.edu</a><p>
+                    <a href="http://www.scripps.edu/research/faculty/cravatt">TSRI faculty page</a><p>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <hr>
+                <h4>Kimberly Masuda</h4>
+                <h5>
+                    Administrative Lab Manager<br>
+                    Tel: (858) 784-8201<br>
+                    E-mail: <a href="mailto:kimisan@scripps.edu">kimisan@scripps.edu</a><p>
+                </h5>
+                <p>
+            </td>
+            <td></td>
+        </tr>
+
+        {{- range .Data.Pages -}}
+        <tr>
+            <td>
+                <hr>
+                <h4>{{- .Params.name -}}</h4>
+                <h5>
+                    {{ .Params.position }}<br>
+
+                    {{- range .Params.honorifics -}}
+                    {{ . }}<br>
+                    {{ end }}
+
+                    {{- if .Params.telephone -}}
+                    Tel: {{ .Params.telephone }}<br>
+                    {{ end }}
+
+                    {{- if .Params.email -}}
+                    E-mail: <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a><p>
+                    {{ end }}
+
+                    {{- if .Params.picture -}}
+                    <br/>
+                    <img src="images/people/{{ .Params.picture }}" height="200">
+                    {{ end }}
+                </h5>
+                <p>
+            </td>
+            <td></td>
+        </tr>
+        {{ end }}
+    </table>
+</td>
+
+
+<td align=left>
+</td>
+</table>
+<p><br><br>
+
+<div class="last-updated">Last updated on February 1, 2018</div>
+
+
+{{ end }}

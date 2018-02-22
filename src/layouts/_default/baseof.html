@@ -1,0 +1,27 @@
+<html lang="{{ $.Site.LanguageCode }}">
+
+<head>
+    <title>{{ $.Site.Title }}</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="{{ if .IsHome}}{{ $.Site.Params.Description }}{{ else }}{{ $.Page.Params.Description }}{{ end }}">
+    <meta name="keywords" content="Scripps, Cravatt, neuroscience, fatty acid amide, oleamide, anandamide, FAAH, proteomics, activity-based, ABPP">
+    <link href="main.css" rel="stylesheet">
+</head>
+
+<body>
+    {{ partial "header.html" . }}
+
+    <div id="main">
+        {{ block "main" . }} {{ end }}
+    </div>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-704574-6");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+    </script>
+</body>
+</html>

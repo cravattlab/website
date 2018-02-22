@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: white;
+}
+
+img {
+    border: 0;
+}
+
+.clear {
+    clear:both;
+}
+
+#header {
+    margin-top: 1.7em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+#home {
+    display: table;
+    margin: 0 auto;
+    margin-top: 3em;
+    text-align: center;
+}
+
+.menu {
+    float: left;
+    margin-top: 2em;
+    margin-right: 0.5em;
+    text-align: left;
+}
+
+.menu a {
+    display: block;
+}
+
+.last-updated {
+    text-align:center;
+    margin-bottom:2em;
+    font-style:italic;
+}
