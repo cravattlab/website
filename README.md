@@ -79,9 +79,29 @@ From the main directory of this repository issue the following command:
 
 You will see a message similar to the following:
 
+```bash
+$ ./hugo.sh serve
+
+                   | EN
++------------------+----+
+  Pages            |  5
+  Paginator pages  |  0
+  Non-page files   |  0
+  Static files     | 86
+  Processed images |  0
+  Aliases          |  0
+  Sitemaps         |  0
+  Cleaned          |  0
+
+Total in 2901 ms
+Watching for changes in /mnt/d/Documents/GitHub/website2/src/{content,layouts,static}
+Serving pages from /mnt/d/Documents/GitHub/website2/build
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/cravatt/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
 ```
 
-```
+Note that it tells you to go to `http://localhost:1313/cravatt/` in your browser to view the site.
 
 
 ## Updating hugo binaries
@@ -95,3 +115,4 @@ From the root folder of this repository, issue the following command:
 
 ## If ever we want to abandon hugo
 
+Simply build the site, and carry on with the `.html` files.
