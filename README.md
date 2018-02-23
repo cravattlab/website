@@ -119,7 +119,6 @@ On the machine the website is hosted:
 
 ```
 git config init.templatedir .git-templates
-chmod a+x .git-templates/hooks/*
 git init
 ```
 
