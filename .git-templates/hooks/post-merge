@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -eo pipefail
+
 # hook for running hugo build and syncing to where website files are
 # hosted. This should only run when using git pull, and if the HEAD
 # corresponds to the master branch. Note that this assumes some things
