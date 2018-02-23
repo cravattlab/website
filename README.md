@@ -113,6 +113,18 @@ From the root folder of this repository, issue the following command:
 ```
 
 
+## Using git hooks to automate deployment
+
+On the machine the website is hosted:
+
+```
+git config init.templatedir '~/.git-templates'
+git init
+```
+
+Keep in mind that some of the hooks found in `.git-templates` are meant to be executed on a particular machine. For example there is a `post-merge` hook that when run on the scripps server, will rsync the contents of the latest build and update the website.
+
+
 ## If ever we want to abandon hugo
 
 Simply build the site, and carry on with the `.html` files.
