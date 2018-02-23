@@ -118,8 +118,8 @@ From the root folder of this repository, issue the following command:
 On the machine the website is hosted:
 
 ```
-git config init.templatedir '~/.git-templates'
-chmod a+x ~/.git-templates/hooks/*
+git config init.templatedir .git-templates
+chmod a+x .git-templates/hooks/*
 git init
 ```
 
