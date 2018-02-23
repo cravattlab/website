@@ -4,7 +4,7 @@
 # linux and OSX
 
 if [ "$(uname)" == "Darwin" ]; then
-    bin/hugo_mac -s src ../build "$@"
+    bin/hugo_mac -s src -d ../build "$@"
 elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
     bin/hugo_linux -s src -d ../build "$@"
 fi
