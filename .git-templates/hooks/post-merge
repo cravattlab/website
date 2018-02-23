@@ -5,17 +5,16 @@
 # corresponds to the master branch. Note that this assumes some things
 # about the file structure that may only be true on the Scripps server.
 
-build_dir='../build/'
-public_dir='/test/'
+build_dir='build/'
+public_dir='/web/docs/cravatt/'
 
 # $branches contains 'master' if the commit with hash correspoding to the
 # GITHEAD environment variable is on the master branch, otherwise, it is
 # empty.
 branches="$(git branch --contains "${GITHEAD}" | grep -o master)"
 
-
 if [[ -n $branches ]]; then
     rm -rf ../build/*
-    ../hugo.sh --quiet build
+    ./hugo.sh --quiet
     rsync -r "${build_dir}" "${public_dir}"
 fi
