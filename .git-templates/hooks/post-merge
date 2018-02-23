@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+# hook for running hugo build and syncing to where website files are
+# hosted. This should only run when using git pull, and if the HEAD
+# corresponds to the master branch. Note that this assumes some things
+# about the file structure that may only be true on the Scripps server.
+
+build_dir='../build/'
+public_dir='/test/'
+
+# $branches contains 'master' if the commit with hash correspoding to the
+# GITHEAD environment variable is on the master branch, otherwise, it is
+# empty.
+branches="$(git branch --contains "${GITHEAD}" | grep -o master)"
+
+
+if [[ -n $branches ]]; then
+    rm -rf ../build/*
+    ../hugo.sh --quiet build
+    rsync -r "${build_dir}" "${public_dir}"
+fi
