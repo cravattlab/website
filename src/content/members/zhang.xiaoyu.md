@@ -4,5 +4,5 @@ position: Research Associate
 honorifics: [Damon Runyon Cancer Research Foundation Fellow]
 telephone: (858) 784-8636
 email: zhangx@scripps.edu
-picture: xzhang.jpg
+picture: zhang.jpg
 ---
