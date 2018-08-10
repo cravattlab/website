@@ -29,7 +29,7 @@
             {{ end }}
             {{ end }}
 
-            <img src='https://scripps.edu/cgi-bin/cravatt/horiz_label.pl?text={{ replace .Params.email "@" "(at)" }}&mode=email'><br>
+            <img {{ replace .Params.email "@" "(at)"  | printf "src=https://scripps.edu/cgi-bin/cravatt/horiz_label.pl?text=%s&mode=email" | safeHTMLAttr }}><br>
 
             {{ if isset .Params "lab" }}
             <a href="{{ .Params.lab.url }}">[{{ .Params.lab.text }}]</a>
@@ -42,6 +42,6 @@
 
 </table>
 
-<div class="last-updated">Last updated on June 11, 2018</div>
+<div class="last-updated">Last updated on August 10, 2018</div>
 
 {{ end }}
