@@ -1,7 +1,8 @@
 ---
 name: Alexander Adibekian, Ph.D.
-position: Assistant Professor
+position: Research Associate
 current_position:
+    - Assistant Professor
     - Department of Chemistry
     - Scripps Research Florida Campus
     - 130 Scripps Way, 3B3
