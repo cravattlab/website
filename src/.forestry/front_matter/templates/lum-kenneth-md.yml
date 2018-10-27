@@ -40,4 +40,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/members/test.md
 - src/content/members/suciu.radu.md
