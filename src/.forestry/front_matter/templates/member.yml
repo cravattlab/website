@@ -40,34 +40,34 @@ fields:
   hidden: false
   default: ''
 pages:
-  src/content/members/abbasov.mikail.md
-  src/content/members/bar-peled.liron.md
-  src/content/members/benthusyan.jackie.md
-  src/content/members/chen.alice.md
-  src/content/members/cognetta.armand.md
-  src/content/members/crowley.vincent.md
-  src/content/members/dix.missy.md
-  src/content/members/guerrero.adrian.md
-  src/content/members/hanigan.thomas.md
-  src/content/members/ichu.taka.md
-  src/content/members/jing.hui.md
-  src/content/members/joslyn.chris.md
-  src/content/members/kathman.stefan.md
-  src/content/members/kavanagh.madeline.md
-  src/content/members/kemper.esther.md
-  src/content/members/lazear.michael.md
-  src/content/members/lee.hsin-yu.md
-  src/content/members/lum.kenneth.md
-  src/content/members/ogasawara.daisuke.md
-  src/content/members/reed.alex.md
-  src/content/members/remsberg.jarrett.md
-  src/content/members/schafroth.michael.md
-  src/content/members/senkane.kristine.md
-  src/content/members/suciu.radu.md
-  src/content/members/takaya.junichiro.md
-  src/content/members/test.md
-  src/content/members/valentinlopez.jose.md
-  src/content/members/vinogradova.katya.md
-  src/content/members/wang.yujia.md
-  src/content/members/yamashita.yu.md
-  src/content/members/zhang.xiaoyu.md
+  - src/content/members/abbasov.mikail.md
+  - src/content/members/bar-peled.liron.md
+  - src/content/members/benthusyan.jackie.md
+  - src/content/members/chen.alice.md
+  - src/content/members/cognetta.armand.md
+  - src/content/members/crowley.vincent.md
+  - src/content/members/dix.missy.md
+  - src/content/members/guerrero.adrian.md
+  - src/content/members/hanigan.thomas.md
+  - src/content/members/ichu.taka.md
+  - src/content/members/jing.hui.md
+  - src/content/members/joslyn.chris.md
+  - src/content/members/kathman.stefan.md
+  - src/content/members/kavanagh.madeline.md
+  - src/content/members/kemper.esther.md
+  - src/content/members/lazear.michael.md
+  - src/content/members/lee.hsin-yu.md
+  - src/content/members/lum.kenneth.md
+  - src/content/members/ogasawara.daisuke.md
+  - src/content/members/reed.alex.md
+  - src/content/members/remsberg.jarrett.md
+  - src/content/members/schafroth.michael.md
+  - src/content/members/senkane.kristine.md
+  - src/content/members/suciu.radu.md
+  - src/content/members/takaya.junichiro.md
+  - src/content/members/test.md
+  - src/content/members/valentinlopez.jose.md
+  - src/content/members/vinogradova.katya.md
+  - src/content/members/wang.yujia.md
+  - src/content/members/yamashita.yu.md
+  - src/content/members/zhang.xiaoyu.md
