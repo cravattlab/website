@@ -17,12 +17,15 @@ sections:
   match: "**/*"
   exclude: "_index.md"
   templates:
+    - "alumnus.yml"
 - type: directory
   path: src/content/members
   label: Members
   create: all
   match: "**/*"
   exclude: "_index.md"
+  templates:
+    - "member.yml"
 upload_dir: src/static/images
 public_path: images
 front_matter_path: ''
