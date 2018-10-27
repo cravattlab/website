@@ -1,18 +1,22 @@
 ---
-label: lum.kenneth.md
-hide_body: 
-is_partial: 
+label: member.md
+hide_body: false
+is_partial: false
 fields:
 - name: name
   label: Name
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: position
   label: Position
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: email
   label: Email
   type: text
@@ -28,6 +32,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: false
 - name: picture
   label: Picture
   type: text
