@@ -1,6 +1,6 @@
 ---
 label: member.md
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - name: name
