@@ -13,7 +13,7 @@ sections:
 - type: directory
   path: src/content/alumni
   label: Alumni
-  create: document
+  create: all
   match: "**/*"
   exclude: _index.md
   templates:
@@ -21,7 +21,7 @@ sections:
 - type: directory
   path: src/content/members
   label: Members
-  create: document
+  create: all
   match: "**/*"
   exclude: _index.md
   templates:
