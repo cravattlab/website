@@ -1,0 +1,35 @@
+---
+label: lum.kenneth.md
+hide_body: 
+is_partial: 
+fields:
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: position
+  label: Position
+  type: text
+  hidden: false
+  default: ''
+- name: email
+  label: Email
+  type: text
+  hidden: false
+  default: ''
+- name: honorifics
+  label: Honorifics
+  type: list
+  hidden: false
+  default: ''
+- name: telephone
+  label: Telephone
+  type: text
+  hidden: false
+  default: ''
+- name: picture
+  label: Picture
+  type: text
+  hidden: false
+  default: ''
