@@ -17,7 +17,7 @@ sections:
   match: "**/*"
   exclude: "_index.md"
   templates:
-    - "alumnus.yml"
+    - "alumnus"
 - type: directory
   path: src/content/members
   label: Members
@@ -25,7 +25,7 @@ sections:
   match: "**/*"
   exclude: "_index.md"
   templates:
-    - "member.yml"
+    - "member"
 upload_dir: src/static/images
 public_path: images
 front_matter_path: ''
