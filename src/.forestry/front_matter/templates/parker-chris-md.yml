@@ -1,18 +1,22 @@
 ---
-label: parker.chris.md
-hide_body: 
-is_partial: 
+label: alumnus.md
+hide_body: false
+is_partial: false
 fields:
 - name: name
   label: Name
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: position
   label: Position
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: current_position
   label: Current position
   type: list
@@ -23,8 +27,10 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: lab
-  label: Lab
+  label: Link to lab website
   type: field_group
   fields:
   - name: url
