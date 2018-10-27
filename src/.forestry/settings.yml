@@ -14,11 +14,14 @@ sections:
   label: Alumni
   create: all
   match: "**/*"
+  exclude: "_index.md"
+  templates:
 - type: directory
   path: src/content/members
   label: Members
   create: all
   match: "**/*"
+  exclude: "_index.md"
 upload_dir: src/static/images
 public_path: images
 front_matter_path: ''
