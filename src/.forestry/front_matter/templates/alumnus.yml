@@ -46,90 +46,90 @@ fields:
   hidden: false
   default: ''
 pages:
-  - src/content/alumni/adam.greg.md
-  - src/content/alumni/adibekian.alexander.md
-  - src/content/alumni/alexander.jessica.md
-  - src/content/alumni/bachovchin.daniel.md
-  - src/content/alumni/backus.keriann.md
-  - src/content/alumni/barglow.katy.md
-  - src/content/alumni/blankman.jacqueline.md
-  - src/content/alumni/blewett.megan.md
-  - src/content/alumni/carlson.erin.md
-  - src/content/alumni/carvalho.luis.md
-  - src/content/alumni/chang.jae.md
-  - src/content/alumni/chiang.kyle.md
-  - src/content/alumni/cisar.justin.md
-  - src/content/alumni/correia.bruno.md
-  - src/content/alumni/crane.laura.md
-  - src/content/alumni/dix.melissa.md
-  - src/content/alumni/evans.mike.md
-  - src/content/alumni/giang.dan.md
-  - src/content/alumni/hacker.stephan.md
-  - src/content/alumni/hawkins.greg.md
-  - src/content/alumni/hermanson.daniel.md
-  - src/content/alumni/hoover.heather.md
-  - src/content/alumni/horning.benjamin.md
-  - src/content/alumni/hsu.ken.md
-  - src/content/alumni/hulce.jonathan.md
-  - src/content/alumni/humphrey.mark.md
-  - src/content/alumni/inloes.jordon.md
-  - src/content/alumni/jessani.nadim.md
-  - src/content/alumni/ji.shasha.md
-  - src/content/alumni/joseph.arul.md
-  - src/content/alumni/kamat.siddhesh.md
-  - src/content/alumni/kambe.tohru.md
-  - src/content/alumni/kazuta.yuji.md
-  - src/content/alumni/kidd.dana.md
-  - src/content/alumni/komatsu.toru.md
-  - src/content/alumni/kopp.florian.md
-  - src/content/alumni/kustedjo.karen.md
-  - src/content/alumni/lanning.bryan.md
-  - src/content/alumni/lee.hyeon-cheol.md
-  - src/content/alumni/leung.donmienne.md
-  - src/content/alumni/liu.yongsheng.md
-  - src/content/alumni/li.weiwei.md
-  - src/content/alumni/lombardi.don.md
-  - src/content/alumni/long.jonathan.md
-  - src/content/alumni/martin.brent.md
-  - src/content/alumni/matthews.megan.md
-  - src/content/alumni/mckinney.michele.md
-  - src/content/alumni/milliken.david.md
-  - src/content/alumni/moellering.ray.md
-  - src/content/alumni/moesser.marc.md
-  - src/content/alumni/nagamizo.joe.md
-  - src/content/alumni/nagano.joe.md
-  - src/content/alumni/niessen.sherry.md
-  - src/content/alumni/niphakis.micah.md
-  - src/content/alumni/nomura.daniel.md
-  - src/content/alumni/ogura.yuji.md
-  - src/content/alumni/olucha.jose.md
-  - src/content/alumni/ortega-gutierrez.silvia.md
-  - src/content/alumni/parker.chris.md
-  - src/content/alumni/parsons.will.md
-  - src/content/alumni/patricelli.matt.md
-  - src/content/alumni/potter.zach.md
-  - src/content/alumni/pugh.holly.md
-  - src/content/alumni/saario.susanna.md
-  - src/content/alumni/saghatelian.alan.md
-  - src/content/alumni/salisbury.cleo.md
-  - src/content/alumni/sasaki.kenji.md
-  - src/content/alumni/sato.yoshi.md
-  - src/content/alumni/sieber.stephan.md
-  - src/content/alumni/simon.gabriel.md
-  - src/content/alumni/speers.anna.md
-  - src/content/alumni/takei.thais.md
-  - src/content/alumni/tallman.david.md
-  - src/content/alumni/thomas.jason.md
-  - src/content/alumni/tsuboi.katsunori.md
-  - src/content/alumni/tully.sarah.md
-  - src/content/alumni/ulanovskaya.olesya.md
-  - src/content/alumni/viader.andreu.md
-  - src/content/alumni/wang.chu.md
-  - src/content/alumni/weerapana.eranthie.md
-  - src/content/alumni/wei.binqing.md
-  - src/content/alumni/whitby.landon.md
-  - src/content/alumni/wright.aaron.md
-  - src/content/alumni/wucherpfennig.thomas.md
-  - src/content/alumni/zaro.balyn.md
-  - src/content/alumni/zubiaurre.ainoa.md
-  - src/content/alumni/zuhl.andrea.md
+- src/content/alumni/zuhl.andrea.md
+- src/content/alumni/zubiaurre.ainoa.md
+- src/content/alumni/zaro.balyn.md
+- src/content/alumni/wucherpfennig.thomas.md
+- src/content/alumni/wright.aaron.md
+- src/content/alumni/whitby.landon.md
+- src/content/alumni/wei.binqing.md
+- src/content/alumni/weerapana.eranthie.md
+- src/content/alumni/wang.chu.md
+- src/content/alumni/viader.andreu.md
+- src/content/alumni/ulanovskaya.olesya.md
+- src/content/alumni/tully.sarah.md
+- src/content/alumni/tsuboi.katsunori.md
+- src/content/alumni/thomas.jason.md
+- src/content/alumni/tallman.david.md
+- src/content/alumni/takei.thais.md
+- src/content/alumni/speers.anna.md
+- src/content/alumni/simon.gabriel.md
+- src/content/alumni/sieber.stephan.md
+- src/content/alumni/sato.yoshi.md
+- src/content/alumni/sasaki.kenji.md
+- src/content/alumni/salisbury.cleo.md
+- src/content/alumni/saghatelian.alan.md
+- src/content/alumni/saario.susanna.md
+- src/content/alumni/pugh.holly.md
+- src/content/alumni/potter.zach.md
+- src/content/alumni/patricelli.matt.md
+- src/content/alumni/parsons.will.md
+- src/content/alumni/parker.chris.md
+- src/content/alumni/ortega-gutierrez.silvia.md
+- src/content/alumni/olucha.jose.md
+- src/content/alumni/ogura.yuji.md
+- src/content/alumni/nomura.daniel.md
+- src/content/alumni/niphakis.micah.md
+- src/content/alumni/niessen.sherry.md
+- src/content/alumni/nagano.joe.md
+- src/content/alumni/nagamizo.joe.md
+- src/content/alumni/moesser.marc.md
+- src/content/alumni/moellering.ray.md
+- src/content/alumni/milliken.david.md
+- src/content/alumni/mckinney.michele.md
+- src/content/alumni/matthews.megan.md
+- src/content/alumni/martin.brent.md
+- src/content/alumni/long.jonathan.md
+- src/content/alumni/lombardi.don.md
+- src/content/alumni/li.weiwei.md
+- src/content/alumni/liu.yongsheng.md
+- src/content/alumni/leung.donmienne.md
+- src/content/alumni/lee.hyeon-cheol.md
+- src/content/alumni/lanning.bryan.md
+- src/content/alumni/kustedjo.karen.md
+- src/content/alumni/kopp.florian.md
+- src/content/alumni/komatsu.toru.md
+- src/content/alumni/kidd.dana.md
+- src/content/alumni/kazuta.yuji.md
+- src/content/alumni/kambe.tohru.md
+- src/content/alumni/kamat.siddhesh.md
+- src/content/alumni/joseph.arul.md
+- src/content/alumni/ji.shasha.md
+- src/content/alumni/jessani.nadim.md
+- src/content/alumni/inloes.jordon.md
+- src/content/alumni/humphrey.mark.md
+- src/content/alumni/hulce.jonathan.md
+- src/content/alumni/hsu.ken.md
+- src/content/alumni/horning.benjamin.md
+- src/content/alumni/hoover.heather.md
+- src/content/alumni/hermanson.daniel.md
+- src/content/alumni/hawkins.greg.md
+- src/content/alumni/hacker.stephan.md
+- src/content/alumni/giang.dan.md
+- src/content/alumni/evans.mike.md
+- src/content/alumni/dix.melissa.md
+- src/content/alumni/crane.laura.md
+- src/content/alumni/correia.bruno.md
+- src/content/alumni/cisar.justin.md
+- src/content/alumni/chiang.kyle.md
+- src/content/alumni/chang.jae.md
+- src/content/alumni/carvalho.luis.md
+- src/content/alumni/carlson.erin.md
+- src/content/alumni/blewett.megan.md
+- src/content/alumni/blankman.jacqueline.md
+- src/content/alumni/barglow.katy.md
+- src/content/alumni/backus.keriann.md
+- src/content/alumni/bachovchin.daniel.md
+- src/content/alumni/alexander.jessica.md
+- src/content/alumni/adibekian.alexander.md
+- src/content/alumni/adam.greg.md
