@@ -71,3 +71,13 @@ fields:
   default: ''
   config:
     required: true
+pages:
+  - bar-peled.md
+  - chen.md
+  - deng.md
+  - hacker.md
+  - kornahrens.md
+  - lum.md
+  - niessen.md
+  - parker.md
+  - whitby.md
