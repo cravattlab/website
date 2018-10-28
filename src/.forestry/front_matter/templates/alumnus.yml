@@ -46,6 +46,10 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/martin.brent.md
+- src/content/alumni/evans.mike.md
+- src/content/alumni/milliken.david.md
+- src/content/alumni/barglow.katy.md
 - src/content/alumni/zuhl.andrea.md
 - src/content/alumni/zubiaurre.ainoa.md
 - src/content/alumni/zaro.balyn.md
@@ -85,10 +89,8 @@ pages:
 - src/content/alumni/nagamizo.joe.md
 - src/content/alumni/moesser.marc.md
 - src/content/alumni/moellering.ray.md
-- src/content/alumni/milliken.david.md
 - src/content/alumni/mckinney.michele.md
 - src/content/alumni/matthews.megan.md
-- src/content/alumni/martin.brent.md
 - src/content/alumni/long.jonathan.md
 - src/content/alumni/lombardi.don.md
 - src/content/alumni/li.weiwei.md
@@ -116,7 +118,6 @@ pages:
 - src/content/alumni/hawkins.greg.md
 - src/content/alumni/hacker.stephan.md
 - src/content/alumni/giang.dan.md
-- src/content/alumni/evans.mike.md
 - src/content/alumni/dix.melissa.md
 - src/content/alumni/crane.laura.md
 - src/content/alumni/correia.bruno.md
@@ -127,7 +128,6 @@ pages:
 - src/content/alumni/carlson.erin.md
 - src/content/alumni/blewett.megan.md
 - src/content/alumni/blankman.jacqueline.md
-- src/content/alumni/barglow.katy.md
 - src/content/alumni/backus.keriann.md
 - src/content/alumni/bachovchin.daniel.md
 - src/content/alumni/alexander.jessica.md

@@ -1,0 +1,55 @@
+---
+label: Ligand and Target Discovery by Fragment-Based Screening in Human Cells
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: authors
+  label: Authors
+  type: textarea
+  hidden: false
+  default: ''
+- name: link
+  label: Link
+  type: text
+  hidden: false
+  default: ''
+- name: journal
+  label: Journal
+  type: text
+  hidden: false
+  default: ''
+- name: volume
+  label: Volume
+  type: text
+  hidden: false
+  default: ''
+- name: pages
+  label: Pages
+  type: text
+  hidden: false
+  default: ''
+- name: year
+  label: Year
+  type: text
+  hidden: false
+  default: ''
+- name: publish_date
+  label: Publish date
+  type: datetime
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: doi
+  label: Doi
+  type: text
+  hidden: false
+  default: ''
