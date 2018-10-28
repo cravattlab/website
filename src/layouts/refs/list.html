@@ -1,6 +1,4 @@
----
-url: refs.html
----
+{{ define "main" }}
 
 <p>
 <img src="images/blank.jpg">
@@ -41,31 +39,25 @@ url: refs.html
 <a href="#1994">1994</a>
 </center>
 
+{{ range (.Data.Pages.GroupByParam "year").Reverse }}
+<a name="{{ .Key }}"><h3>{{ .Key }}:</h3></a>
 
+{{- range (.Pages.ByParam "publish_date").Reverse -}}
+<p>
+    {{ .Params.authors }}.
+    <a href="{{ .Params.link }}">{{ .Params.title }}</a>.
+    <em>{{ trim .Params.journal "." }}</em>.
+    <strong>{{ .Params.year }}</strong>,
+    <em>{{ .Params.volume }}</em>,
+    {{ .Params.pages }}.
+</p>
 
-<a name="2017"><h3>2017:</h3></a>
- 
-<p>Bar-Peled L, Kemper EK, Suciu RM, Vinogradova EV, Backus KM, Horning BD, Paul TA, Ichu TA, Svensson RU, Olucha J, Chang MW, Kok BP, Zhu Z, Ihle NT, Dix MM, Jiang P, Hayward MM, Saez E, Shaw RJ, Cravatt BF. <a href="http://www.cell.com/cell/abstract/S0092-8674(17)31047-4">Chemical Proteomics Identifies Druggable Vulnerabilities in a Genetically Defined Cancer.</a> <em>Cell.</em> <strong>2017</strong>, <em>171</em>, 696-709.</p><img src="images/refs/lbp_kemper_2017.jpg" width="375" height="375" alt=""/>
- 
-<p>Niessen S, Dix MM, Barbas S, Potter ZE, Lu S, Brodsky O, Planken S, Behenna D, Almaden C, Gajiwala KS, Ryan K, Ferre R, Lazear MR, Hayward MM, Kath JC, Cravatt BF. <a href="http://www.sciencedirect.com/science/article/pii/S245194561730315X">Proteome-wide Map of Targets of T790M-EGFR-Directed Covalent Inhibitors.</a> <em>Cell Chem Biol.</em> <strong>2017</strong>, <em>24</em>, 1388-1400.</p>
- 
-<p>Lum KM, Sato Y, Beyer BA, Plaisted WC, Anglin JL, Lairson LL, Cravatt BF. <a href="http://pubs.acs.org/doi/abs/10.1021/acschembio.7b00581">Mapping Protein Targets of Bioactive Small Molecules Using Lipid-Based Chemical Proteomics.</a> <em>ACS Chem Biol.</em> <strong>2017</strong>, <em>12</em>, 2671-2681.</p><img src="images/refs/lum_sato_2017.gif" width="500" height="240" alt=""/>
+{{ if .Params.image }}
+<img src="{{ .Params.image }}" />
+{{ end }}
 
-<p>Hacker SM, Backus KM, Lazear MR, Forli S, Correia BE, Cravatt BF. <a href="https://www.nature.com/articles/nchem.2826">Global profiling of lysine reactivity and ligandability in the human proteome.</a> <em>Nat Chem.</em> <strong>2017</strong>, <em>9</em>, 1181-1190.</p>
- 
-<p>Whitby LR, Obach RS, Simon GM, Hayward MM, Cravatt BF. <a href="http://pubs.acs.org/doi/abs/10.1021/acschembio.7b00346">Quantitative Chemical Proteomic Profiling of the in Vivo Targets of Reactive Drug Metabolites.</a> <em>ACS Chem Biol.</em> <strong>2017</strong>, <em>12</em>, 2040-2050.</p><img src="images/refs/whitby_2017.gif" width="500" height="183" alt=""/>
-
-<p>Kornahrens AF, Cognetta AB 3rd, Brody DM, Matthews ML, Cravatt BF, Boger DL. <a href="http://pubs.acs.org/doi/abs/10.1021/jacs.7b02985">Design of Benzoxathiazin-3-one 1,1-Dioxides as a New Class of Irreversible Serine Hydrolase Inhibitors: Discovery of a Uniquely Selective PNPLA4 Inhibitor.</a> <em>J Am Chem Soc.</em> <strong>2017</strong>, <em>139</em>, 7052-7061.</p>
-
-<p>Parker CG, Galmozzi A, Wang Y, Correia BE, Sasaki K, Joslyn CM, Kim AS, Cavallaro CL, Lawrence RM, Johnson SR, Narvaiza I, Saez E, Cravatt BF. <a href="http://www.cell.com/cell/fulltext/S0092-8674(16)31745-7">Ligand and Target Discovery by Fragment-Based Screening in Human Cells.</a> <em>Cell</em> <strong>2017</strong>, (DOI: 10.1016/j.cell.2016.12.029
-).</p><img src="images/refs/fx1.jpg" width="275" height="275" alt=""/>
-
-<p>Chen YC, Backus KM, Merkulova M, Yang C, Brown D, Cravatt BF, Zhang C. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28010062">Covalent Modulators of the Vacuolar ATPase.</a> <em>J. Am. Chem. Soc.</em> <strong>2017</strong>, <em>139</em>, 639–642.</p>
-<img src="images/refs/ja-2016-125114_0005.gif" width="400" height="150" alt=""/> 
-
-<p>Deng H, Kooijman S, van den Nieuwendijk AM, Ogasawara D, van der Wel T, van Dalen F, Baggelaar MP, Janssen FJ, van den Berg RJ, den Dulk H, Cravatt BF, Overkleeft HS, Rensen PC, van der Stelt M. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27992221">Triazole Ureas Act as Diacylglycerol Lipase Inhibitors and Prevent Fasting-Induced Refeeding.</a> <em>J. Med. Chem.</em> <strong>2017</strong>, <em>60</em>, 428–440.</p>
-<img src="images/refs/jm-2016-014823_0012.gif" width="500" height="145" alt=""/>
-
+{{ end }}
+{{ end }}
 
 <a name="2016"><h3>2016:</h3></a>
 
@@ -2661,3 +2653,4 @@ target="_blank">[PMC44841]</a></p>
 
 <p><br><br>
 
+{{ end }}
