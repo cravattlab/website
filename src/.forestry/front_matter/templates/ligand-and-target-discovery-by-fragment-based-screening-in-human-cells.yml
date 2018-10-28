@@ -1,48 +1,64 @@
 ---
 label: Ligand and Target Discovery by Fragment-Based Screening in Human Cells
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 - name: authors
   label: Authors
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 - name: link
   label: Link
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: journal
   label: Journal
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: volume
   label: Volume
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: pages
   label: Pages
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: year
   label: Year
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: publish_date
   label: Publish date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: image
   label: Image
   type: file
@@ -53,3 +69,5 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
