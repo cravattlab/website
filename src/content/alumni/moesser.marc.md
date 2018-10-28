@@ -1,7 +1,7 @@
----
-name: Marc Moesser
-position: External Masters Graduate Student
-current_position:
-    - Graduate Student
-    - ETH Zurich
----
++++
+current_position = ["Graduate Student", "ETH Zurich"]
+name = "Marc Moesser"
+position = "External Masters Graduate Student"
+
++++
+

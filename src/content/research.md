@@ -1,6 +1,7 @@
----
-url: research.html
----
++++
+url = "research.html"
+
++++
 
 <p>
 <img src="images/blank.jpg">

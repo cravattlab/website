@@ -1,11 +1,8 @@
----
-name: Thais Takei
-position: Research Technician
-current_position:
-    - Quality Control Associate I
-    - Illumina
-    - San Diego, CA
++++
+current_position = ["Quality Control Associate I", "Illumina", "San Diego, CA"]
+email = "ttakei@scripps.edu"
+name = "Thais Takei"
+position = "Research Technician"
 
-email: ttakei@scripps.edu
++++
 
----

@@ -1,14 +1,12 @@
----
-name: Keriann M. Backus, Ph.D.
-position: Postdoctoral Fellow
-current_position:
-    - Assistant Professor, Biological Chemistry
-    - Assistant Professor, Department of Chemistry and Biochemistry
-    - UCLA
-    - Los Angeles, CA
++++
+current_position = ["Assistant Professor, Biological Chemistry", "Assistant Professor, Department of Chemistry and Biochemistry", "UCLA", "Los Angeles, CA"]
+email = "KBackus@mednet.ucla.edu"
+name = "Keriann M. Backus, Ph.D."
+position = "Postdoctoral Fellow"
 
-email: KBackus@mednet.ucla.edu
-lab:
-    url: http://www.backuslab.com/
-    text: The Backus Lab
----
+[lab]
+  text = "The Backus Lab"
+  url = "http://www.backuslab.com/"
+
++++
+

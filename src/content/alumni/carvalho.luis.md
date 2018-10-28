@@ -1,7 +1,7 @@
----
-name: Luis Carvalho 
-position: External Graduate Student
-current_position:
++++
+email = "carvalho@scripps.edu"
+name = "Luis Carvalho"
+position = "External Graduate Student"
 
-email: carvalho@scripps.edu
----
++++
+

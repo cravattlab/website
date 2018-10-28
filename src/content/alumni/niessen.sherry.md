@@ -1,10 +1,8 @@
----
-name: Sherry Niessen, Ph.D.
-position: Graduate Student/Staff Scientist
-current_position:
-    - Research scientist
-    - Pfizer Inc., La Jolla, CA
++++
+current_position = ["Research scientist", "Pfizer Inc., La Jolla, CA"]
+email = "niesses@scripps.edu"
+name = "Sherry Niessen, Ph.D."
+position = "Graduate Student/Staff Scientist"
 
-email: niesses@scripps.edu
++++
 
----

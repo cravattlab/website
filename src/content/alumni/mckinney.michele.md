@@ -1,5 +1,7 @@
----
-name: Michele McKinney, Ph.D.
-position: Graduate student / Staff Scientist
-email: michelemckinney@gmail.com
----
++++
+email = "michelemckinney@gmail.com"
+name = "Michele McKinney, Ph.D."
+position = "Graduate student / Staff Scientist"
+
++++
+

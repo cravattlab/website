@@ -1,8 +1,10 @@
----
-name: Xiaoyu Zhang, Ph.D.
-position: Research Associate
-honorifics: [Damon Runyon Cancer Research Foundation Fellow]
-telephone: (858) 784-8636
-email: zhangx@scripps.edu
-picture: zhang.jpg
----
++++
+email = "zhangx@scripps.edu"
+honorifics = ["Damon Runyon Cancer Research Foundation Fellow"]
+name = "Xiaoyu Zhang, Ph.D."
+picture = "zhang.jpg"
+position = "Research Associate"
+telephone = "(858) 784-8636"
+
++++
+

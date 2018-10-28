@@ -1,11 +1,8 @@
----
-name: Joe Nagano
-position: Graduate Student
-current_position:
-    - Product Manager III
-    - Mitchell International
-    - San Diego, CA
++++
+current_position = ["Product Manager III", "Mitchell International", "San Diego, CA"]
+email = "joseph.nagano@gmail.com"
+name = "Joe Nagano"
+position = "Graduate Student"
 
-email: joseph.nagano@gmail.com
++++
 
----

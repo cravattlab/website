@@ -1,10 +1,8 @@
----
-name: Tohru Kambe
-position: Visiting Scientist
-current_position:
-    - Ono Pharmaceutical
-    - Osaka, Japan
++++
+current_position = ["Ono Pharmaceutical", "Osaka, Japan"]
+email = "kambe@ono.co.jp"
+name = "Tohru Kambe"
+position = "Visiting Scientist"
 
-email: kambe@ono.co.jp
++++
 
----

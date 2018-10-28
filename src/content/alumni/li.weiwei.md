@@ -1,13 +1,8 @@
----
-name: Weiwei Li, Ph.D.
-position: Graduate student
-current_position:
-    - Research Fellow
-    - Chaitan Khosla, Advisor
-    - Department of Chemistry
-    - Stanford University
-    - Palo Alto, California
++++
+current_position = ["Research Fellow", "Chaitan Khosla, Advisor", "Department of Chemistry", "Stanford University", "Palo Alto, California"]
+email = "liweiwei@stanford.edu"
+name = "Weiwei Li, Ph.D."
+position = "Graduate student"
 
-email: liweiwei@stanford.edu
++++
 
----

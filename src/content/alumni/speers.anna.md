@@ -1,5 +1,7 @@
----
-name: Anna Speers, Ph.D.
-position: Graduate Student/Staff Scientist
-email: aespeers@gmail.com
----
++++
+email = "aespeers@gmail.com"
+name = "Anna Speers, Ph.D."
+position = "Graduate Student/Staff Scientist"
+
++++
+

@@ -1,11 +1,8 @@
----
-name: Yongsheng Liu, Ph.D.
-position: Postdoctoral Fellow
-current_position:
-    - Senior Research Scientist
-    - ActivX Biosciences, Inc.
-    - San Diego, CA
++++
+current_position = ["Senior Research Scientist", "ActivX Biosciences, Inc.", "San Diego, CA"]
+email = "yongsheng@activx.com"
+name = "Yongsheng Liu, Ph.D."
+position = "Postdoctoral Fellow"
 
-email: yongsheng@activx.com
++++
 
----

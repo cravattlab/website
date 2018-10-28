@@ -1,13 +1,12 @@
----
-name: Eranthie Weerapana, Ph.D.
-position: Postdoctoral Fellow
-current_position:
-    - Associate Professor
-    - Department of Chemistry
-    - Boston College
++++
+current_position = ["Associate Professor", "Department of Chemistry", "Boston College"]
+email = "eranthie@bc.edu"
+name = "Eranthie Weerapana, Ph.D."
+position = "Postdoctoral Fellow"
 
-email: eranthie@bc.edu
-lab:
-    url: https://www2.bc.edu/eranthie-weerapana/
-    text: The Weerapana Lab
----
+[lab]
+  text = "The Weerapana Lab"
+  url = "https://www2.bc.edu/eranthie-weerapana/"
+
++++
+

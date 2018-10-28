@@ -1,11 +1,8 @@
----
-name: Laura Crane, Ph.D.
-position: Postdoctoral Fellow
-current_position:
-    - Chemistry Teacher
-    - Bergen County Academies
-    - New Jersey
++++
+current_position = ["Chemistry Teacher", "Bergen County Academies", "New Jersey"]
+email = "laucra@bergen.org"
+name = "Laura Crane, Ph.D."
+position = "Postdoctoral Fellow"
 
-email: laucra@bergen.org
++++
 
----

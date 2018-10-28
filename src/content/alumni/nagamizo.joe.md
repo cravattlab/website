@@ -1,6 +1,7 @@
----
-name: Joe Nagamizo
-position: Research Technician
-current_position:
-    - Johnson and Johnson
----
++++
+current_position = ["Johnson and Johnson"]
+name = "Joe Nagamizo"
+position = "Research Technician"
+
++++
+

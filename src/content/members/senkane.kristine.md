@@ -1,7 +1,9 @@
----
-name: Kristine Senkane
-position: Graduate Student
-telephone: (858) 784-8469
-email: ksenkane@scripps.edu
-picture: kristine.jpg
----
++++
+email = "ksenkane@scripps.edu"
+name = "Kristine Senkane"
+picture = "kristine.jpg"
+position = "Graduate Student"
+telephone = "(858) 784-8469"
+
++++
+

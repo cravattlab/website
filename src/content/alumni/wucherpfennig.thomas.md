@@ -1,6 +1,7 @@
----
-name: Thomas Wucherpfennig, Ph.D.
-position: Research Associate
-current_position:
-email:  tgwucherpfennig@gmail.com
----
++++
+email = "tgwucherpfennig@gmail.com"
+name = "Thomas Wucherpfennig, Ph.D."
+position = "Research Associate"
+
++++
+

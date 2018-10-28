@@ -1,7 +1,9 @@
----
-name: Michael Lazear
-position: Graduate Student
-telephone: (858) 784-8636
-email: lazear@scripps.edu
-picture: mike.JPG
----
++++
+email = "lazear@scripps.edu"
+name = "Michael Lazear"
+picture = "mike.JPG"
+position = "Graduate Student"
+telephone = "(858) 784-8636"
+
++++
+

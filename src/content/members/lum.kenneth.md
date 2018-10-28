@@ -1,8 +1,10 @@
----
-name: Kenneth Lum
-position: Graduate Student
-honorifics: [A*STAR National Science Scholar]
-telephone: (858) 784-8636
-email: lummyk@scripps.edu
-picture: kenneth.jpg
----
++++
+email = "lummyk@scripps.edu"
+honorifics = ["A*STAR National Science Scholar"]
+name = "Kenneth Lum"
+picture = "kenneth.jpg"
+position = "Graduate Student"
+telephone = "(858) 784-8636"
+
++++
+

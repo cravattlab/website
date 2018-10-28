@@ -1,11 +1,8 @@
----
-name: Greg Hawkins
-position: Research Technician
-current_position:
-    - Graduate student
-    - Virginia Commonwealth University
-    - Richmond, VA
++++
+current_position = ["Graduate student", "Virginia Commonwealth University", "Richmond, VA"]
+email = "hawkinseg@vcu.edu"
+name = "Greg Hawkins"
+position = "Research Technician"
 
-email: hawkinseg@vcu.edu
++++
 
----

@@ -1,14 +1,12 @@
----
-name: Daniel Nomura, Ph.D.
-position: Postdoctoral Fellow
-current_position:
-    - Associate Professor
-    - Department of Nutritional Sciences and Toxicology
-    - Department of Chemistry
-    - University of California, Berkeley
++++
+current_position = ["Associate Professor", "Department of Nutritional Sciences and Toxicology", "Department of Chemistry", "University of California, Berkeley"]
+email = "dnomura@berkeley.edu"
+name = "Daniel Nomura, Ph.D."
+position = "Postdoctoral Fellow"
 
-email: dnomura@berkeley.edu
-lab:
-    url: http://www.nomuraresearchgroup.com/
-    text: Nomura Research Group
----
+[lab]
+  text = "Nomura Research Group"
+  url = "http://www.nomuraresearchgroup.com/"
+
++++
+

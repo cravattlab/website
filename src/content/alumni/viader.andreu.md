@@ -1,11 +1,8 @@
----
-name: Andreu Viader
-position: Postdoctoral Fellow
-current_position:
-    - Scientist
-    - Abide Therapeutics
-    - San Diego, CA
++++
+current_position = ["Scientist", "Abide Therapeutics", "San Diego, CA"]
+email = "andreu@abidetx.com"
+name = "Andreu Viader"
+position = "Postdoctoral Fellow"
 
-email: andreu@abidetx.com
++++
 
----

@@ -1,11 +1,8 @@
----
-name: Matt Patricelli, Ph.D.
-position: Graduate student
-current_position:
-    - Vice President, Biology
-    - Vividion Therapeutics
-    - La Jolla, CA
++++
+current_position = ["Vice President, Biology", "Vividion Therapeutics", "La Jolla, CA"]
+email = "mattpatricelli@gmail.com"
+name = "Matt Patricelli, Ph.D."
+position = "Graduate student"
 
-email: mattpatricelli@gmail.com
++++
 
----
