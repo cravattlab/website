@@ -17,7 +17,7 @@ sections:
   match: "**/*"
   exclude: _index.md
   templates:
-  - alumnus
+    - alumnus
 - type: directory
   path: src/content/members
   label: Members
@@ -25,13 +25,15 @@ sections:
   match: "**/*"
   exclude: _index.md
   templates:
-  - member
+    - member
 - type: directory
   path: src/content/refs
   label: References
   create: documents
   match: "**/*"
   exclude: _index.md
+  templates:
+    - publication
 upload_dir: src/static/images
 public_path: images
 front_matter_path: ''
