@@ -26,6 +26,12 @@ sections:
   exclude: _index.md
   templates:
   - member
+- type: directory
+  path: src/content/refs
+  label: References
+  create: documents
+  match: "**/*"
+  exclude: _index.md
 upload_dir: src/static/images
 public_path: images
 front_matter_path: ''
