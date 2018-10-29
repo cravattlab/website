@@ -4,7 +4,7 @@ honorifics = []
 first_name = "Radu"
 last_name = "Suciu"
 suffix = ""
-picture = "radu.jpg"
+picture = "images/people/radu.jpg"
 position = "Graduate Student"
 telephone = "(858) 784-8636"
 

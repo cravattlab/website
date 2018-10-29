@@ -4,7 +4,7 @@ honorifics = ["Ruth L. Kirschstein National Research Service Award (NRSA) Postdo
 first_name = "Stefan"
 last_name = "Kathman"
 suffix = "Ph.D."
-picture = "stefan.JPG"
+picture = "images/people/stefan.JPG"
 position = "Research Associate"
 telephone = "(858) 784-8636"
 

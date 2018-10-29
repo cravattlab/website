@@ -4,7 +4,7 @@ honorifics = ["Swiss National Science Foundation Early Postdoc, Mobility Fellows
 first_name = "Michael"
 last_name = "Schafroth"
 suffix = ""
-picture = "schafroth.jpg"
+picture = "images/people/schafroth.jpg"
 position = "Research Associate"
 telephone = "858-784-8636"
 

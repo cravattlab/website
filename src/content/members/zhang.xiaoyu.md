@@ -4,7 +4,7 @@ honorifics = ["Damon Runyon Cancer Research Foundation Fellow"]
 first_name = "Xiaoyu"
 last_name = "Zhang"
 suffix = "Ph.D."
-picture = "zhang.jpg"
+picture = "images/people/zhang.jpg"
 position = "Research Associate"
 telephone = "(858) 784-8636"
 

@@ -4,7 +4,7 @@ honorifics = ["NCI Predoctoral to Postdoctoral Fellow Transition Award (F99/K00 
 first_name = "Vincent"
 last_name = "Crowley"
 suffix = "Ph.D."
-picture = "vince.jpeg"
+picture = "images/people/vince.jpeg"
 position = "Research Associate"
 telephone = "(858) 784-8636"
 

@@ -4,7 +4,7 @@ honorifics = ["Lallage Feazel Wall Fellow of the Damon Runyon Cancer Research Fo
 first_name = "Liron"
 last_name = "Bar-Peled"
 suffix = "Ph.D."
-picture = "liron.jpg"
+picture = "images/people/liron.jpg"
 position = "Research Associate"
 telephone = "(858) 784-8636"
 

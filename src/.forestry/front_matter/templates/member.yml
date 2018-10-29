@@ -50,9 +50,11 @@ fields:
     required: false
 - name: picture
   label: Picture
-  type: text
+  type: file
   hidden: false
-  default: ''
+  config:
+    maxSize: '1'
+    required: false
 pages:
 - src/content/members/benthusyan.jackie.md
 - src/content/members/zhang.xiaoyu.md
