@@ -1,49 +1,46 @@
 {{ define "extra_scripts" }}
-<script src="https://unpkg.com/fuzzysort@1.1.4/fuzzysort.js"></script>
 <script>
 (function(document, window) {
+    const yearHeaderEls = Array.from(document.querySelectorAll('a > h3'));
     const referencesEl  = document.getElementById('references');
     const refs = Array.from(referencesEl.getElementsByTagName('p'));
-    const options = {
-      limit: 100, // don't return more results than you need!
-      allowTypo: false,
-      threshold: -5000, // don't return bad results
-      key: 'prepared'
-    };
+    const prepared = refs.map(r => ({ el: r, text: r.innerText.toLowerCase() }));
 
-    const prepared = refs.map((r, index) => ({ el: r, prepared: fuzzysort.prepare(r.innerText) }));
-
-    const appendResultElements = function(els) {
-        const resultsEl = document.getElementById('results');
-        const fragment = document.createDocumentFragment();
-        els.forEach(e => fragment.appendChild(e.cloneNode(true)));
-        resultsEl.appendChild(fragment);
-        resultsEl.hidden = false;
+    const setHiddenForRef = function(el, state) {
+        let sibling = el.nextElementSibling;
+        if (sibling && sibling.tagName === 'IMG') sibling.hidden = state;
+        el.hidden = state;
     }
 
-    const clearResults = function() {
-        const resultsEl = document.getElementById('results');
-        resultsEl.hidden = true;
-        while (resultsEl.firstChild) {
-            resultsEl.removeChild(resultsEl.firstChild);
-        }
+    const hideEmptyYears = function() {
+        yearHeaderEls.forEach(el => {
+            let hidden = true;
+            let node = el.parentNode.nextElementSibling;
+
+            while (node && node.tagName !== 'A') {
+                if (!node.hidden && node.tagName === 'P') {
+                    hidden = false;
+                    break;
+                }
+                node = node.nextElementSibling;
+            }
+
+            el.hidden = hidden;
+        });
     }
 
     document.getElementById('search').addEventListener('input', function(event) {
         if (this.value === '') {
-            referencesEl.hidden = false;
-            clearResults();
+            refs.forEach(el => setHiddenForRef(el, false));
+            yearHeaderEls.forEach(el => el.hidden = false);
             return;
-        } else {
-            referencesEl.hidden = true;
         }
 
-        const results = fuzzysort.go(this.value, prepared, options);
-        clearResults();
-        appendResultElements(results.map(r => r.obj.el));
+        prepared.forEach(p => setHiddenForRef(p.el, p.text.indexOf(this.value) === -1));
+        hideEmptyYears();
     });
 
-    document.getElementById('search-refs').style.visibility = 'visible'
+    document.getElementById('search-refs').style.visibility = 'visible';
 }(document, window));
 
 </script>
@@ -89,7 +86,7 @@
 <a href="#1994">1994</a>
 </center>
 
-<div id="search-refs" style="visibility: hidden">
+<div id="search-refs">
     <label>Search: <input id="search" /></label>
     <div id="results"></div>
 </div>
@@ -1806,7 +1803,7 @@ valuation of fatty acid amides in the carrageenan-induced paw edema model.
 target="_blank">[PMC2200792]</a></p>
 
 
-<p> <a name="2007"><h3>2007:</h3></a>
+<a name="2007"><h3>2007:</h3></a>
 
 <p><a href="http://www.chembiol.com/content/issue?volume=14&issue=12" target="_blank"><img
 src="images/jackie_cover.gif" align="right" height="150" border=0></a>

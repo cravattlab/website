@@ -47,6 +47,10 @@ img {
     font-style:italic;
 }
 
+#search-refs {
+    visibility: hidden;
+}
+
 #search-refs #search {
     margin-top: 10px;
     width: 200px;
