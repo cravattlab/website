@@ -1,7 +1,9 @@
 +++
 current_position = ["Senior Scientist", "Genentech", "San Francisco, CA"]
 email = "binqing.wei@pfizer.edu"
-name = "BinQing Wei, Ph.D."
+first_name = "BinQing"
+last_name = "Wei"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 +++

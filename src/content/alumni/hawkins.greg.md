@@ -1,7 +1,9 @@
 +++
 current_position = ["Graduate student", "Virginia Commonwealth University", "Richmond, VA"]
 email = "hawkinseg@vcu.edu"
-name = "Greg Hawkins"
+first_name = "Greg"
+last_name = "Hawkins"
+suffix = ""
 position = "Research Technician"
 
 +++

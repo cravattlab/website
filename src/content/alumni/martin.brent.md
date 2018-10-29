@@ -1,7 +1,9 @@
 +++
 current_position = ["Assistant Professor", "Department of Chemistry", "University of Michigan", "Ann Arbor, MI"]
 email = "brentrm@umich.edu"
-name = "Brent Martin Ph.D."
+first_name = "Brent"
+last_name = "Martin"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

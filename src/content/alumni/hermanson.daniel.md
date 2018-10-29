@@ -1,7 +1,9 @@
 +++
 current_position = ["Scientist I, Field Applications", "Thermo Fisher Scientific", "San Marcos, CA"]
 email = "dan.hermanson@gmail.com"
-name = "Daniel Hermanson, Ph.D."
+first_name = "Daniel"
+last_name = "Hermanson"
+suffix = "Ph.D."
 position = "Research Associate"
 
 +++

@@ -1,7 +1,9 @@
 +++
 current_position = ["Assistant Professor", "Department of Chemistry", "Scripps Research Florida Campus", "130 Scripps Way, 3B3", "Jupiter, FL 33458", "561-228-2740"]
 email = "aadibeki@scripps.edu"
-name = "Alexander Adibekian, Ph.D."
+first_name = "Alexander"
+last_name = "Adibekian"
+suffix = "Ph.D."
 position = "Research Associate"
 
 [lab]

@@ -1,7 +1,9 @@
 +++
 current_position = ["Associate Professor", "Department of Chemistry", "University of Minnesota", "Minneapolis, MN"]
 email = "carlsone@umn.edu"
-name = "Erin Carlson, Ph.D."
+first_name = "Erin"
+last_name = "Carlson"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

@@ -1,6 +1,8 @@
 +++
 email = "tgwucherpfennig@gmail.com"
-name = "Thomas Wucherpfennig, Ph.D."
+first_name = "Thomas"
+last_name = "Wucherpfennig"
+suffix = "Ph.D."
 position = "Research Associate"
 
 +++

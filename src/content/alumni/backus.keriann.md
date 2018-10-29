@@ -1,7 +1,9 @@
 +++
 current_position = ["Assistant Professor, Biological Chemistry", "Assistant Professor, Department of Chemistry and Biochemistry", "UCLA", "Los Angeles, CA"]
 email = "KBackus@mednet.ucla.edu"
-name = "Keriann M. Backus, Ph.D."
+first_name = "Keriann M."
+last_name = "Backus"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

@@ -1,7 +1,9 @@
 +++
 current_position = ["Principal Investigator", "Department of Chemical Biology", "College of Chemistry and Molecular Engineering", "Peking University"]
 email = "chuwang@pku.edu.cn"
-name = "Chu Wang, Ph.D."
+first_name = "Chu"
+last_name = "Wang"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

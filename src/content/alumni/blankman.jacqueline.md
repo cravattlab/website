@@ -1,7 +1,9 @@
 +++
 current_position = ["Research Scientist", "Abide Therapeutics", "San Diego, CA"]
 email = "jackieblankman@gmail.com"
-name = "Jacqueline Blankman, Ph.D."
+first_name = "Jacqueline"
+last_name = "Blankman"
+suffix = "Ph.D."
 position = "Graduate student"
 
 +++

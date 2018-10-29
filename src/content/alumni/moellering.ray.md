@@ -1,7 +1,9 @@
 +++
 current_position = ["Assistant Professor", "Department of Chemistry", "University of Chicago", "Chicago, IL"]
 email = "rmoeller@scripps.edu"
-name = "Ray Moellering, Ph.D."
+first_name = "Ray"
+last_name = "Moellering"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

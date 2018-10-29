@@ -1,6 +1,8 @@
 +++
 email = "carvalho@scripps.edu"
-name = "Luis Carvalho"
+first_name = "Luis"
+last_name = "Carvalho"
+suffix = ""
 position = "External Graduate Student"
 
 +++

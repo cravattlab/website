@@ -1,15 +1,29 @@
 ---
-label: alumnus.md
+label: Alumnus
 hide_body: true
 is_partial: false
 fields:
-- name: name
-  label: Name
+- name: first_name
+  label: First Name(s)
   type: text
   hidden: false
   default: ''
   config:
     required: true
+- name: last_name
+  label: Last Name
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: suffix
+  label: Suffix
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: false
 - name: position
   label: Position
   type: text

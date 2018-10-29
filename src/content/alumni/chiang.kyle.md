@@ -1,7 +1,9 @@
 +++
 current_position = ["Director of Translational Science", "LogicBio Therapeutics", "Cambridge, MA"]
 email = "kyle.chiang@gmail.com"
-name = "Kyle Chiang, Ph.D."
+first_name = "Kyle"
+last_name = "Chiang"
+suffix = "Ph.D."
 position = "Graduate student"
 
 +++

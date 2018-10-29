@@ -1,7 +1,9 @@
 +++
 current_position = ["Assistant Professor", "Memorial Sloan Kettering Cancer Center", "New York, NY"]
 email = "bachovcd@mskcc.org"
-name = "Daniel Bachovchin, Ph.D."
+first_name = "Daniel"
+last_name = "Bachovchin"
+suffix = "Ph.D."
 position = "Graduate student"
 
 [lab]

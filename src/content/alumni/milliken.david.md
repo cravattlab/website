@@ -1,7 +1,9 @@
 +++
 current_position = ["Senior Research Associate", "GenMarkDx", "Cardiff by the Sea, CA"]
 email = "milliken@scripps.edu"
-name = "David Milliken, Ph.D."
+first_name = "David"
+last_name = "Milliken"
+suffix = "Ph.D."
 position = "Research Technician"
 
 +++

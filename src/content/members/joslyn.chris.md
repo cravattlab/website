@@ -1,6 +1,8 @@
 +++
 email = "cjoslyn@scripps.edu"
-name = "Christopher Joslyn"
+first_name = "Christopher"
+last_name = "Joslyn"
+suffix = ""
 picture = "chrisj.jpg"
 position = "Research Technician/Safety Officer"
 telephone = "(858) 784-8636"

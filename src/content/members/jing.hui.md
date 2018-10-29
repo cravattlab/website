@@ -1,6 +1,8 @@
 +++
 email = "huijing@scripps.edu"
-name = "Hui Jing, Ph.D."
+first_name = "Hui"
+last_name = "Jing"
+suffix = "Ph.D."
 picture = "hui.jpg"
 position = "Research Associate"
 telephone = "(858) 784-8636"

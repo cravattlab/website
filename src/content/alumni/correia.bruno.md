@@ -1,7 +1,9 @@
 +++
 current_position = ["Assistant Professor", "Institute of Bioengineering", "Ecole Polytechnique Federale de Lausanne", "Lausanne, Switzerland"]
 email = "bruno.correia@epfl.ch"
-name = "Bruno Correia, Ph.D."
+first_name = "Bruno"
+last_name = "Correia"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

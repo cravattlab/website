@@ -1,7 +1,9 @@
 +++
 current_position = ["Quality Control Associate I", "Illumina", "San Diego, CA"]
 email = "ttakei@scripps.edu"
-name = "Thais Takei"
+first_name = "Thais"
+last_name = "Takei"
+suffix = ""
 position = "Research Technician"
 
 +++

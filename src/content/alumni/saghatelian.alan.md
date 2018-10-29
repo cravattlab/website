@@ -1,7 +1,9 @@
 +++
 current_position = ["Professor", "Clayton Foundation Laboratories for Peptide Biology", "Salk Institute for Biological Studies", "La Jolla, CA"]
 email = "asaghatelian@salk.edu"
-name = "Alan Saghatelian, Ph.D."
+first_name = "Alan"
+last_name = "Saghatelian"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

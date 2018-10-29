@@ -1,7 +1,9 @@
 +++
 current_position = ["Senior Scientist", "Pacific Northwest National Laboratory", "Richland, WA"]
 email = "aaron.wright@pnl.gov"
-name = "Aaron Wright, Ph.D."
+first_name = "Aaron"
+last_name = "Wright"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

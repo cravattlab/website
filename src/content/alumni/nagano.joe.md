@@ -1,7 +1,9 @@
 +++
 current_position = ["Product Manager III", "Mitchell International", "San Diego, CA"]
 email = "joseph.nagano@gmail.com"
-name = "Joe Nagano"
+first_name = "Joe"
+last_name = "Nagano"
+suffix = ""
 position = "Graduate Student"
 
 +++

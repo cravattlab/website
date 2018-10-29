@@ -1,7 +1,9 @@
 +++
 current_position = ["Associate Professor", "Department of Chemistry", "Boston College"]
 email = "eranthie@bc.edu"
-name = "Eranthie Weerapana, Ph.D."
+first_name = "Eranthie"
+last_name = "Weerapana"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 [lab]

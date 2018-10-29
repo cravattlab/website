@@ -1,7 +1,9 @@
 +++
 current_position = ["Scientist", "Vividion Therapeutics", "La Jolla, CA"]
 email = "benjaminh@vividion.com"
-name = "Benjamin Horning, Ph.D."
+first_name = "Benjamin"
+last_name = "Horning"
+suffix = "Ph.D."
 position = "Postdoctoral Fellow"
 
 +++

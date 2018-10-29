@@ -1,6 +1,8 @@
 +++
 email = "aespeers@gmail.com"
-name = "Anna Speers, Ph.D."
+first_name = "Anna"
+last_name = "Speers"
+suffix = "Ph.D."
 position = "Graduate Student/Staff Scientist"
 
 +++

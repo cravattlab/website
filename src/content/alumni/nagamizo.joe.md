@@ -1,6 +1,8 @@
 +++
 current_position = ["Johnson and Johnson"]
-name = "Joe Nagamizo"
+first_name = "Joe"
+last_name = "Nagamizo"
+suffix = ""
 position = "Research Technician"
 
 +++

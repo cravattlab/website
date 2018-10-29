@@ -42,11 +42,11 @@
             <td></td>
         </tr>
 
-        {{- range .Data.Pages -}}
+        {{- range .Data.Pages.ByParam "last_name" -}}
         <tr>
             <td>
                 <hr>
-                <h4>{{- .Params.name -}}</h4>
+                <h4>{{ .Params.first_name }} {{ .Params.last_name }}{{ if .Params.suffix }}, {{ .Params.suffix }}{{ end }}</h4>
                 <h5>
                     {{ .Params.position }}<br>
 

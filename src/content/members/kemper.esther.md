@@ -1,6 +1,8 @@
 +++
 email = "ekemper@scripps.edu"
-name = "Esther Kemper"
+first_name = "Esther"
+last_name = "Kemper"
+suffix = ""
 picture = "esther.JPG"
 position = "Graduate Student"
 telephone = "(858) 784-8636"

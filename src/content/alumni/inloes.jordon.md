@@ -1,7 +1,9 @@
 +++
 current_position = ["Research Associate", "Vividion Therapeutics"]
 email = "jinloes@gmail.com"
-name = "Jordon Inloes"
+first_name = "Jordon"
+last_name = "Inloes"
+suffix = ""
 position = "Graduate Student"
 
 +++

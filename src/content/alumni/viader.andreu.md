@@ -1,7 +1,9 @@
 +++
 current_position = ["Scientist", "Abide Therapeutics", "San Diego, CA"]
 email = "andreu@abidetx.com"
-name = "Andreu Viader"
+first_name = "Andreu"
+last_name = "Viader"
+suffix = ""
 position = "Postdoctoral Fellow"
 
 +++

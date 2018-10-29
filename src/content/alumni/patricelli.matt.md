@@ -1,7 +1,9 @@
 +++
 current_position = ["Vice President, Biology", "Vividion Therapeutics", "La Jolla, CA"]
 email = "mattpatricelli@gmail.com"
-name = "Matt Patricelli, Ph.D."
+first_name = "Matt"
+last_name = "Patricelli"
+suffix = "Ph.D."
 position = "Graduate student"
 
 +++
