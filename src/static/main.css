@@ -46,3 +46,8 @@ img {
     margin-bottom:2em;
     font-style:italic;
 }
+
+#search-refs #search {
+    margin-top: 10px;
+    width: 200px;
+}

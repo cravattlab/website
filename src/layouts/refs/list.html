@@ -1,3 +1,53 @@
+{{ define "extra_scripts" }}
+<script src="https://unpkg.com/fuzzysort@1.1.4/fuzzysort.js"></script>
+<script>
+(function(document, window) {
+    const referencesEl  = document.getElementById('references');
+    const refs = Array.from(referencesEl.getElementsByTagName('p'));
+    const options = {
+      limit: 100, // don't return more results than you need!
+      allowTypo: false,
+      threshold: -5000, // don't return bad results
+      key: 'prepared'
+    };
+
+    const prepared = refs.map((r, index) => ({ el: r, prepared: fuzzysort.prepare(r.innerText) }));
+
+    const appendResultElements = function(els) {
+        const resultsEl = document.getElementById('results');
+        const fragment = document.createDocumentFragment();
+        els.forEach(e => fragment.appendChild(e.cloneNode(true)));
+        resultsEl.appendChild(fragment);
+        resultsEl.hidden = false;
+    }
+
+    const clearResults = function() {
+        const resultsEl = document.getElementById('results');
+        resultsEl.hidden = true;
+        while (resultsEl.firstChild) {
+            resultsEl.removeChild(resultsEl.firstChild);
+        }
+    }
+
+    document.getElementById('search').addEventListener('input', function(event) {
+        if (this.value === '') {
+            referencesEl.hidden = false;
+            clearResults();
+            return;
+        } else {
+            referencesEl.hidden = true;
+        }
+
+        const results = fuzzysort.go(this.value, prepared, options);
+        clearResults();
+        appendResultElements(results.map(r => r.obj.el));
+    });
+
+    document.getElementById('search-refs').style.visibility = 'visible'
+}(document, window));
+
+</script>
+{{ end }}
 {{ define "main" }}
 
 <p>
@@ -39,6 +89,12 @@
 <a href="#1994">1994</a>
 </center>
 
+<div id="search-refs" style="visibility: hidden">
+    <label>Search: <input id="search" /></label>
+    <div id="results"></div>
+</div>
+
+<div id="references">
 {{ range (.Data.Pages.GroupByParam "year").Reverse }}
 <a name="{{ .Key }}"><h3>{{ .Key }}:</h3></a>
 
@@ -2646,7 +2702,7 @@ brain lipid isolated from sleep-deprived cats.
 <a href="intranet/pdf/Lerner1994.pdf">[PDF]</a>
 <a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=44841"
 target="_blank">[PMC44841]</a></p>
-
+</div>
 </font>
 </td>
 <td width="20%"></td> </tr> </tbody></table> </p>
