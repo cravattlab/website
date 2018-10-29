@@ -30,13 +30,15 @@
     }
 
     document.getElementById('search').addEventListener('input', function(event) {
-        if (this.value === '') {
+        const term = this.value.toLowerCase();
+
+        if (term === '') {
             refs.forEach(el => setHiddenForRef(el, false));
             yearHeaderEls.forEach(el => el.hidden = false);
             return;
         }
 
-        prepared.forEach(p => setHiddenForRef(p.el, p.text.indexOf(this.value) === -1));
+        prepared.forEach(p => setHiddenForRef(p.el, p.text.indexOf(term) === -1));
         hideEmptyYears();
     });
 
