@@ -1,12 +1,11 @@
 +++
 email = "zhangx@scripps.edu"
-honorifics = ["Damon Runyon Cancer Research Foundation Fellow"]
 first_name = "Xiaoyu"
+honorifics = ["Damon Runyon Cancer Research Foundation Fellow"]
 last_name = "Zhang"
-suffix = "Ph.D."
-picture = "images/people/zhang.jpg"
+picture = "images/Xiaoyu Zhang.jpg"
 position = "Research Associate"
+suffix = "Ph.D."
 telephone = "(858) 784-8636"
 
 +++
-
