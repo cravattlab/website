@@ -60,6 +60,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/benthuysen-jacqueline-md.md
 - src/content/alumni/lopez-valetin-jose-md.md
 - src/content/alumni/wang.chu.md
 - src/content/alumni/nomura.daniel.md
