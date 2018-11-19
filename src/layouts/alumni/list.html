@@ -22,7 +22,6 @@
         <td width=225>{{ .Params.first_name }} {{ .Params.last_name }}{{ if .Params.suffix }}, {{ .Params.suffix }}{{ end }}</td>
         <td width=225>{{ .Params.position }}<br></td>
         <td width=250>
-
             {{ if isset .Params "current_position" }}
             {{ range .Params.current_position }}
             {{ . }}<br>
@@ -31,9 +30,9 @@
 
             <img {{ replace .Params.email "@" "(at)"  | printf "src=https://scripps.edu/cgi-bin/cravatt/horiz_label.pl?text=%s&mode=email" | safeHTMLAttr }}><br>
 
-            {{ if isset .Params "lab" }}
-            <a href="{{ .Params.lab.url }}">[{{ .Params.lab.text }}]</a>
-            {{ end }}
+            {{ with .Params.lab }}{{ if gt (len .text) 0 }}
+            <a href="{{ .url }}">[{{ .text }}]</a>
+            {{ end }}{{ end }}
             <p><br>
         </td>
         <td width=0></td>
