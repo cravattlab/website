@@ -18,9 +18,40 @@ img {
 }
 
 #header {
-    margin-top: 1.7em;
     text-align: center;
-    margin-bottom: 1em;
+    font-family: 'Arial', sans-serif;
+    margin-top: 1.7em;
+    margin-bottom: 1.5em;
+}
+
+#header a {
+    color: #111;
+    text-decoration: none; 
+}
+
+.logo {
+    display: inline-block;
+}
+
+.logo img {
+    height: 80px;
+}
+
+.banner {
+    display: inline-block;
+}
+
+.banner img {
+    height: 80px;
+}
+
+.sub-heading {
+    margin-top: -0.5em;
+}
+
+.institution {
+    font-weight: bold;
+    margin-right: 0.5em;
 }
 
 #home {
