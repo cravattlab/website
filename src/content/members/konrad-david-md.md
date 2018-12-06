@@ -1,7 +1,7 @@
 +++
 date = "2018-11-18T01:09:17+00:00"
 email = "dkonrad@scripps.edu"
-first_name = "David "
+first_name = "David"
 honorifics = ["Ludwig-Maximilians-Universität Research Fellow"]
 last_name = "Konrad"
 picture = ""
