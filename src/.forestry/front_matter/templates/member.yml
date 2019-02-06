@@ -70,7 +70,6 @@ pages:
 - src/content/members/kemper.esther.md
 - src/content/members/dix.missy.md
 - src/content/members/lazear.michael.md
-- src/content/members/ichu.taka.md
 - src/content/members/takaya.junichiro.md
 - src/content/members/bar-peled.liron.md
 - src/content/members/hanigan.thomas.md
@@ -84,3 +83,4 @@ pages:
 - src/content/members/crowley.vincent.md
 - src/content/members/vinogradova.katya.md
 - src/content/members/remillard-david-md.md
+- src/content/members/ichu.taka.md
