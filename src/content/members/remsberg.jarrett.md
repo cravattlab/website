@@ -1,11 +1,11 @@
 +++
 email = "remsberg@scripps.edu"
 first_name = "Jarrett"
+honorifics = []
 last_name = "Remsberg"
-suffix = "Ph.D."
-picture = "images/people/remsberg.jpg"
+picture = "images/remsberg.jpg"
 position = "Research Associate"
+suffix = "Ph.D."
 telephone = "(858) 784-8636"
 
 +++
-
