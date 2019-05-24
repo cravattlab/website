@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/kemper.esther.md
 - src/content/members/ichu.taka.md
 - src/content/members/remillard-david-md.md
 - src/content/members/vinogradova.katya.md
@@ -70,7 +71,6 @@ pages:
 - src/content/members/takaya.junichiro.md
 - src/content/members/dix.missy.md
 - src/content/members/lazear.michael.md
-- src/content/members/kemper.esther.md
 - src/content/members/yamashita.yu.md
 - src/content/members/lee.hsin-yu.md
 - src/content/members/wang.yujia.md
