@@ -59,12 +59,9 @@ fields:
   hidden: false
   default: ''
 pages:
-- src/content/alumni/file.md
 - src/content/alumni/ogasawara.daisuke.md
-- src/content/alumni/boshart-julia.md
 - src/content/alumni/chen.alice.md
 - src/content/alumni/bar-peled.liron.md
-- src/content/alumni/lopez-valetin-jose-md.md
 - src/content/alumni/wang.chu.md
 - src/content/alumni/nomura.daniel.md
 - src/content/alumni/carlson.erin.md
@@ -150,8 +147,6 @@ pages:
 - src/content/alumni/bachovchin.daniel.md
 - src/content/alumni/adibekian.alexander.md
 - src/content/alumni/lum-kenneth-md.md
-- src/content/alumni/benthuysen-jacqueline-md.md
-- src/content/alumni/cognetta-armand-md.md
 - src/content/alumni/mckinney.michele.md
 - src/content/alumni/inloes.jordon.md
 - src/content/alumni/hoover.heather.md
