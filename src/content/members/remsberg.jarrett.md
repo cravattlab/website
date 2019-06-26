@@ -1,7 +1,7 @@
 +++
 email = "remsberg@scripps.edu"
 first_name = "Jarrett"
-honorifics = []
+honorifics = ["American Cancer Society Fellow"]
 last_name = "Remsberg"
 picture = "images/remsberg3.jpg"
 position = "Research Associate"
