@@ -59,6 +59,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/ogasawara.daisuke.md
 - src/content/alumni/boshart-julia.md
 - src/content/alumni/chen.alice.md
 - src/content/alumni/bar-peled.liron.md
