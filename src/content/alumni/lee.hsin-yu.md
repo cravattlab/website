@@ -1,6 +1,5 @@
 +++
-current_position = ["Takeda", "San Diego, CA"]
-draft = true
+current_position = ["Staff Scientist", "Takeda", "San Diego, CA"]
 email = "abusteven@gmail.com "
 first_name = "Hsin-Yu"
 last_name = "Lee"
