@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/murray.will.md
 - src/content/members/germain.jason.md
 - src/content/members/demeester.kristen.md
 - src/content/members/kemper.esther.md
