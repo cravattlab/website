@@ -1,5 +1,5 @@
 build/*
-scripts/output/*
+scripts/output*
 .vscode
 __pycache__
 

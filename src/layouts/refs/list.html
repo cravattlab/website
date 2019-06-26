@@ -102,9 +102,9 @@
     {{ .Params.authors }}.
     <a href="{{ .Params.link }}">{{ .Params.title }}</a>.
     <em>{{ trim .Params.journal "." }}</em>.
-    <strong>{{ .Params.year }}</strong>,
-    <em>{{ .Params.volume }}</em>,
-    {{ .Params.pages }}.
+    <strong>{{ .Params.year }}</strong>{{ if .Params.volume }},
+    <em>{{ .Params.volume }}</em>{{ end }}{{ if .Params.pages }},
+    {{ .Params.pages }}{{ end }}.
 </p>
 
 {{ if .Params.image }}
