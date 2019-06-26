@@ -1,12 +1,11 @@
 +++
 email = "radus@scripps.edu"
-honorifics = []
 first_name = "Radu"
+honorifics = []
 last_name = "Suciu"
-suffix = ""
 picture = "images/people/radu.jpg"
 position = "Graduate Student"
+suffix = "Ph.D."
 telephone = "(858) 784-8636"
 
 +++
-
