@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/thielert.marvin.md
 - src/content/members/barbas.sabrina.md
 - src/content/members/murray.will.md
 - src/content/members/germain.jason.md
