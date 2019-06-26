@@ -36,14 +36,14 @@ fields:
   hidden: false
   default: ''
   config:
-    required: true
+    required: false
 - name: pages
   label: Pages
   type: text
   hidden: false
   default: ''
   config:
-    required: true
+    required: false
 - name: year
   label: Year
   type: text
