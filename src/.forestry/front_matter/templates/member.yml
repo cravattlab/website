@@ -55,9 +55,9 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/demeester.kristen.md
 - src/content/members/kemper.esther.md
 - src/content/members/ichu.taka.md
-- src/content/members/remillard-david-md.md
 - src/content/members/vinogradova.katya.md
 - src/content/members/crowley.vincent.md
 - src/content/members/schafroth.michael.md
@@ -78,5 +78,3 @@ pages:
 - src/content/members/abbasov.mikail.md
 - src/content/members/senkane.kristine.md
 - src/content/members/remsberg.jarrett.md
-- src/content/members/boshart-julia.md
-- src/content/members/konrad-david-md.md
