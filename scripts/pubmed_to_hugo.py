@@ -32,7 +32,7 @@ def main():
 
     abbrevs = get_abbrevs()
 
-    for article in l:
+    for article in q:
         pages_el = article.xml.find('.//Pagination/MedlinePgn')
         volume_el = article.xml.find('.//JournalIssue/Volume')
         publication_date = article.journal_publication_date or article.publication_date
