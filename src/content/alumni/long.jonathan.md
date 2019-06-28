@@ -3,8 +3,10 @@ current_position = ["Postdoctoral Fellow", "Bruce Spiegelman, Advisor", "Dana-Fa
 email = "jonathanz_long@dfci.harvard.edu"
 first_name = "Jonathan"
 last_name = "Long"
-suffix = "Ph.D."
 position = "Graduate student"
+suffix = "Ph.D."
+[lab]
+text = "The Long Lab"
+url = " https://longlabstanford.org/"
 
 +++
-
