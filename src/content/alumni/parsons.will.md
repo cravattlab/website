@@ -3,8 +3,10 @@ current_position = ["Assistant Professor of Chemistry and Biochemistry", "Oberli
 email = "wparsons@oberlin.edu"
 first_name = "Will"
 last_name = "Parsons"
-suffix = "Ph.D."
 position = "Research Associate"
+suffix = "Ph.D."
+[lab]
+text = "The Parsons Lab"
+url = "https://www.oberlin.edu/will-parsons"
 
 +++
-
