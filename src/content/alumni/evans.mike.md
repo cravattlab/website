@@ -3,8 +3,10 @@ current_position = ["Assistant Professor", "UCSF School of Medicine", "Departmen
 email = "Michael.Evans@ucsf.edu"
 first_name = "Mike"
 last_name = "Evans"
-suffix = "Ph.D."
 position = "Graduate student"
+suffix = "Ph.D."
+[lab]
+text = "The Evans Lab"
+url = "https://radiology.ucsf.edu/research/labs/evans"
 
 +++
-

@@ -59,6 +59,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/evans.mike.md
 - src/content/alumni/lee.hsin-yu.md
 - src/content/alumni/ogasawara.daisuke.md
 - src/content/alumni/chen.alice.md
@@ -72,7 +73,6 @@ pages:
 - src/content/alumni/lanning.bryan.md
 - src/content/alumni/backus.keriann.md
 - src/content/alumni/martin.brent.md
-- src/content/alumni/evans.mike.md
 - src/content/alumni/milliken.david.md
 - src/content/alumni/barglow.katy.md
 - src/content/alumni/patricelli.matt.md
