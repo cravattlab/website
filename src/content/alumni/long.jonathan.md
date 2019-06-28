@@ -1,5 +1,5 @@
 +++
-current_position = ["Postdoctoral Fellow", "Bruce Spiegelman, Advisor", "Dana-Farber Cancer Institute", "Havard Medical School", "Boston, MA"]
+current_position = ["Assistant Professor", "Stanford University School of Medicine", "Palo Alto, CA"]
 email = "jonathanz_long@dfci.harvard.edu"
 first_name = "Jonathan"
 last_name = "Long"
