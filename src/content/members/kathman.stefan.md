@@ -1,12 +1,11 @@
 +++
 email = "skathman@scripps.edu"
-honorifics = ["Ruth L. Kirschstein National Research Service Award (NRSA) Postdoctoral Fellows (F32)"]
 first_name = "Stefan"
+honorifics = ["Ruth L. Kirschstein National Research Service Award (NRSA) Postdoctoral Fellow (F32)"]
 last_name = "Kathman"
-suffix = "Ph.D."
 picture = "images/people/stefan.JPG"
 position = "Research Associate"
+suffix = "Ph.D."
 telephone = "(858) 784-8636"
 
 +++
-

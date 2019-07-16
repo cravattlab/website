@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/kathman.stefan.md
 - src/content/members/feldman.hannah.md
 - src/content/members/yokoyama.minoru.md
 - src/content/members/thielert.marvin.md
@@ -79,7 +80,6 @@ pages:
 - src/content/members/wang.yujia.md
 - src/content/members/zhang.xiaoyu.md
 - src/content/members/kavanagh.madeline.md
-- src/content/members/kathman.stefan.md
 - src/content/members/abbasov.mikail.md
 - src/content/members/senkane.kristine.md
 - src/content/members/remsberg.jarrett.md
