@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/milosevich.natasha.md
 - src/content/members/kathman.stefan.md
 - src/content/members/feldman.hannah.md
 - src/content/members/yokoyama.minoru.md
