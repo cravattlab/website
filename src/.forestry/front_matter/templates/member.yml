@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/milosevich.natasha.md
 - src/content/members/suciu.radu.md
 - src/content/members/koster.anna.md.md
 - src/content/members/thielert.marvin.md
@@ -64,7 +65,6 @@ pages:
 - src/content/members/remsberg.jarrett.md
 - src/content/members/kemper.esther.md
 - src/content/members/vinogradova.katya.md
-- src/content/members/milosevich.natasha.md
 - src/content/members/feldman.hannah.md
 - src/content/members/yokoyama.minoru.md
 - src/content/members/barbas.sabrina.md

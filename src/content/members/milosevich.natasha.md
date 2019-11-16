@@ -1,7 +1,7 @@
 +++
 email = "nmilosevich@scripps.edu"
 first_name = "Natasha"
-honorifics = []
+honorifics = ["Joint Fellow with Michael Erb"]
 last_name = "Milosevich"
 picture = ""
 position = "Research Associate"
