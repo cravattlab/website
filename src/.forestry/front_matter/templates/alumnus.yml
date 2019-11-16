@@ -59,6 +59,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/file-1.md
 - src/content/alumni/file.md
 - src/content/alumni/joslyn.chris.md.md
 - src/content/alumni/yamshita-yu.md
