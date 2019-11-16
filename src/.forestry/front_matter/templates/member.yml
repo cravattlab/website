@@ -55,6 +55,7 @@ fields:
     maxSize: '1'
     required: false
 pages:
+- src/content/members/jing.hui.md
 - src/content/members/njomen.evert.md.md
 - src/content/members/milosevich.natasha.md
 - src/content/members/suciu.radu.md
@@ -74,7 +75,6 @@ pages:
 - src/content/members/ichu.taka.md
 - src/content/members/crowley.vincent.md
 - src/content/members/schafroth.michael.md
-- src/content/members/jing.hui.md
 - src/content/members/reed.alex.md
 - src/content/members/hanigan.thomas.md
 - src/content/members/takaya.junichiro.md

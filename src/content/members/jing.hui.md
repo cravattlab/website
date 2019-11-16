@@ -1,11 +1,11 @@
 +++
 email = "huijing@scripps.edu"
 first_name = "Hui"
+honorifics = ["Biogen Fellow of the Life Sciences Research Foundation"]
 last_name = "Jing"
-suffix = "Ph.D."
 picture = "images/people/hui.jpg"
 position = "Research Associate"
+suffix = "Ph.D."
 telephone = "(858) 784-8636"
 
 +++
-
