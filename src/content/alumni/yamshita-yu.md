@@ -1,5 +1,5 @@
 +++
-current_position = []
+current_position = ["Research Scientist", "Otsuka Pharmaceutical Co., Ltd."]
 draft = true
 email = "yamashita@scripps.edu"
 first_name = "Yu"
