@@ -6,7 +6,7 @@ honorifics = []
 last_name = "Remillard"
 picture = ""
 position = "Research Associate"
-suffix = "PhD"
+suffix = "Ph.D."
 telephone = "858-784-8636"
 title = "remillard.david.md"
 
