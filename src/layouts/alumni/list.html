@@ -28,7 +28,7 @@
             {{ end }}
             {{ end }}
 
-            <img {{ replace .Params.email "@" "(at)"  | printf "src=https://scripps.edu/cgi-bin/cravatt/horiz_label.pl?text=%s&mode=email" | safeHTMLAttr }}><br>
+            <img {{ replace .Params.email "@" "(at)"  | printf "src=https://www.scripps.edu/cgi-bin/cravatt/horiz_label.pl?text=%s&mode=email" | safeHTMLAttr }}><br>
 
             {{ with .Params.lab }}{{ if gt (len .text) 0 }}
             <a href="{{ .url }}">[{{ .text }}]</a>
