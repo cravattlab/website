@@ -59,8 +59,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- src/content/alumni/konrad.david.md
 - src/content/alumni/joslyn.chris.md
+- src/content/alumni/konrad.david.md
 - src/content/alumni/yu.yamashita.md
 - src/content/alumni/lee.hsin-yu.md
 - src/content/alumni/lum-kenneth-md.md
