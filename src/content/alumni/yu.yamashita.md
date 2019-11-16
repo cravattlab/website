@@ -1,6 +1,5 @@
 +++
 current_position = ["Research Scientist", "Otsuka Pharmaceutical Co., Ltd."]
-draft = true
 email = "yamashita@scripps.edu"
 first_name = "Yu"
 last_name = "Yamashita"
