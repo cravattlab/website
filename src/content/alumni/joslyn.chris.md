@@ -3,7 +3,7 @@ current_position = ["Scientist", "Chemical Biology & Proteomics", "Pfizer, San D
 email = " christopher.joslyn@pfizer.com"
 first_name = "Christopher"
 last_name = "Joslyn"
-position = "Research Technician"
+position = "Research Technician II"
 suffix = ""
 [lab]
 text = ""
