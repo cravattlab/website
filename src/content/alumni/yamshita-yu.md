@@ -4,7 +4,7 @@ draft = true
 email = "yamashita@scripps.edu"
 first_name = "Yu"
 last_name = "Yamashita"
-position = "Postdoctoral Fellow"
+position = "Visiting Scientist"
 suffix = "Ph.D."
 [lab]
 text = ""
