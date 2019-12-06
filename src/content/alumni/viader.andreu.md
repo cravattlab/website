@@ -1,5 +1,5 @@
 +++
-current_position = ["Scientist", "Lundbeck", "San Diego, CA"]
+current_position = ["Principal Scientist", "Axcella", "San Diego, CA"]
 email = "andreu@abidetx.com"
 first_name = "Andreu"
 last_name = "Viader"
