@@ -1,10 +1,12 @@
 +++
-current_position = ["Postdoctoral Fellow", "Moellering Lab", "Department of Chemistry", "University of Chicago", "Chicago, IL"]
-email = "jaewonch@scripps.edu"
+current_position = ["Emory University School of Medicine", "Department of Pharmacology and Chemical Biology", "Assistant Professor"]
+email = "jae.won.chang@emory.edu"
 first_name = "Jae Won"
 last_name = "Chang"
-suffix = "Ph.D."
 position = "Graduate Student"
+suffix = "Ph.D."
+[lab]
+text = ""
+url = ""
 
 +++
-
