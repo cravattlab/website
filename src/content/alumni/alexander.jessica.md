@@ -1,10 +1,12 @@
 +++
-current_position = ["Scientist", "Abide Therapeutics, Inc.", "San Diego, CA"]
-email = "jessica@abidetx.com"
+current_position = ["Scientist", "Lundbeck", "San Diego, CA"]
+email = "JEAX@lundbeck.com"
 first_name = "Jessica P."
 last_name = "Alexander"
-suffix = "Ph.D."
 position = "Postdoctoral Fellow"
+suffix = "Ph.D."
+[lab]
+text = ""
+url = ""
 
 +++
-
