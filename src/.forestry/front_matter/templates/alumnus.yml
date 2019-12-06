@@ -61,6 +61,7 @@ fields:
 pages:
 - src/content/alumni/chen.alice.md
 - src/content/alumni/ogasawara.daisuke.md
+- src/content/alumni/blankman.jacqueline.md
 - src/content/alumni/hoover.heather.md
 - src/content/alumni/mckinney.michele.md
 - src/content/alumni/speers.anna.md
@@ -112,7 +113,6 @@ pages:
 - src/content/alumni/komatsu.toru.md
 - src/content/alumni/kambe.tohru.md
 - src/content/alumni/dix.melissa.md
-- src/content/alumni/blankman.jacqueline.md
 - src/content/alumni/lombardi.don.md
 - src/content/alumni/li.weiwei.md
 - src/content/alumni/moesser.marc.md
