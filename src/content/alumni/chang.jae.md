@@ -6,7 +6,7 @@ last_name = "Chang"
 position = "Graduate Student"
 suffix = "Ph.D."
 [lab]
-text = ""
-url = ""
+text = "The Chang Lab"
+url = "https://med.emory.edu/departments/pharmacology-chemical-biology/labs/chang/index.html"
 
 +++
