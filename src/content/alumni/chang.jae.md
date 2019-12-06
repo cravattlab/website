@@ -1,5 +1,5 @@
 +++
-current_position = ["Emory University School of Medicine", "Department of Pharmacology and Chemical Biology", "Assistant Professor"]
+current_position = ["Assistant Professor", "Department of Pharmacology and Chemical Biology", "Emory University School of Medicine"]
 email = "jae.won.chang@emory.edu"
 first_name = "Jae Won"
 last_name = "Chang"
