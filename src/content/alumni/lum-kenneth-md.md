@@ -1,7 +1,7 @@
 +++
-current_position = ["Abide Therapeutics", "Chemical Biology Department", "Postdoctoral Scientist"]
+current_position = ["Lundbeck", "Chemical Biology Department", "Postdoctoral Scientist"]
 date = "2018-11-20T00:51:37+00:00"
-email = "lummyk@gmail.com"
+email = "KELU@lundbeck.com"
 first_name = "Kenneth "
 last_name = "Lum"
 position = "Graduate Student"
