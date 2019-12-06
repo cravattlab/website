@@ -4,7 +4,7 @@ email = "andreu@abidetx.com"
 first_name = "Andreu"
 last_name = "Viader"
 position = "Postdoctoral Fellow"
-suffix = ""
+suffix = "Ph.D."
 [lab]
 text = ""
 url = ""
