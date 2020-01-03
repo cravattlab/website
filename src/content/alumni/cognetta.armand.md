@@ -1,5 +1,5 @@
 +++
-current_position = ["Scientist", "Inzen Therapeutics", "New York, New York"]
+current_position = []
 date = "2018-11-18T00:43:22+00:00"
 email = "nettacog@gmail.com"
 first_name = "Armand"
