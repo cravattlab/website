@@ -1,5 +1,5 @@
 +++
-current_position = ["Assisstant Professor", "MGH Cancer Center", "Department of Medicine", "Harvard Medical School"]
+current_position = ["Assistant Professor", "MGH Cancer Center", "Department of Medicine", "Harvard Medical School"]
 email = "lbar-peled@mgh.harvard.edu"
 first_name = "Liron"
 last_name = "Bar-Peled"
