@@ -1,5 +1,5 @@
 +++
-current_position = ["Assistant Professor", "UCSF School of Medicine", "Department of Radiology", "San Francisco, CA"]
+current_position = ["Associate Professor", "UCSF School of Medicine", "Department of Radiology", "San Francisco, CA"]
 email = "Michael.Evans@ucsf.edu"
 first_name = "Mike"
 last_name = "Evans"
