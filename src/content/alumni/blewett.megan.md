@@ -1,10 +1,12 @@
 +++
-current_position = ["Intern", "Venrock Venture Capital", "Palo Alto, CA"]
+current_position = ["Life Science Investor", "Venrock Venture Capital", "Palo Alto, CA"]
 email = "megan.blewett@gmail.com"
 first_name = "Megan"
 last_name = "Blewett"
-suffix = "Ph.D."
 position = "Graduate Student"
+suffix = "Ph.D."
+[lab]
+text = ""
+url = ""
 
 +++
-
