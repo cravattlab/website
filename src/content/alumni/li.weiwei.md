@@ -1,10 +1,12 @@
 +++
-current_position = ["Research Fellow", "Chaitan Khosla, Advisor", "Department of Chemistry", "Stanford University", "Palo Alto, California"]
+current_position = []
 email = "liweiwei@stanford.edu"
 first_name = "Weiwei"
 last_name = "Li"
-suffix = "Ph.D."
 position = "Graduate student"
+suffix = "Ph.D."
+[lab]
+text = ""
+url = ""
 
 +++
-
