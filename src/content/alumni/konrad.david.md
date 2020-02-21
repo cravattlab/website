@@ -1,6 +1,6 @@
 +++
-current_position = []
-email = "dkonrad@scripps.edu"
+current_position = ["LMU Research Fellow", "Department of Pharmacy", "Ludwig Maximilian University of Munich"]
+email = "david.konrad@cup.lmu.de"
 first_name = "David"
 last_name = "Konrad"
 position = "Research Associate"
