@@ -1,9 +1,9 @@
 +++
 email = "kdemeester@scripps.edu"
 first_name = "Kristen"
-honorifics = []
-last_name = "Demeester"
-picture = ""
+honorifics = ["Jane Coffin Childs Fellow"]
+last_name = "DeMeester"
+picture = "images/kristen1-3-1.jpg"
 position = "Research Associate"
 suffix = "Ph.D."
 telephone = "(858) 784-8636"
