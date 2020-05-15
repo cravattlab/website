@@ -1,7 +1,7 @@
 +++
 email = "haoxinli@scripps.edu"
 first_name = "Haoxin"
-honorifics = []
+honorifics = ["Damon Runyon Cancer Research Foundation Fellow"]
 last_name = "Li"
 picture = ""
 position = "Research Associate"
