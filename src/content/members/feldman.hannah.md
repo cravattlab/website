@@ -1,7 +1,7 @@
 +++
 email = "hfeldman@scripps.edu"
 first_name = "Hannah"
-honorifics = ["Ruth L. Kirschstein National Research Service Award (NRSA) Postdoctoral Fellow (T32)"]
+honorifics = ["Lundbeck Foundation Fellow", "Ruth L. Kirschstein National Research Service Award (NRSA) Postdoctoral Fellow (T32)"]
 last_name = "Feldman"
 picture = ""
 position = "Research Associate"
