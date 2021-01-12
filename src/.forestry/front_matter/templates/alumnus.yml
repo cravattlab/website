@@ -59,6 +59,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/abbasov.mikail.md
 - src/content/alumni/adam.greg.md
 - src/content/alumni/adibekian.alexander.md
 - src/content/alumni/alexander.jessica.md
