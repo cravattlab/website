@@ -4,7 +4,7 @@ draft = true
 email = "vinograd@rockefeller.edu"
 first_name = "Ekaterina"
 last_name = "Vinogradova"
-position = "Postdoctoral Fellow"
+position = "Postdoctoral Associate"
 suffix = "Ph.D."
 [lab]
 text = "Vinogradova Lab"
