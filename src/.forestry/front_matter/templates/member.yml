@@ -55,7 +55,6 @@ fields:
     maxSize: '1'
     required: false
 pages:
-- src/content/members/abbasov.mikail.md
 - src/content/members/barbas.sabrina.md
 - src/content/members/crowley.vincent.md
 - src/content/members/demeester.kristen.md

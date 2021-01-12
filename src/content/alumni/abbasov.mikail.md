@@ -1,5 +1,5 @@
 +++
-current_position = []
+current_position = ["Assistant Professor", "Department of Chemistry and Chemical Biology", "Cornell University"]
 draft = true
 email = "mikail.abbasov@cornell.edu"
 first_name = "Mikail E."
