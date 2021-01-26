@@ -4,7 +4,7 @@ email = "taka.ichu@outlook.com"
 first_name = "Taka-Aki"
 last_name = "Ichu"
 position = "Graduate Student"
-suffix = "PhD"
+suffix = "Ph.D."
 [lab]
 text = ""
 url = ""
