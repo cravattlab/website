@@ -3,7 +3,7 @@ current_position = ["Assistant Professor", "Stanford University School of Medici
 email = "jonathanz_long@dfci.harvard.edu"
 first_name = "Jonathan"
 last_name = "Long"
-position = "Graduate student"
+position = "Graduate Student"
 suffix = "Ph.D."
 [lab]
 text = "The Long Lab"

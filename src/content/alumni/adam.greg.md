@@ -4,7 +4,7 @@ email = "gregory_adam@merck.com"
 first_name = "Greg"
 last_name = "Adam"
 suffix = "Ph.D."
-position = "Graduate student"
+position = "Graduate Student"
 
 +++
 

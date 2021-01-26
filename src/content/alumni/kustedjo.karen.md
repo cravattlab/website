@@ -3,7 +3,7 @@ current_position = ["Associate Staff Scientist", "Diversa Corporation", "San Die
 first_name = "Karen"
 last_name = "Kustedjo"
 suffix = "Ph.D."
-position = "Graduate student"
+position = "Graduate Student"
 
 +++
 

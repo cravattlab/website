@@ -4,7 +4,7 @@ email = "lombardi@scripps.edu"
 first_name = "Don"
 last_name = "Lombardi"
 suffix = "M.D."
-position = "KL2 CLinical Scholar"
+position = "KL2 Clinical Scholar"
 
 +++
 

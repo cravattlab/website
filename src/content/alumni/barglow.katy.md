@@ -4,7 +4,7 @@ email = "kbarglow@gmail.com"
 first_name = "Katy"
 last_name = "Barglow"
 suffix = "Ph.D."
-position = "Graduate student"
+position = "Graduate Student"
 
 +++
 

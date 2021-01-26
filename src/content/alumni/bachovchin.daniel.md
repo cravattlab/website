@@ -4,7 +4,7 @@ email = "bachovcd@mskcc.org"
 first_name = "Daniel"
 last_name = "Bachovchin"
 suffix = "Ph.D."
-position = "Graduate student"
+position = "Graduate Student"
 
 [lab]
   text = "The Bachovchin Lab"
