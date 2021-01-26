@@ -4,7 +4,7 @@ first_name = "Michael"
 honorifics = []
 last_name = "Won"
 picture = ""
-position = "Research Associate"
+position = "Postdoctoral Associate"
 suffix = "Ph.D."
 telephone = "(858) 784-8636"
 

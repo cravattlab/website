@@ -3,7 +3,7 @@ current_position = ["Assistant Professor", "Department of Pharmaceutical Chemist
 email = "Balyn.Zaro@ucsf.edu"
 first_name = "Balyn"
 last_name = "Zaro"
-position = "Research Associate"
+position = "Postdoctoral Associate"
 suffix = "Ph.D."
 [lab]
 text = "The Zaro Lab"

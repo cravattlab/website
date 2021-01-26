@@ -3,7 +3,7 @@ current_position = ["LMU Research Fellow", "Department of Pharmacy", "Ludwig Max
 email = "david.konrad@cup.lmu.de"
 first_name = "David"
 last_name = "Konrad"
-position = "Research Associate"
+position = "Postdoctoral Associate"
 suffix = "Ph.D."
 [lab]
 text = ""

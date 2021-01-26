@@ -4,7 +4,7 @@ email = "dan.hermanson@gmail.com"
 first_name = "Daniel"
 last_name = "Hermanson"
 suffix = "Ph.D."
-position = "Research Associate"
+position = "Postdoctoral Associate"
 
 +++
 

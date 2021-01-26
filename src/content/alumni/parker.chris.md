@@ -4,7 +4,7 @@ email = "cparker@scripps.edu"
 first_name = "Christopher"
 last_name = "Parker"
 suffix = "Ph.D."
-position = "Research Associate"
+position = "Postdoctoral Associate"
 
 [lab]
   text = "The Parker Lab"

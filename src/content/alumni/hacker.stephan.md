@@ -4,7 +4,7 @@ email = "stephan.m.hacker@tum.de"
 first_name = "Stephan"
 last_name = "Hacker"
 suffix = "Ph.D."
-position = "Research Associate"
+position = "Postdoctoral Associate"
 
 +++
 

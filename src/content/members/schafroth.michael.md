@@ -5,7 +5,7 @@ first_name = "Michael"
 last_name = "Schafroth"
 suffix = ""
 picture = "images/people/schafroth.jpg"
-position = "Research Associate"
+position = "Postdoctoral Associate"
 telephone = "858-784-8636"
 
 +++

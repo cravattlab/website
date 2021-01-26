@@ -3,7 +3,7 @@ current_position = ["Associate Professor", "Department of Chemistry", "Scripps R
 email = "aadibeki@scripps.edu"
 first_name = "Alexander"
 last_name = "Adibekian"
-position = "Research Associate"
+position = "Postdoctoral Associate"
 suffix = "Ph.D."
 [lab]
 text = "The Adibekian Lab"
