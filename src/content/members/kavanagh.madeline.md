@@ -5,7 +5,7 @@ first_name = "Madeline"
 last_name = "Kavanagh"
 suffix = "Ph.D."
 picture = "images/people/kavanagh.jpg"
-position = "Postdoctoral Associate"
+position = "Postdoctoral Fellow"
 telephone = "(858) 784-8636"
 
 +++

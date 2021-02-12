@@ -5,7 +5,7 @@ first_name = "Vincent"
 last_name = "Crowley"
 suffix = "Ph.D."
 picture = "images/people/vince.jpeg"
-position = "Postdoctoral Associate"
+position = "Postdoctoral Fellow"
 telephone = "(858) 784-8636"
 
 +++
