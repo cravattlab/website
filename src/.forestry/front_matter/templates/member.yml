@@ -56,7 +56,6 @@ fields:
     required: false
 pages:
 - src/content/members/barbas.sabrina.md
-- src/content/members/crowley.vincent.md
 - src/content/members/demeester.kristen.md
 - src/content/members/dix.missy.md
 - src/content/members/feldman.hannah.md
