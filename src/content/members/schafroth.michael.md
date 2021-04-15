@@ -1,12 +1,11 @@
 +++
 email = "schafrmi@scripps.edu"
-honorifics = ["Swiss National Science Foundation Early Postdoc, Mobility Fellowship"]
 first_name = "Michael"
+honorifics = ["Swiss National Science Foundation Early Postdoc, Mobility Fellowship"]
 last_name = "Schafroth"
-suffix = ""
 picture = "images/people/schafroth.jpg"
 position = "Postdoctoral Fellow"
+suffix = "Ph.D."
 telephone = "858-784-8636"
 
 +++
-
