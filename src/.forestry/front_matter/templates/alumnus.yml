@@ -60,6 +60,7 @@ fields:
   default: ''
 pages:
 - src/content/alumni/MBracey.md
+- src/content/alumni/XZhang.md
 - src/content/alumni/abbasov.mikail.md
 - src/content/alumni/adam.greg.md
 - src/content/alumni/adibekian.alexander.md
