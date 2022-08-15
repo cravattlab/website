@@ -2,7 +2,7 @@
 draft = true
 email = "eye@scripps.edu"
 first_name = "Elva"
-honorifics = []
+honorifics = ["Skaggs Fellow"]
 last_name = "Ye"
 picture = ""
 position = "Graduate Student"
