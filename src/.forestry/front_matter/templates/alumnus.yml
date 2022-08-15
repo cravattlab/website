@@ -60,6 +60,7 @@ fields:
   default: ''
 pages:
 - src/content/alumni/Jing.Hui.md.md
+- src/content/alumni/Kemper.Esther.md
 - src/content/alumni/MBracey.md
 - src/content/alumni/Masuda.Kim.md
 - src/content/alumni/XZhang.md
