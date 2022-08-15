@@ -59,6 +59,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- src/content/alumni/Germain.Jason.md.md
 - src/content/alumni/Jing.Hui.md.md
 - src/content/alumni/Kemper.Esther.md
 - src/content/alumni/Lazear.Michael.md.md
