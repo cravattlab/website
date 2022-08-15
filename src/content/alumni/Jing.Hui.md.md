@@ -1,5 +1,5 @@
 +++
-current_position = []
+current_position = ["Abbvie"]
 draft = true
 email = "hui.jing@abbvie.com"
 first_name = "Hui"

@@ -1,5 +1,5 @@
 +++
-current_position = []
+current_position = ["Belharra Therapeutics"]
 draft = true
 email = "ekemper@belharratx.com"
 first_name = "Esther "
