@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "yxiong@scripps.edu"
 first_name = "Yijun"
 honorifics = [""]
